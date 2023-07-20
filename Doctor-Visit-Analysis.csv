@@ -1,0 +1,1033 @@
+SI.NO,Date,Appointment ID,Patient ID,Gender,Age,Salary_Income,Martial status,Appointment Reason,Illness,Blood Pressure,Diabetes,Reduced,Health,Private,Freepoor,Freerepat,Nchronic,Ichronicc,Height (cm),Weight (kgs),Diagnosis,Smoking Status,Alcohol Consumption,Wait time (mins),Visit Duration,Payment Method,Insurance coverage,Visits,Satisfication rating
+1,8/20/2023,236781,6722,Female,37,0.55,Married,Follow up,1,120/80,FALSE,4,1,Yes,No,Yes,No,No,160,65,Hypertension,Non-smoker,Regular,28,41,Credit card,No,4,8
+2,7/1/2023,236782,7587,Female,62,0.45,Not married,Check up,1,140/90,FALSE,2,1,Yes,No,Yes,No,No,155,66,Diabetes,Smoker,Never,24,22,Cash,No,6,6
+3,7/28/2023,236783,2640,Male,64,0.9,Married,Follow up,3,110/70,FALSE,0,0,No,Yes,No,No,No,144,87,Common cold,Non-smoker,Occasional,20,22,Credit card,No,4,9
+4,7/27/2023,236784,9538,Male,35,0.15,Not married,Check up,1,130/85,TRUE,0,0,No,No,No,No,No,164,54,Arthritis,Smoker,Regular,1,19,Insurance,No,4,6
+5,7/2/2023,236785,5612,Male,30,0.45,Married,Follow up,2,140/90,FALSE,5,1,No,No,No,Yes,No,177,56,Allergies,Non-smoker,Regular,24,47,Debit card,Yes,9,6
+6,7/14/2023,236786,5438,Female,36,0.35,Married,Check up,5,120/80,FALSE,1,9,No,No,No,Yes,No,156,87,Headache,Smoker,Occasional,29,24,Cash,No,3,8
+7,7/1/2023,236787,7952,Female,46,0.55,Not married,Check up,4,130/85,FALSE,0,2,No,No,No,No,No,158,74,Fever,Non-smoker,Never,7,27,Credit card,Yes,4,8
+8,7/15/2023,236788,3349,Female,54,0.15,Not married,Follow up,3,140/90,FALSE,0,6,No,Yes,No,No,No,147,72,Allergies,Smoker,Regular,22,26,Cash,No,2,9
+9,8/23/2023,236789,7868,Female,23,0.65,Married,Check up,2,120/80,FALSE,0,5,Yes,No,Yes,No,No,173,53,Headache,Smoker,Occasional,19,46,Debit card,No,2,10
+10,7/8/2023,236790,9283,Male,65,0.15,Married,Check up,1,110/70,TRUE,0,0,Yes,No,Yes,No,No,180,51,Diabetes,Non-smoker,Never,17,37,Insurance,No,3,3
+11,7/6/2023,236791,9341,Male,40,0.45,Married,Follow up,1,140/90,FALSE,0,0,No,No,No,No,No,144,59,Common cold,Non-smoker,Regular,27,14,Cash,Yes,6,4
+12,7/18/2023,236792,4617,Female,59,0.25,Not married,Check up,2,120/80,FALSE,0,2,No,No,No,No,No,140,60,Allergies,Smoker,Occasional,20,40,Debit card,No,3,1
+13,7/16/2023,236793,7822,Female,43,0.55,Not married,Check up,3,130/85,FALSE,13,1,No,No,No,Yes,No,173,70,Fever,Smoker,Regular,3,37,Credit card,No,2,1
+14,8/14/2023,236794,8887,Female,35,0.45,Not married,Follow up,4,110/70,FALSE,7,6,No,No,No,Yes,No,155,77,Headache,Non-smoker,Never,21,19,Cash,Yes,3,7
+15,7/26/2023,236795,5291,Female,61,0.25,Married,Follow up,3,120/80,TRUE,1,0,Yes,No,Yes,Yes,No,156,87,Diabetes,Smoker,Regular,3,30,Insurance,Yes,3,2
+16,8/17/2023,236796,2829,Male,38,0.55,Married,Check up,2,120/80,FALSE,0,7,No,Yes,No,Yes,No,123,55,Common Cold,Non-smoker,Regular,28,28,Credit card,Yes,6,8
+17,7/23/2023,236797,7011,Female,51,0.45,Not married,Follow up,1,140/90,FALSE,0,5,Yes,Yes,Yes,No,No,134,67,Influenza (Flu),Smoker,Never,6,29,Cash,Yes,6,3
+18,8/14/2023,236798,9826,Male,63,0.45,Married,Check up,1,110/70,FALSE,1,0,No,No,No,No,No,113,56,Pneumonia,Non-smoker,Occasional,12,47,Credit card,No,8,5
+19,8/14/2023,236799,2273,Male,23,0.45,Not married,Follow up,1,130/85,TRUE,0,0,Yes,No,Yes,No,No,145,45,Bronchitis,Smoker,Regular,24,50,Insurance,No,1,9
+20,8/3/2023,236800,4496,Female,33,0.35,Married,Follow up,1,140/90,FALSE,0,0,Yes,No,Yes,No,No,132,87,Urinary Tract Infection,Non-smoker,Regular,17,26,Debit card,No,8,9
+21,7/19/2023,236801,8514,Male,53,0.45,Married,Follow up,1,120/80,FALSE,3,0,Yes,No,Yes,No,Yes,145,99,Gastroenteritis,Smoker,Occasional,2,29,Cash,No,2,10
+22,8/13/2023,236802,5991,Female,35,0.35,Not married,Check up,1,130/85,FALSE,0,1,Yes,No,Yes,No,Yes,144,76,Gastric Ulcer,Non-smoker,Never,23,13,Credit card,Yes,7,8
+23,8/26/2023,236803,2455,Male,33,0.45,Not married,Check up,2,140/90,FALSE,2,0,Yes,No,Yes,Yes,No,133,77,Hyperlipidemia ,Smoker,Regular,6,20,Cash,No,9,10
+24,8/25/2023,236804,6274,Male,57,0.55,Married,Follow up,2,120/80,FALSE,14,2,No,Yes,No,Yes,No,120,45,Diabetes Mellitus,Smoker,Occasional,28,45,Debit card,No,6,1
+25,8/5/2023,236805,4013,Female,33,0.25,Married,Check up,2,110/70,TRUE,14,11,No,Yes,No,No,No,129,81,Hyperlipidemia ,Non-smoker,Never,22,28,Insurance,No,1,4
+26,7/28/2023,236806,8502,Male,50,0.15,Married,Follow up,1,140/90,FALSE,2,6,No,No,No,No,No,130,92,Osteoarthritis,Non-smoker,Regular,29,13,Cash,No,8,8
+27,8/18/2023,236807,4475,Male,49,0.55,Not married,Follow up,2,120/80,FALSE,5,6,No,No,No,No,Yes,156,82,Common Cold ,Smoker,Occasional,21,46,Debit card,No,1,10
+28,7/15/2023,236808,5580,Male,58,0,Not married,Check up,1,130/85,FALSE,0,0,No,No,No,No,No,147,76,Influenza (Flu),Smoker,Regular,5,36,Credit card,Yes,9,7
+29,8/22/2023,236809,5311,Female,64,0.45,Not married,Check up,1,110/70,FALSE,0,1,No,No,No,Yes,Yes,177,86,Pneumonia,Non-smoker,Never,18,10,Cash,Yes,7,3
+30,8/28/2023,236810,1434,Female,50,0.25,Married,Check up,1,120/80,TRUE,0,0,Yes,Yes,Yes,No,No,188,88,Bronchitis,Smoker,Regular,1,47,Insurance,Yes,2,5
+31,7/9/2023,236811,2737,Female,47,0.35,Married,Check up,1,120/80,FALSE,2,0,No,No,No,Yes,Yes,156,83,Urinary Tract Infection (UTI),Non-smoker,Regular,13,18,Credit card,No,7,4
+32,7/26/2023,236812,1099,Male,65,0.65,Not married,Follow up,1,140/90,FALSE,1,1,Yes,Yes,Yes,No,Yes,166,81,Gastroenteritis,Smoker,Never,4,15,Cash,No,6,10
+33,7/10/2023,236813,5946,Male,49,0.45,Married,Follow up,1,110/70,FALSE,14,2,No,No,No,Yes,Yes,65,92,Gastric Ulcer,Non-smoker,Occasional,20,36,Credit card,Yes,4,3
+34,7/22/2023,236814,2947,Female,39,0.06,Not married,Follow up,1,130/85,TRUE,0,0,No,Yes,No,Yes,Yes,167,99,Gastroenteritis,Smoker,Regular,27,35,Insurance,Yes,1,2
+35,8/3/2023,236815,5142,Female,44,0.45,Married,Check up,4,140/90,FALSE,0,0,Yes,Yes,Yes,Yes,Yes,156,43,Diabetes Mellitus,Non-smoker,Regular,13,22,Debit card,No,8,7
+36,7/11/2023,236816,3627,Female,46,0.23,Married,Follow up,1,120/80,FALSE,4,0,No,Yes,No,Yes,No,166,64,Hyperlipidemia ,Smoker,Occasional,11,28,Cash,No,4,5
+37,8/9/2023,236817,1470,Male,46,1.1,Not married,Follow up,2,130/85,FALSE,0,1,Yes,Yes,Yes,Yes,No,167,72,Osteoarthritis,Non-smoker,Never,25,41,Credit card,No,8,6
+38,7/31/2023,236818,8180,Male,38,0.35,Not married,Check up,1,140/90,FALSE,0,0,Yes,Yes,Yes,No,No,154,88,Rheumatoid Arthritis,Smoker,Regular,12,29,Cash,Yes,1,10
+39,8/7/2023,236819,3728,Male,47,0.65,Married,Follow up,2,120/80,FALSE,0,0,Yes,No,Yes,No,No,143,43,Asthma,Smoker,Occasional,9,12,Debit card,Yes,4,4
+40,7/22/2023,236820,9523,Female,63,0.75,Married,Check up,1,110/70,TRUE,0,1,No,No,No,No,No,142,65,Allergic Rhinitis,Non-smoker,Never,5,32,Insurance,No,3,8
+41,8/20/2023,236821,9144,Female,31,0.35,Married,Follow up,1,140/90,FALSE,2,0,Yes,No,Yes,No,No,166,86,Migraine Headache,Non-smoker,Regular,15,47,Cash,Yes,1,1
+42,7/31/2023,236822,8793,Male,63,0.55,Not married,Check up,4,120/80,FALSE,5,2,No,No,No,No,Yes,145,99,Depression,Smoker,Occasional,23,20,Debit card,No,2,8
+43,7/15/2023,236823,2452,Male,59,0.25,Not married,Follow up,1,130/85,FALSE,0,0,No,No,No,No,No,167,100,Anxiety Disorder,Smoker,Regular,19,37,Credit card,Yes,3,6
+44,8/3/2023,236824,7747,Female,27,0.55,Not married,Check up,2,110/70,FALSE,0,1,No,No,No,Yes,Yes,177,40,Gastroesophageal Reflux Disease,Non-smoker,Never,22,21,Cash,No,1,8
+45,7/31/2023,236825,9627,Female,60,0.55,Married,Follow up,2,120/80,TRUE,3,0,No,Yes,No,No,No,178,70,Peptic Ulcer Disease,Smoker,Regular,5,27,Insurance,Yes,3,10
+46,7/14/2023,236826,7038,Male,29,0.25,Married,Follow up,1,120/80,FALSE,0,1,No,No,No,Yes,No,167,78,Coronary Artery Disease,Non-smoker,Regular,17,25,Credit card,No,4,6
+47,7/31/2023,236827,7175,Male,49,0.15,Not married,Follow up,1,140/90,FALSE,4,2,No,Yes,No,No,Yes,167,79,Chronic Obstructive Pulmonary Disease,Smoker,Never,8,32,Cash,Yes,3,10
+48,8/29/2023,236828,7721,Male,65,0.25,Married,Check up,2,110/70,FALSE,7,0,No,No,No,No,No,155,75,Iron-deficiency Anemia,Non-smoker,Occasional,7,38,Credit card,No,9,2
+49,8/15/2023,236829,8819,Female,62,0.65,Not married,Check up,3,130/85,TRUE,0,0,No,No,No,Yes,Yes,157,65,Hypothyroidism,Smoker,Regular,25,43,Insurance,Yes,8,4
+50,8/17/2023,236830,2543,Female,31,0.15,Married,Check up,1,140/90,FALSE,0,4,No,Yes,No,No,Yes,145,65,Hyperthyroidism,Non-smoker,Regular,22,48,Debit card,No,6,5
+51,8/16/2023,236831,6680,Female,50,0.55,Married,Check up,1,120/80,FALSE,0,1,Yes,No,Yes,Yes,Yes,190,66,Urinary Stones ,Smoker,Occasional,20,25,Cash,Yes,7,10
+52,7/17/2023,236832,5901,Male,40,0.55,Not married,Follow up,1,130/85,FALSE,0,0,Yes,Yes,Yes,Yes,No,188,87,Gout,Non-smoker,Never,18,30,Credit card,No,3,7
+53,8/30/2023,236833,8809,Male,56,0.55,Not married,Check up,2,140/90,FALSE,0,0,No,Yes,No,Yes,Yes,187,54,Chronic Kidney Disease,Smoker,Regular,5,22,Cash,Yes,8,6
+54,7/31/2023,236834,3048,Male,29,0.35,Married,Follow up,3,120/80,FALSE,0,0,Yes,Yes,Yes,No,No,186,56,Appendicitis,Smoker,Occasional,14,15,Debit card,No,2,2
+55,7/16/2023,236835,2823,Female,48,0.55,Married,Check up,4,110/70,TRUE,0,1,No,No,No,Yes,No,176,87,Acute Myocardial Infarction ,Non-smoker,Never,7,49,Insurance,No,2,6
+56,8/2/2023,236836,8009,Female,49,0.15,Married,Follow up,3,140/90,FALSE,1,0,No,Yes,No,No,No,166,74,Inflammatory Bowel Disease,Non-smoker,Regular,3,35,Cash,Yes,9,9
+57,7/3/2023,236837,6144,Female,48,0.15,Not married,Check up,3,120/80,FALSE,0,0,No,No,No,No,No,165,72,Otitis Media ,Smoker,Occasional,11,27,Debit card,Yes,5,9
+58,8/22/2023,236838,9570,Female,29,0.45,Not married,Check up,2,130/85,FALSE,2,0,Yes,No,Yes,No,No,155,53,Conjunctivitis ,Smoker,Regular,30,21,Credit card,No,8,8
+59,7/21/2023,236839,2368,Male,37,0.25,Not married,Follow up,1,110/70,FALSE,0,0,No,No,No,No,No,160,51,Sinusitis,Non-smoker,Never,25,30,Cash,Yes,6,3
+60,7/4/2023,236840,2626,Male,55,0.15,Married,Check up,2,120/80,TRUE,0,0,No,No,No,No,No,155,59,Gastroesophageal Reflux Disease,Smoker,Regular,18,42,Insurance,Yes,6,6
+61,8/11/2023,236841,4691,Female,44,0.55,Married,Check up,2,120/80,FALSE,0,5,Yes,No,Yes,No,No,144,60,Peptic Ulcer Disease,Non-smoker,Regular,24,18,Credit card,Yes,2,6
+62,7/20/2023,236842,9923,Female,42,0.45,Not married,Follow up,5,140/90,FALSE,2,5,No,No,No,No,No,164,70,Eczema ,Smoker,Never,24,33,Cash,Yes,6,5
+63,7/15/2023,236843,6563,Female,46,0.45,Married,Check up,2,110/70,FALSE,1,1,Yes,No,Yes,No,Yes,177,77,Psoriasis,Non-smoker,Occasional,9,29,Credit card,No,9,4
+64,7/5/2023,236844,5364,Female,35,0.65,Not married,Check up,2,130/85,TRUE,1,0,Yes,No,Yes,No,Yes,156,87,Hypothyroidism,Smoker,Regular,15,37,Insurance,No,8,9
+65,8/7/2023,236845,7999,Male,48,0.45,Married,Follow up,2,140/90,FALSE,0,0,No,No,No,No,No,158,55,Hyperthyroidism,Non-smoker,Regular,7,24,Debit card,No,2,3
+66,7/19/2023,236846,2347,Female,37,0.01,Married,Follow up,4,120/80,FALSE,0,0,Yes,No,Yes,Yes,Yes,147,67,Anemia,Smoker,Occasional,5,32,Cash,Yes,2,5
+67,8/1/2023,236847,1190,Male,29,0.55,Not married,Check up,1,130/85,FALSE,0,0,Yes,Yes,Yes,No,No,173,56,Gastrointestinal Bleeding,Non-smoker,Never,28,46,Credit card,No,3,8
+68,7/2/2023,236848,9356,Male,62,0.45,Not married,Follow up,3,140/90,FALSE,0,0,No,No,No,No,No,180,45,Celiac Disease,Smoker,Regular,15,46,Cash,Yes,6,9
+69,8/18/2023,236849,1676,Female,57,0.55,Married,Check up,2,120/80,FALSE,0,2,No,No,No,No,No,144,87,Irritable Bowel Syndrome,Smoker,Occasional,29,18,Debit card,Yes,5,10
+70,7/2/2023,236850,6507,Male,55,0.35,Married,Follow up,1,110/70,TRUE,0,2,No,No,No,No,Yes,140,99,Chronic Fatigue Syndrome,Non-smoker,Never,15,22,Insurance,No,9,4
+71,7/2/2023,236851,2672,Female,63,0.15,Married,Follow up,1,140/90,FALSE,0,2,Yes,No,Yes,Yes,No,173,76,Fibromyalgia,Non-smoker,Regular,10,27,Cash,Yes,1,4
+72,8/13/2023,236852,5096,Male,32,0.55,Not married,Follow up,3,120/80,FALSE,6,1,No,Yes,No,No,No,155,77,Urinary Incontinence,Smoker,Occasional,11,32,Debit card,No,2,7
+73,8/24/2023,236853,5725,Male,30,0.25,Not married,Check up,4,130/85,FALSE,0,1,No,No,No,No,Yes,156,45,Endometriosis,Smoker,Regular,28,23,Credit card,Yes,3,1
+74,8/17/2023,236854,8205,Female,55,0.35,Not married,Check up,3,110/70,FALSE,0,0,Yes,No,Yes,No,No,123,81,Polycystic Ovary Syndrome,Non-smoker,Never,4,22,Cash,Yes,7,4
+75,8/10/2023,236855,9022,Male,38,0.06,Married,Follow up,2,120/80,TRUE,0,12,No,No,No,No,Yes,134,92,Benign Prostatic Hyperplasia,Smoker,Regular,4,16,Insurance,No,2,9
+76,7/17/2023,236856,8137,Male,32,0.45,Married,Check up,3,120/80,FALSE,3,4,Yes,No,Yes,No,Yes,113,82,Meningitis,Non-smoker,Regular,12,23,Credit card,No,9,10
+77,7/12/2023,236857,5806,Male,37,0.55,Not married,Follow up,2,140/90,FALSE,2,0,No,No,No,No,No,145,76,Epilepsy,Smoker,Never,4,48,Cash,Yes,2,3
+78,8/17/2023,236858,6304,Female,33,0.35,Married,Follow up,1,110/70,FALSE,14,1,No,No,No,No,Yes,132,86,Stroke,Non-smoker,Occasional,11,25,Credit card,No,9,9
+79,8/8/2023,236859,5772,Female,53,0.75,Not married,Check up,1,130/85,TRUE,8,1,No,No,No,Yes,Yes,145,88,Chronic Liver Disease,Smoker,Regular,18,42,Insurance,No,7,10
+80,8/22/2023,236860,1988,Female,48,0.15,Married,Check up,1,140/90,FALSE,3,0,No,Yes,No,Yes,No,144,83,Cirrhosis,Non-smoker,Regular,13,16,Debit card,No,3,8
+81,7/2/2023,236861,8754,Male,42,0.45,Married,Check up,2,120/80,FALSE,14,6,Yes,Yes,Yes,No,No,133,81,Chronic Pancreatitis,Smoker,Occasional,22,32,Cash,No,1,2
+82,7/21/2023,236862,7330,Male,31,0.15,Not married,Check up,2,130/85,FALSE,0,1,Yes,No,Yes,No,No,120,92,Gallstones,Non-smoker,Never,3,14,Credit card,No,6,7
+83,7/23/2023,236863,6098,Female,56,0.25,Not married,Follow up,1,140/90,FALSE,0,9,No,No,No,No,Yes,129,99,Diverticulitis,Smoker,Regular,28,36,Cash,No,7,5
+84,7/25/2023,236864,2245,Female,25,0.35,Married,Follow up,5,120/80,FALSE,14,3,No,No,No,No,No,130,43,Deep Vein Thrombosis,Smoker,Occasional,17,30,Debit card,Yes,5,1
+85,7/21/2023,236865,7667,Female,62,0.35,Married,Follow up,2,110/70,TRUE,1,0,No,No,No,No,No,156,64,Pulmonary Embolism,Non-smoker,Never,25,39,Insurance,Yes,4,8
+86,8/8/2023,236866,8597,Male,30,0.55,Married,Check up,1,140/90,FALSE,6,0,Yes,No,Yes,No,Yes,147,72,Hypertensive Heart Disease,Non-smoker,Regular,4,20,Cash,Yes,1,5
+87,8/29/2023,236867,2760,Male,21,0.35,Not married,Follow up,1,120/80,FALSE,0,0,No,No,No,Yes,No,177,88,Hypertension,Smoker,Occasional,27,28,Debit card,Yes,8,1
+88,7/6/2023,236868,8265,Male,45,0.65,Not married,Follow up,2,130/85,FALSE,3,2,Yes,Yes,Yes,Yes,Yes,188,43,Diabetes,Smoker,Regular,3,28,Credit card,No,1,8
+89,7/18/2023,236869,8195,Female,27,0.25,Not married,Check up,3,110/70,FALSE,2,3,No,Yes,No,No,No,156,65,Common cold,Non-smoker,Never,8,20,Cash,No,2,2
+90,7/6/2023,236870,8620,Female,28,0.55,Married,Follow up,3,120/80,TRUE,1,2,Yes,No,Yes,No,No,166,86,Arthritis,Smoker,Regular,16,27,Insurance,Yes,4,2
+91,7/30/2023,236871,2787,Male,43,0.35,Married,Check up,2,120/80,FALSE,0,2,yes,No,yes,No,No,65,99,Allergies,Non-smoker,Regular,18,47,Credit card,No,2,2
+92,7/29/2023,236872,5948,Male,30,0.45,Not married,Follow up,2,140/90,FALSE,2,2,No,No,No,No,No,167,100,Headache,Smoker,Never,8,13,Cash,Yes,3,3
+93,7/9/2023,236873,6270,Female,51,0.45,Married,Check up,1,110/70,FALSE,14,0,No,No,No,Yes,Yes,156,40,Fever,Non-smoker,Occasional,6,31,Credit card,Yes,8,2
+94,7/29/2023,236874,5239,Female,59,0.65,Not married,Follow up,3,130/85,TRUE,0,0,Yes,Yes,Yes,No,Yes,166,70,Allergies,Smoker,Regular,30,31,Insurance,Yes,1,4
+95,8/27/2023,236875,9958,Male,52,0.65,Married,Check up,2,140/90,FALSE,0,0,Yes,No,Yes,Yes,No,167,78,Headache,Non-smoker,Regular,5,45,Debit card,Yes,2,7
+96,8/13/2023,236876,6218,Male,33,0.45,Married,Follow up,1,120/80,FALSE,14,3,No,Yes,No,No,No,154,79,Diabetes,Smoker,Occasional,24,33,Cash,Yes,8,8
+97,8/20/2023,236877,5915,Male,47,0.45,Not married,Follow up,2,130/85,FALSE,0,0,Yes,No,Yes,Yes,No,143,75,Common cold,Non-smoker,Never,9,19,Credit card,No,1,5
+98,8/17/2023,236878,5461,Female,60,0.45,Not married,Follow up,1,140/90,FALSE,0,2,No,Yes,No,Yes,Yes,142,65,Allergies,Smoker,Regular,3,32,Cash,Yes,8,9
+99,7/19/2023,236879,8620,Female,34,0.55,Married,Check up,3,120/80,FALSE,0,2,Yes,Yes,Yes,Yes,No,166,65,Fever,Smoker,Occasional,11,32,Debit card,Yes,3,10
+100,7/8/2023,236880,6864,Female,22,0.55,Married,Check up,3,110/70,TRUE,0,2,Yes,Yes,Yes,Yes,Yes,145,66,Headache,Non-smoker,Never,28,26,Insurance,No,3,8
+101,7/12/2023,236881,7588,Male,58,1.1,Married,Check up,2,140/90,FALSE,7,0,Yes,Yes,Yes,Yes,No,167,87,Diabetes,Non-smoker,Regular,1,37,Cash,Yes,3,3
+102,7/11/2023,236882,3523,Male,44,0.65,Not married,Check up,2,120/80,FALSE,0,0,No,Yes,No,No,Yes,177,54,Common Cold,Smoker,Occasional,29,17,Debit card,No,5,3
+103,8/5/2023,236883,4239,Male,44,0.55,Not married,Follow up,2,130/85,FALSE,5,0,No,No,No,No,yes,178,56,Influenza (Flu),Smoker,Regular,28,10,Credit card,No,9,6
+104,7/4/2023,236884,3812,Female,55,0.45,Not married,Check up,0,110/70,FALSE,0,0,No,No,No,No,No,167,87,Pneumonia,Non-smoker,Never,17,23,Cash,No,6,6
+105,8/29/2023,236885,1531,Female,65,0.25,Married,Follow up,0,120/80,TRUE,0,1,No,No,No,No,No,167,74,Bronchitis,Smoker,Regular,9,45,Insurance,No,4,4
+106,8/3/2023,236886,1695,Female,22,0.35,Married,Check up,0,120/80,FALSE,0,6,No,No,No,No,Yes,155,72,Urinary Tract Infection,Non-smoker,Regular,28,46,Credit card,Yes,5,9
+107,7/28/2023,236887,2367,Female,48,0.45,Not married,Follow up,0,140/90,FALSE,0,0,No,No,No,No,Yes,157,53,Gastroenteritis,Smoker,Never,16,29,Cash,No,9,10
+108,7/3/2023,236888,2787,Male,26,0.65,Married,Check up,0,110/70,FALSE,0,0,Yes,No,Yes,Yes,No,145,51,Gastric Ulcer,Non-smoker,Occasional,8,39,Credit card,Yes,3,6
+109,7/4/2023,236889,5818,Male,50,0.45,Not married,Check up,0,130/85,TRUE,0,1,Yes,Yes,Yes,No,Yes,190,59,Hyperlipidemia ,Smoker,Regular,18,19,Insurance,No,7,1
+110,7/6/2023,236890,6408,Female,61,0.65,Married,Follow up,0,140/90,FALSE,0,0,No,No,No,Yes,No,188,60,Diabetes Mellitus,Non-smoker,Regular,5,21,Debit card,No,6,2
+111,7/11/2023,236891,1698,Female,54,0.55,Married,Check up,0,120/80,FALSE,1,0,No,Yes,No,No,Yes,187,70,Hyperlipidemia ,Smoker,Occasional,11,32,Cash,Yes,5,2
+112,7/24/2023,236892,6853,Female,40,0.55,Not married,Check up,0,130/85,FALSE,0,0,No,No,No,No,Yes,186,77,Osteoarthritis,Non-smoker,Never,19,14,Credit card,Yes,1,2
+113,8/4/2023,236893,3780,Female,41,0.65,Not married,Follow up,0,140/90,FALSE,0,0,No,No,No,Yes,Yes,176,87,Common Cold ,Smoker,Regular,26,11,Cash,No,7,1
+114,8/16/2023,236894,4761,Male,23,0.45,Married,Check up,0,120/80,FALSE,0,0,Yes,Yes,Yes,No,No,166,55,Influenza (Flu),Smoker,Occasional,27,16,Debit card,No,1,10
+115,8/11/2023,236895,6325,Female,65,0,Married,Check up,1,110/70,TRUE,14,1,No,No,No,Yes,No,165,67,Pneumonia,Non-smoker,Never,15,42,Insurance,No,4,10
+116,7/24/2023,236896,8693,Male,52,0.65,Married,Follow up,4,140/90,FALSE,0,1,Yes,Yes,Yes,Yes,No,155,56,Bronchitis,Non-smoker,Regular,19,21,Cash,No,5,6
+117,8/30/2023,236897,3935,Male,37,0.45,Not married,Follow up,2,120/80,FALSE,0,0,No,Yes,No,Yes,No,160,45,Urinary Tract Infection (UTI),Smoker,Occasional,28,21,Debit card,No,8,9
+118,7/10/2023,236898,9157,Female,65,0.45,Not married,Check up,1,130/85,FALSE,0,5,Yes,Yes,Yes,No,No,155,87,Gastroenteritis,Smoker,Regular,17,12,Credit card,No,9,1
+119,7/28/2023,236899,6574,Male,27,1.1,Not married,Follow up,2,110/70,FALSE,7,1,Yes,No,Yes,Yes,No,144,99,Gastric Ulcer,Non-smoker,Never,24,23,Cash,Yes,4,9
+120,8/27/2023,236900,4138,Female,38,0.65,Married,Check up,1,120/80,TRUE,0,2,Yes,Yes,Yes,No,Yes,164,76,Gastroenteritis,Smoker,Regular,30,33,Insurance,No,6,2
+121,8/3/2023,236901,9137,Male,44,0.35,Married,Follow up,4,120/80,FALSE,0,3,Yes,No,Yes,No,Yes,177,77,Diabetes Mellitus,Non-smoker,Regular,30,50,Credit card,Yes,8,7
+122,7/3/2023,236902,6505,Male,31,0.75,Not married,Follow up,5,140/90,FALSE,0,6,Yes,No,Yes,No,No,156,45,Hyperlipidemia ,Smoker,Never,22,48,Cash,No,3,4
+123,7/26/2023,236903,2578,Female,28,0.15,Married,Follow up,2,110/70,FALSE,5,2,No,No,No,No,No,158,81,Osteoarthritis,Non-smoker,Occasional,13,43,Credit card,No,4,3
+124,8/29/2023,236904,3741,Male,52,0.75,Not married,Check up,4,130/85,TRUE,0,3,No,No,No,No,No,147,92,Rheumatoid Arthritis,Smoker,Regular,12,25,Insurance,Yes,9,7
+125,8/2/2023,236905,7090,Male,58,0.65,Married,Check up,3,140/90,FALSE,0,2,No,No,No,No,No,173,82,Asthma,Non-smoker,Regular,27,17,Debit card,No,4,10
+126,8/17/2023,236906,2108,Male,44,0.75,Married,Follow up,3,120/80,FALSE,6,3,No,No,No,No,Yes,180,76,Allergic Rhinitis,Smoker,Occasional,18,15,Cash,No,5,9
+127,8/14/2023,236907,6157,Female,64,0.65,Not married,Check up,1,130/85,FALSE,0,5,No,No,No,No,No,144,86,Migraine Headache,Non-smoker,Never,24,31,Credit card,Yes,6,5
+128,7/8/2023,236908,6371,Female,64,0.65,Not married,Follow up,3,140/90,FALSE,0,0,No,No,No,No,Yes,140,88,Depression,Smoker,Regular,12,31,Cash,No,3,8
+129,8/17/2023,236909,3522,Female,23,0.55,Married,Follow up,1,120/80,FALSE,0,1,Yes,No,Yes,No,No,173,83,Anxiety Disorder,Smoker,Occasional,26,11,Debit card,No,2,10
+130,8/9/2023,236910,5773,Male,42,0.25,Married,Check up,1,110/70,TRUE,0,10,No,No,No,Yes,Yes,155,81,Gastroesophageal Reflux Disease,Non-smoker,Never,16,46,Insurance,No,5,4
+131,8/24/2023,236911,9306,Male,21,0.55,Married,Check up,2,140/90,FALSE,0,6,Yes,Yes,Yes,No,Yes,156,92,Peptic Ulcer Disease,Non-smoker,Regular,4,45,Cash,No,5,6
+132,7/3/2023,236912,7301,Female,32,0.9,Not married,Check up,1,120/80,FALSE,0,5,No,No,No,No,Yes,123,99,Coronary Artery Disease,Smoker,Occasional,24,42,Debit card,No,8,2
+133,8/6/2023,236913,3701,Female,56,0.45,Not married,Check up,4,130/85,FALSE,4,5,No,No,No,No,Yes,134,43,Chronic Obstructive Pulmonary Disease,Smoker,Regular,14,43,Credit card,No,3,6
+134,7/3/2023,236914,7832,Female,27,0.55,Not married,Follow up,1,110/70,FALSE,0,0,Yes,No,Yes,No,Yes,113,64,Iron-deficiency Anemia,Non-smoker,Never,30,37,Cash,No,2,8
+135,8/18/2023,236915,1981,Male,29,0.65,Married,Follow up,2,120/80,TRUE,4,3,No,No,No,Yes,No,145,72,Hypothyroidism,Smoker,Regular,24,35,Insurance,No,1,7
+136,8/20/2023,236916,7421,Male,57,0.25,Married,Follow up,4,120/80,FALSE,0,1,Yes,Yes,Yes,No,No,132,88,Hyperthyroidism,Non-smoker,Regular,9,45,Credit card,Yes,8,6
+137,7/27/2023,236917,9697,Male,54,0.45,Not married,Check up,2,140/90,FALSE,0,1,Yes,No,Yes,No,No,145,43,Urinary Stones ,Smoker,Never,21,39,Cash,Yes,8,4
+138,7/29/2023,236918,8044,Female,30,0.75,Married,Follow up,1,110/70,FALSE,0,1,Yes,No,Yes,No,No,144,65,Gout,Non-smoker,Occasional,15,23,Credit card,No,6,9
+139,7/29/2023,236919,7599,Female,27,0.45,Not married,Follow up,2,130/85,TRUE,1,2,No,No,No,No,No,133,86,Chronic Kidney Disease,Smoker,Regular,4,44,Insurance,No,8,9
+140,8/9/2023,236920,2051,Male,35,0.25,Married,Check up,2,140/90,FALSE,0,12,Yes,No,Yes,No,No,120,99,Appendicitis,Non-smoker,Regular,22,40,Debit card,No,4,10
+141,7/9/2023,236921,9385,Male,52,0.9,Married,Follow up,2,120/80,FALSE,0,0,No,No,No,No,Yes,129,100,Acute Myocardial Infarction ,Smoker,Occasional,10,27,Cash,Yes,6,10
+142,8/13/2023,236922,6248,Female,28,0.9,Not married,Check up,4,130/85,FALSE,1,0,No,No,No,No,No,130,40,Inflammatory Bowel Disease,Non-smoker,Never,24,17,Credit card,Yes,5,7
+143,7/9/2023,236923,6143,Female,53,0.75,Not married,Follow up,1,140/90,FALSE,0,0,No,No,No,Yes,Yes,156,70,Otitis Media ,Smoker,Regular,16,16,Cash,Yes,2,3
+144,8/9/2023,236924,9149,Male,42,0.25,Married,Check up,1,120/80,FALSE,0,0,No,Yes,No,Yes,No,147,78,Conjunctivitis ,Smoker,Occasional,6,23,Debit card,No,3,10
+145,8/25/2023,236925,6156,Male,54,0.35,Married,Follow up,3,110/70,TRUE,7,3,No,Yes,No,No,No,177,79,Sinusitis,Non-smoker,Never,19,16,Insurance,Yes,1,9
+146,8/10/2023,236926,6866,Male,36,0.75,Married,Check up,2,140/90,FALSE,0,3,No,No,No,No,Yes,188,75,Gastroesophageal Reflux Disease,Non-smoker,Regular,25,28,Cash,No,6,4
+147,7/16/2023,236927,1148,Female,34,1.3,Not married,Follow up,4,120/80,FALSE,0,1,No,No,No,No,No,156,65,Peptic Ulcer Disease,Smoker,Occasional,22,39,Debit card,Yes,5,6
+148,8/28/2023,236928,7489,Female,33,1.1,Not married,Follow up,3,130/85,FALSE,0,0,No,No,No,No,Yes,166,65,Eczema ,Smoker,Regular,8,35,Credit card,No,2,7
+149,8/8/2023,236929,4665,Female,64,0.75,Not married,Follow up,2,110/70,FALSE,0,3,No,No,No,No,Yes,65,66,Psoriasis,Non-smoker,Never,17,39,Cash,No,3,1
+150,7/19/2023,236930,8105,Male,32,0.55,Married,Check up,1,120/80,TRUE,3,0,Yes,No,Yes,No,Yes,167,87,Hypothyroidism,Smoker,Regular,8,42,Insurance,Yes,5,1
+151,7/19/2023,236931,2824,Male,21,0.65,Married,Check up,1,120/80,FALSE,0,0,Yes,No,Yes,Yes,No,156,54,Hyperthyroidism,Non-smoker,Regular,11,32,Credit card,No,8,4
+152,7/11/2023,236932,6927,Male,52,0.15,Not married,Check up,2,140/90,FALSE,9,1,No,Yes,No,Yes,Yes,166,56,Anemia,Smoker,Never,13,28,Cash,Yes,6,9
+153,8/27/2023,236933,8685,Female,22,0.55,Married,Check up,5,110/70,FALSE,2,3,Yes,Yes,Yes,No,No,167,87,Gastrointestinal Bleeding,Non-smoker,Occasional,28,37,Credit card,No,8,8
+154,7/18/2023,236934,8375,Female,49,0.15,Not married,Follow up,3,130/85,TRUE,0,0,No,No,No,No,No,154,74,Celiac Disease,Smoker,Regular,1,23,Insurance,Yes,1,7
+155,7/29/2023,236935,3905,Female,59,0.25,Married,Check up,2,140/90,FALSE,0,0,No,No,No,No,No,143,72,Irritable Bowel Syndrome,Non-smoker,Regular,19,18,Debit card,No,1,1
+156,8/9/2023,236936,9205,Female,45,0.75,Married,Follow up,5,120/80,FALSE,0,5,No,No,No,No,No,142,53,Chronic Fatigue Syndrome,Smoker,Occasional,1,14,Cash,No,3,3
+157,8/13/2023,236937,1768,Male,59,0.55,Not married,Check up,1,130/85,FALSE,0,0,Yes,No,Yes,Yes,No,166,51,Fibromyalgia,Non-smoker,Never,7,14,Credit card,Yes,1,6
+158,8/7/2023,236938,7753,Male,36,0.15,Not married,Follow up,5,140/90,FALSE,0,1,No,Yes,No,No,No,145,59,Urinary Incontinence,Smoker,Regular,8,49,Cash,No,3,9
+159,8/4/2023,236939,2750,Female,57,0.9,Married,Check up,2,120/80,FALSE,0,0,No,No,No,Yes,No,167,60,Endometriosis,Smoker,Occasional,17,39,Debit card,Yes,7,9
+160,7/16/2023,236940,3282,Female,25,0.55,Married,Check up,4,110/70,TRUE,3,1,Yes,Yes,Yes,No,No,177,70,Polycystic Ovary Syndrome,Non-smoker,Never,23,18,Insurance,Yes,8,8
+161,8/4/2023,236941,2776,Female,46,0.75,Married,Follow up,2,140/90,FALSE,0,2,No,No,No,Yes,No,178,77,Benign Prostatic Hyperplasia,Non-smoker,Regular,5,14,Cash,No,6,5
+162,7/7/2023,236942,6627,Female,50,0.9,Not married,Check up,1,120/80,FALSE,4,0,Yes,Yes,Yes,Yes,Yes,167,87,Meningitis,Smoker,Occasional,30,41,Debit card,Yes,7,5
+163,8/6/2023,236943,2571,Male,33,0.9,Not married,Check up,1,130/85,FALSE,14,0,Yes,Yes,Yes,Yes,Yes,167,55,Epilepsy,Smoker,Regular,3,46,Credit card,No,2,4
+164,7/25/2023,236944,3050,Female,48,0.55,Not married,Follow up,1,110/70,FALSE,0,0,No,Yes,No,Yes,No,155,67,Stroke,Non-smoker,Never,19,47,Cash,Yes,3,8
+165,8/24/2023,236945,4157,Male,62,0.9,Married,Check up,1,120/80,TRUE,0,1,Yes,Yes,Yes,Yes,Yes,157,56,Chronic Liver Disease,Smoker,Regular,24,23,Insurance,Yes,4,4
+166,7/24/2023,236946,8537,Male,65,1.1,Married,Check up,1,120/80,FALSE,0,0,Yes,Yes,Yes,No,No,145,45,Cirrhosis,Non-smoker,Regular,6,11,Credit card,No,6,1
+167,7/25/2023,236947,5947,Female,62,0.75,Not married,Follow up,1,140/90,FALSE,0,1,No,No,No,No,No,190,87,Chronic Pancreatitis,Smoker,Never,21,10,Cash,No,6,8
+168,8/27/2023,236948,5936,Male,54,0.45,Married,Follow up,2,110/70,FALSE,0,0,No,No,No,No,No,188,99,Gallstones,Non-smoker,Occasional,6,46,Credit card,No,1,8
+169,8/10/2023,236949,3222,Female,48,0.9,Not married,Check up,1,130/85,TRUE,2,2,No,No,No,No,Yes,187,76,Diverticulitis,Smoker,Regular,10,23,Insurance,Yes,2,7
+170,8/24/2023,236950,3706,Male,39,0.9,Married,Follow up,1,140/90,FALSE,2,0,Yes,No,Yes,No,No,186,77,Deep Vein Thrombosis,Non-smoker,Regular,13,42,Debit card,No,9,2
+171,7/9/2023,236951,6143,Male,43,0.9,Married,Check up,2,120/80,FALSE,0,6,No,No,No,No,No,176,45,Pulmonary Embolism,Smoker,Occasional,16,49,Cash,No,3,10
+172,8/2/2023,236952,6360,Female,30,0.25,Not married,Follow up,1,130/85,FALSE,6,3,No,No,No,Yes,Yes,166,81,Hypertensive Heart Disease,Non-smoker,Never,3,16,Credit card,No,6,8
+173,8/18/2023,236953,4142,Male,47,0.65,Not married,Follow up,2,140/90,FALSE,7,0,Yes,Yes,Yes,No,No,165,92,Hypertension,Smoker,Regular,13,44,Cash,No,6,8
+174,7/5/2023,236954,7728,Male,34,0.9,Married,Follow up,1,120/80,FALSE,0,0,No,No,No,Yes,Yes,155,82,Diabetes,Smoker,Occasional,18,35,Debit card,Yes,9,10
+175,8/4/2023,236955,7496,Male,25,0.75,Married,Check up,1,110/70,TRUE,0,2,Yes,Yes,Yes,No,Yes,160,76,Common cold,Non-smoker,Never,29,35,Insurance,Yes,2,2
+176,7/10/2023,236956,5737,Female,55,0.9,Married,Check up,3,140/90,FALSE,4,0,No,No,No,No,No,155,86,Arthritis,Non-smoker,Regular,6,34,Cash,Yes,5,10
+177,7/10/2023,236957,7630,Female,63,0.75,Not married,Follow up,1,120/80,FALSE,0,0,No,No,No,Yes,Yes,144,88,Allergies,Smoker,Occasional,3,36,Debit card,No,3,7
+178,7/20/2023,236958,8418,Female,25,0.25,Not married,Check up,2,130/85,FALSE,6,0,No,Yes,No,No,Yes,164,83,Headache,Smoker,Regular,6,13,Credit card,No,6,6
+179,8/9/2023,236959,5367,Male,50,0.65,Not married,Follow up,2,110/70,FALSE,2,0,No,No,No,Yes,No,177,81,Fever,Non-smoker,Never,30,31,Cash,Yes,3,10
+180,8/1/2023,236960,2982,Male,49,0.9,Married,Follow up,1,120/80,TRUE,6,0,Yes,Yes,Yes,Yes,No,156,92,Allergies,Smoker,Regular,10,26,Insurance,Yes,9,9
+181,7/25/2023,236961,9455,Female,43,0.55,Married,Check up,1,120/80,FALSE,0,0,Yes,Yes,Yes,Yes,No,158,99,Headache,Non-smoker,Regular,27,36,Credit card,No,2,3
+182,8/4/2023,236962,8930,Female,62,1.1,Not married,Check up,4,140/90,FALSE,1,3,No,Yes,No,No,Yes,147,43,Diabetes,Smoker,Never,18,22,Cash,No,3,5
+183,7/12/2023,236963,3682,Female,24,0.55,Married,Check up,1,110/70,FALSE,7,0,No,No,No,Yes,No,173,64,Common cold,Non-smoker,Occasional,12,37,Credit card,Yes,3,4
+184,8/8/2023,236964,3892,Male,24,0.75,Not married,Check up,2,130/85,TRUE,14,2,No,Yes,No,No,No,180,72,Allergies,Smoker,Regular,24,37,Insurance,Yes,1,2
+185,8/5/2023,236965,7489,Male,23,1.1,Married,Follow up,1,140/90,FALSE,1,0,Yes,No,Yes,No,Yes,144,88,Fever,Non-smoker,Regular,27,26,Debit card,Yes,7,4
+186,7/5/2023,236966,3650,Male,35,0.9,Married,Follow up,1,120/80,FALSE,3,1,No,No,No,No,No,140,43,Headache,Smoker,Occasional,22,47,Cash,Yes,5,7
+187,7/23/2023,236967,4543,Female,56,0.65,Not married,Follow up,1,130/85,FALSE,3,0,Yes,No,Yes,No,Yes,173,65,Diabetes,Non-smoker,Never,25,21,Credit card,No,5,10
+188,7/28/2023,236968,2544,Female,51,0.06,Not married,Check up,3,140/90,FALSE,0,7,No,No,No,No,No,155,86,Common Cold,Smoker,Regular,13,48,Cash,No,1,6
+189,7/13/2023,236969,3920,Male,45,0.35,Married,Follow up,2,120/80,FALSE,2,4,Yes,No,Yes,No,No,156,99,Influenza (Flu),Smoker,Occasional,16,48,Debit card,Yes,1,4
+190,8/18/2023,236970,4271,Male,54,0.75,Married,Follow up,2,110/70,TRUE,3,0,Yes,No,Yes,No,No,123,100,Pneumonia,Non-smoker,Never,17,28,Insurance,No,3,9
+191,7/14/2023,236971,4468,Female,29,0.9,Married,Check up,1,140/90,FALSE,0,1,Yes,No,Yes,No,No,134,40,Bronchitis,Non-smoker,Regular,10,16,Cash,No,6,6
+192,7/23/2023,236972,4989,Female,26,1.5,Not married,Follow up,2,120/80,FALSE,14,5,No,No,No,No,Yes,113,70,Urinary Tract Infection,Smoker,Occasional,17,36,Debit card,No,5,8
+193,8/16/2023,236973,2365,Male,47,0.65,Not married,Check up,4,130/85,FALSE,0,8,No,No,No,No,Yes,145,78,Gastroenteritis,Smoker,Regular,17,34,Credit card,No,3,1
+194,7/27/2023,236974,2395,Male,30,1.1,Not married,Follow up,3,110/70,FALSE,0,0,No,No,No,Yes,No,132,79,Gastric Ulcer,Non-smoker,Never,30,29,Cash,No,9,4
+195,7/25/2023,236975,1640,Male,42,0.65,Married,Check up,3,120/80,TRUE,14,1,No,Yes,No,No,No,145,75,Hyperlipidemia ,Smoker,Regular,11,47,Insurance,Yes,3,6
+196,8/21/2023,236976,9521,Female,61,0.65,Married,Follow up,1,120/80,FALSE,0,1,No,No,No,No,No,144,65,Diabetes Mellitus,Non-smoker,Regular,7,36,Credit card,Yes,3,5
+197,7/7/2023,236977,8247,Female,31,0.65,Not married,Check up,1,140/90,FALSE,0,1,No,No,No,No,Yes,133,65,Hyperlipidemia ,Smoker,Never,14,14,Cash,No,6,1
+198,8/5/2023,236978,4544,Female,54,0.45,Married,Follow up,3,110/70,FALSE,5,10,Yes,No,Yes,No,No,120,66,Osteoarthritis,Non-smoker,Occasional,2,47,Credit card,Yes,6,6
+199,8/22/2023,236979,1856,Male,35,0.55,Not married,Follow up,2,130/85,TRUE,0,0,Yes,No,Yes,Yes,Yes,129,87,Common Cold ,Smoker,Regular,17,43,Insurance,Yes,3,8
+200,8/17/2023,236980,8334,Male,38,0.15,Married,Follow up,1,140/90,FALSE,0,0,No,Yes,No,No,No,130,54,Influenza (Flu),Non-smoker,Regular,12,31,Debit card,Yes,2,9
+201,7/11/2023,236981,7163,Male,58,0.65,Married,Check up,2,120/80,FALSE,8,0,No,No,No,No,Yes,156,56,Pneumonia,Smoker,Occasional,14,17,Cash,No,2,6
+202,7/7/2023,236982,3612,Female,30,0.15,Not married,Check up,3,130/85,FALSE,4,1,No,No,No,No,Yes,147,87,Bronchitis,Non-smoker,Never,26,20,Credit card,No,4,3
+203,7/20/2023,236983,5333,Female,60,0.65,Not married,Check up,2,140/90,FALSE,0,7,No,No,No,No,Yes,177,74,Urinary Tract Infection (UTI),Smoker,Regular,28,14,Cash,No,5,1
+204,8/15/2023,236984,3581,Female,61,0,Married,Check up,3,120/80,FALSE,3,9,Yes,No,Yes,No,No,188,72,Gastroenteritis,Smoker,Occasional,23,17,Debit card,Yes,6,5
+205,8/1/2023,236985,7752,Female,27,0.65,Married,Follow up,1,110/70,TRUE,1,11,No,No,No,No,No,156,53,Gastric Ulcer,Non-smoker,Never,9,30,Insurance,No,4,8
+206,7/17/2023,236986,9776,Male,42,0.55,Married,Check up,3,140/90,FALSE,10,2,Yes,No,Yes,No,No,166,51,Gastroenteritis,Non-smoker,Regular,2,38,Cash,No,5,4
+207,8/1/2023,236987,3877,Male,30,0.65,Not married,Follow up,1,120/80,FALSE,0,0,No,No,No,Yes,No,65,59,Diabetes Mellitus,Smoker,Occasional,30,27,Debit card,Yes,8,7
+208,8/9/2023,236988,9169,Female,49,0.25,Not married,Check up,1,130/85,FALSE,0,0,Yes,Yes,Yes,Yes,No,167,60,Hyperlipidemia ,Smoker,Regular,20,13,Credit card,No,1,10
+209,7/2/2023,236989,7931,Female,30,0.35,Not married,Follow up,2,110/70,FALSE,0,5,Yes,Yes,Yes,No,No,156,70,Osteoarthritis,Non-smoker,Never,21,29,Cash,No,1,10
+210,8/28/2023,236990,6346,Female,31,1.1,Married,Check up,1,120/80,TRUE,0,1,Yes,No,Yes,No,Yes,166,77,Rheumatoid Arthritis,Smoker,Regular,1,13,Insurance,No,1,5
+211,7/17/2023,236991,7514,Female,32,0.9,Married,Check up,2,120/80,FALSE,0,0,Yes,No,Yes,No,Yes,167,87,Asthma,Non-smoker,Regular,26,48,Credit card,Yes,3,4
+212,7/26/2023,236992,3846,Male,22,0.65,Not married,Follow up,1,140/90,FALSE,0,2,Yes,No,Yes,No,No,154,55,Allergic Rhinitis,Smoker,Never,8,19,Cash,No,9,9
+213,8/28/2023,236993,6337,Female,35,0.75,Married,Check up,1,110/70,FALSE,0,0,No,No,No,No,No,143,67,Migraine Headache,Non-smoker,Occasional,3,23,Credit card,Yes,9,2
+214,8/8/2023,236994,8692,Male,48,0.75,Not married,Check up,3,130/85,TRUE,1,0,No,No,No,No,No,142,56,Depression,Smoker,Regular,4,39,Insurance,No,7,8
+215,8/10/2023,236995,3015,Male,31,1.5,Married,Follow up,1,140/90,FALSE,0,3,No,No,No,Yes,No,166,45,Anxiety Disorder,Non-smoker,Regular,23,13,Debit card,No,1,10
+216,7/4/2023,236996,4326,Female,44,0.75,Married,Check up,2,120/80,FALSE,0,0,No,Yes,No,Yes,Yes,145,87,Gastroesophageal Reflux Disease,Smoker,Occasional,14,13,Cash,Yes,6,8
+217,7/14/2023,236997,2427,Male,65,0.35,Not married,Check up,2,130/85,FALSE,0,0,No,Yes,No,No,No,167,99,Peptic Ulcer Disease,Non-smoker,Never,24,46,Credit card,No,9,3
+218,7/1/2023,236998,1574,Female,51,0.65,Not married,Follow up,4,140/90,FALSE,4,2,No,No,No,No,Yes,177,76,Coronary Artery Disease,Smoker,Regular,1,18,Cash,Yes,6,4
+219,7/21/2023,236999,5021,Male,28,1.1,Married,Follow up,1,120/80,FALSE,0,0,Yes,No,Yes,No,No,178,77,Chronic Obstructive Pulmonary Disease,Smoker,Occasional,10,23,Debit card,No,5,6
+220,7/19/2023,237000,5482,Male,23,0.25,Married,Check up,1,110/70,TRUE,0,1,No,No,No,No,Yes,167,45,Iron-deficiency Anemia,Non-smoker,Never,6,23,Insurance,No,7,2
+221,8/17/2023,237001,4666,Female,29,1.1,Married,Follow up,2,140/90,FALSE,0,0,Yes,No,Yes,Yes,Yes,167,81,Hypothyroidism,Non-smoker,Regular,8,41,Cash,Yes,1,7
+222,7/3/2023,237002,1502,Male,47,0.35,Not married,Check up,2,120/80,FALSE,0,0,No,Yes,No,No,Yes,155,92,Hyperthyroidism,Smoker,Occasional,22,32,Debit card,Yes,3,3
+223,7/13/2023,237003,6242,Male,48,0,Not married,Follow up,2,130/85,FALSE,2,6,No,No,No,Yes,Yes,157,82,Urinary Stones ,Smoker,Regular,9,50,Credit card,Yes,8,6
+224,8/18/2023,237004,7904,Male,27,1.1,Not married,Follow up,5,110/70,FALSE,0,1,Yes,Yes,Yes,No,Yes,145,76,Gout,Non-smoker,Never,29,19,Cash,No,4,6
+225,7/15/2023,237005,9614,Female,52,0.9,Married,Follow up,2,120/80,TRUE,1,3,No,No,No,Yes,No,190,86,Chronic Kidney Disease,Smoker,Regular,23,11,Insurance,No,5,3
+226,8/25/2023,237006,3679,Female,58,0.75,Married,Check up,2,120/80,FALSE,0,0,Yes,Yes,Yes,Yes,No,188,88,Appendicitis,Non-smoker,Regular,25,41,Credit card,Yes,3,3
+227,8/30/2023,237007,6433,Female,54,0.55,Not married,Check up,2,140/90,FALSE,14,1,Yes,Yes,Yes,Yes,No,187,83,Acute Myocardial Infarction ,Smoker,Never,11,35,Cash,Yes,3,2
+228,8/29/2023,237008,9675,Male,40,0.55,Married,Follow up,3,110/70,FALSE,0,0,Yes,Yes,Yes,Yes,No,186,81,Inflammatory Bowel Disease,Non-smoker,Occasional,11,19,Credit card,No,9,9
+229,7/5/2023,237009,2609,Male,51,0.65,Not married,Check up,4,130/85,TRUE,7,7,No,Yes,No,Yes,No,176,92,Otitis Media ,Smoker,Regular,15,12,Insurance,Yes,1,5
+230,7/30/2023,237010,1138,Female,56,0.75,Married,Follow up,2,140/90,FALSE,0,1,Yes,Yes,Yes,No,No,166,99,Conjunctivitis ,Non-smoker,Regular,11,33,Debit card,No,6,5
+231,7/29/2023,237011,6789,Female,23,0.45,Married,Follow up,2,120/80,FALSE,14,9,No,No,No,No,Yes,165,43,Sinusitis,Smoker,Occasional,5,44,Cash,Yes,8,3
+232,7/14/2023,237012,3865,Female,38,1.5,Not married,Check up,3,130/85,FALSE,8,1,No,No,No,No,No,155,64,Gastroesophageal Reflux Disease,Non-smoker,Never,5,33,Credit card,Yes,1,3
+233,8/12/2023,237013,2614,Male,48,0.45,Not married,Check up,1,140/90,FALSE,0,0,No,No,No,No,Yes,160,72,Peptic Ulcer Disease,Smoker,Regular,5,12,Cash,No,5,6
+234,7/26/2023,237014,2038,Male,44,0.9,Married,Check up,2,120/80,FALSE,5,5,No,No,No,No,No,155,88,Eczema ,Smoker,Occasional,29,34,Debit card,No,5,5
+235,7/16/2023,237015,3026,Male,27,0.65,Married,Check up,1,110/70,TRUE,14,1,No,No,No,No,No,144,43,Psoriasis,Non-smoker,Never,27,12,Insurance,Yes,3,7
+236,7/13/2023,237016,8722,Female,37,1.5,Married,Follow up,5,140/90,FALSE,0,0,No,No,No,Yes,Yes,164,65,Hypothyroidism,Non-smoker,Regular,13,23,Cash,Yes,7,4
+237,7/17/2023,237017,2947,Female,30,0.25,Not married,Follow up,2,120/80,FALSE,10,1,No,Yes,No,No,No,177,86,Hyperthyroidism,Smoker,Occasional,4,45,Debit card,No,9,3
+238,7/18/2023,237018,3782,Male,47,0.75,Not married,Follow up,1,130/85,FALSE,0,4,No,No,No,Yes,Yes,156,99,Anemia,Smoker,Regular,18,26,Credit card,Yes,7,10
+239,7/23/2023,237019,9210,Male,64,0.15,Not married,Check up,1,110/70,FALSE,0,0,No,Yes,No,No,Yes,158,100,Gastrointestinal Bleeding,Non-smoker,Never,19,45,Cash,No,5,4
+240,8/8/2023,237020,7178,Female,44,0.45,Married,Follow up,3,120/80,TRUE,1,1,Yes,No,Yes,No,Yes,147,40,Celiac Disease,Smoker,Regular,24,34,Insurance,Yes,8,10
+241,8/21/2023,237021,7278,Female,64,0.06,Married,Follow up,1,120/80,FALSE,0,6,Yes,No,Yes,Yes,No,173,70,Irritable Bowel Syndrome,Non-smoker,Regular,2,47,Credit card,Yes,1,5
+242,7/5/2023,237022,3914,Male,37,0.45,Not married,Check up,1,140/90,FALSE,12,1,No,Yes,No,No,Yes,180,78,Chronic Fatigue Syndrome,Smoker,Never,5,10,Cash,Yes,2,5
+243,8/17/2023,237023,5007,Male,34,0.65,Married,Follow up,1,110/70,FALSE,1,0,Yes,No,Yes,Yes,No,144,79,Fibromyalgia,Non-smoker,Occasional,29,35,Credit card,Yes,7,10
+244,7/11/2023,237024,4802,Male,47,0.75,Not married,Check up,3,130/85,TRUE,14,2,No,Yes,No,Yes,No,140,75,Urinary Incontinence,Smoker,Regular,7,17,Insurance,No,8,6
+245,7/14/2023,237025,5555,Female,63,0.65,Married,Follow up,3,140/90,FALSE,0,7,No,Yes,No,Yes,No,173,65,Endometriosis,Non-smoker,Regular,9,37,Debit card,No,5,3
+246,7/9/2023,237026,9992,Female,26,0.65,Married,Check up,1,120/80,FALSE,0,1,No,Yes,No,No,No,155,65,Polycystic Ovary Syndrome,Smoker,Occasional,13,42,Cash,Yes,1,3
+247,7/9/2023,237027,7768,Female,50,0.9,Not married,Follow up,1,130/85,FALSE,11,1,Yes,No,Yes,Yes,No,156,66,Benign Prostatic Hyperplasia,Non-smoker,Never,14,48,Credit card,Yes,1,1
+248,8/13/2023,237028,6438,Male,42,0.35,Not married,Check up,4,140/90,FALSE,0,0,No,Yes,No,No,No,123,87,Meningitis,Smoker,Regular,30,17,Cash,No,6,1
+249,8/22/2023,237029,9133,Male,30,0.15,Married,Follow up,1,120/80,FALSE,14,0,No,No,No,No,No,134,54,Epilepsy,Smoker,Occasional,25,22,Debit card,Yes,2,8
+250,8/16/2023,237030,5828,Male,26,0.75,Married,Follow up,1,110/70,TRUE,0,0,Yes,No,Yes,No,No,113,56,Stroke,Non-smoker,Never,11,18,Insurance,Yes,6,5
+251,7/1/2023,237031,2949,Female,30,0.65,Married,Follow up,1,140/90,FALSE,1,0,No,No,No,No,No,145,87,Chronic Liver Disease,Non-smoker,Regular,21,48,Cash,No,5,6
+252,8/7/2023,237032,8992,Female,32,1.1,Not married,Check up,1,120/80,FALSE,0,0,Yes,No,Yes,No,Yes,132,74,Cirrhosis,Smoker,Occasional,7,18,Debit card,Yes,6,2
+253,8/6/2023,237033,8722,Female,48,0.75,Not married,Check up,2,130/85,FALSE,0,0,Yes,No,Yes,No,Yes,145,72,Chronic Pancreatitis,Smoker,Regular,1,46,Credit card,No,9,6
+254,7/4/2023,237034,8975,Female,26,0.45,Not married,Check up,1,110/70,FALSE,0,1,No,No,No,No,No,144,53,Gallstones,Non-smoker,Never,18,26,Cash,No,9,3
+255,7/12/2023,237035,1189,Male,48,0.55,Married,Check up,2,120/80,TRUE,0,0,Yes,No,Yes,No,Yes,133,51,Diverticulitis,Smoker,Regular,20,26,Insurance,Yes,9,10
+256,8/11/2023,237036,2775,Male,36,0.06,Married,Follow up,2,120/80,FALSE,0,1,Yes,No,Yes,No,No,120,59,Deep Vein Thrombosis,Non-smoker,Regular,2,45,Credit card,No,1,7
+257,7/8/2023,237037,8042,Female,62,0.9,Not married,Check up,2,140/90,FALSE,0,2,No,No,No,No,No,129,60,Pulmonary Embolism,Smoker,Never,3,32,Cash,Yes,6,10
+258,8/15/2023,237038,4494,Female,56,0.65,Married,Follow up,3,110/70,FALSE,2,0,No,No,No,Yes,No,130,70,Hypertensive Heart Disease,Non-smoker,Occasional,8,42,Credit card,No,7,8
+259,8/19/2023,237039,7365,Female,22,0.45,Not married,Check up,1,130/85,TRUE,0,1,No,Yes,No,No,Yes,156,77,Hypertension,Smoker,Regular,28,33,Insurance,No,6,5
+260,8/4/2023,237040,8701,Female,37,0.55,Married,Follow up,2,140/90,FALSE,0,0,Yes,No,Yes,No,No,147,87,Diabetes,Non-smoker,Regular,28,44,Debit card,Yes,1,2
+261,7/20/2023,237041,6402,Male,27,0.65,Married,Check up,1,120/80,FALSE,1,0,No,No,No,No,No,177,55,Common cold,Smoker,Occasional,24,18,Cash,Yes,2,10
+262,8/11/2023,237042,3291,Female,56,0.35,Not married,Check up,2,130/85,FALSE,0,0,No,No,No,No,Yes,188,67,Arthritis,Non-smoker,Never,23,22,Credit card,Yes,1,8
+263,8/27/2023,237043,4188,Male,43,0.9,Not married,Follow up,1,140/90,FALSE,10,6,Yes,No,Yes,Yes,No,156,56,Allergies,Smoker,Regular,5,14,Cash,Yes,6,7
+264,8/14/2023,237044,2803,Male,26,0.75,Married,Check up,3,120/80,FALSE,2,1,No,Yes,No,No,Yes,166,45,Headache,Smoker,Occasional,22,37,Debit card,Yes,2,3
+265,8/8/2023,237045,6305,Female,50,0.65,Married,Check up,1,110/70,TRUE,10,2,Yes,No,Yes,No,Yes,65,87,Fever,Non-smoker,Never,3,26,Insurance,Yes,5,4
+266,7/2/2023,237046,9312,Male,23,0.55,Married,Follow up,2,140/90,FALSE,7,0,No,No,No,No,No,167,99,Allergies,Non-smoker,Regular,9,29,Cash,No,8,6
+267,8/18/2023,237047,4069,Female,55,0.25,Not married,Check up,0,120/80,FALSE,0,0,No,No,No,No,Yes,156,76,Headache,Smoker,Occasional,10,42,Debit card,Yes,3,8
+268,8/2/2023,237048,7221,Male,53,0.75,Not married,Check up,0,130/85,FALSE,0,0,No,No,No,No,Yes,166,77,Diabetes,Smoker,Regular,20,39,Credit card,Yes,3,10
+269,8/20/2023,237049,9879,Male,31,0.9,Not married,Follow up,0,110/70,FALSE,14,1,No,No,No,No,No,167,45,Common cold,Non-smoker,Never,11,49,Cash,Yes,7,5
+270,8/22/2023,237050,4914,Female,54,0.35,Married,Follow up,0,120/80,TRUE,0,2,Yes,No,Yes,No,No,154,81,Allergies,Smoker,Regular,20,18,Insurance,Yes,1,9
+271,8/23/2023,237051,3501,Male,38,0.65,Married,Check up,0,120/80,FALSE,0,2,Yes,No,Yes,Yes,No,143,92,Fever,Non-smoker,Regular,9,14,Credit card,Yes,2,10
+272,8/3/2023,237052,9362,Male,46,0.9,Not married,Follow up,0,140/90,FALSE,0,0,No,Yes,No,Yes,Yes,142,82,Headache,Smoker,Never,20,11,Cash,No,1,2
+273,7/11/2023,237053,1209,Male,42,0.75,Married,Check up,0,110/70,FALSE,0,1,No,Yes,No,No,No,166,76,Diabetes,Non-smoker,Occasional,21,49,Credit card,No,7,1
+274,7/2/2023,237054,8165,Female,46,0.9,Not married,Follow up,0,130/85,TRUE,0,0,No,No,No,No,No,145,86,Common Cold,Smoker,Regular,20,29,Insurance,No,3,5
+275,7/1/2023,237055,1980,Female,65,0.9,Married,Follow up,0,140/90,FALSE,0,0,Yes,No,Yes,No,Yes,167,88,Influenza (Flu),Non-smoker,Regular,4,40,Debit card,No,1,5
+276,7/22/2023,237056,3356,Female,33,0.65,Married,Follow up,0,120/80,FALSE,0,0,No,No,No,No,No,177,83,Pneumonia,Smoker,Occasional,25,29,Cash,No,4,7
+277,7/6/2023,237057,5446,Male,53,0.15,Not married,Check up,0,130/85,FALSE,0,0,Yes,No,Yes,No,Yes,178,81,Bronchitis,Non-smoker,Never,27,21,Credit card,Yes,2,7
+278,8/27/2023,237058,6064,Male,24,0.9,Not married,Check up,0,140/90,FALSE,0,0,No,No,No,No,No,167,92,Urinary Tract Infection,Smoker,Regular,12,25,Cash,No,4,3
+279,7/15/2023,237059,1236,Female,64,0.9,Married,Follow up,0,120/80,FALSE,0,0,Yes,No,Yes,Yes,No,167,99,Gastroenteritis,Smoker,Occasional,5,44,Debit card,No,1,7
+280,8/4/2023,237060,9111,Female,28,0.55,Married,Check up,0,110/70,TRUE,0,0,yes,Yes,yes,Yes,No,155,43,Gastric Ulcer,Non-smoker,Never,22,48,Insurance,No,2,3
+281,8/6/2023,237061,4472,Female,60,0.65,Married,Follow up,0,140/90,FALSE,0,1,No,Yes,No,No,No,157,64,Hyperlipidemia ,Non-smoker,Regular,17,44,Cash,No,3,6
+282,8/18/2023,237062,9169,Male,56,0.06,Not married,Follow up,0,120/80,FALSE,0,0,No,No,No,No,Yes,145,72,Diabetes Mellitus,Smoker,Occasional,29,34,Debit card,No,9,9
+283,7/24/2023,237063,2754,Male,38,0.9,Not married,Check up,0,130/85,FALSE,0,0,Yes,No,Yes,No,Yes,190,88,Hyperlipidemia ,Smoker,Regular,27,33,Credit card,No,2,7
+284,8/12/2023,237064,3036,Male,46,0.75,Not married,Check up,0,110/70,FALSE,0,0,Yes,No,Yes,No,No,188,43,Osteoarthritis,Non-smoker,Never,14,30,Cash,Yes,7,9
+285,7/22/2023,237065,7695,Female,61,0.06,Married,Check up,0,120/80,TRUE,1,0,No,No,No,Yes,No,187,65,Common Cold ,Smoker,Regular,1,49,Insurance,Yes,8,9
+286,7/24/2023,237066,9445,Female,33,0.15,Married,Check up,0,120/80,FALSE,0,0,Yes,Yes,Yes,No,No,186,86,Influenza (Flu),Non-smoker,Regular,10,44,Credit card,Yes,6,10
+287,7/24/2023,237067,9093,Male,37,1.1,Not married,Follow up,0,140/90,FALSE,0,0,No,No,No,Yes,Yes,176,99,Pneumonia,Smoker,Never,7,48,Cash,Yes,7,6
+288,7/25/2023,237068,8587,Male,49,0.9,Married,Follow up,0,110/70,FALSE,0,2,Yes,Yes,Yes,No,No,166,100,Bronchitis,Non-smoker,Occasional,19,18,Credit card,No,9,3
+289,8/5/2023,237069,6266,Female,34,0.9,Not married,Follow up,3,130/85,TRUE,0,4,Yes,No,Yes,Yes,Yes,165,40,Urinary Tract Infection (UTI),Smoker,Regular,29,20,Insurance,Yes,7,3
+290,7/9/2023,237070,3611,Female,36,0.9,Married,Check up,1,140/90,FALSE,0,3,Yes,Yes,Yes,Yes,No,155,70,Gastroenteritis,Non-smoker,Regular,3,44,Debit card,No,2,4
+291,8/25/2023,237071,3758,Male,45,1.1,Married,Follow up,2,120/80,FALSE,0,1,No,Yes,No,Yes,Yes,160,78,Gastric Ulcer,Smoker,Occasional,13,33,Cash,No,5,3
+292,7/30/2023,237072,8884,Male,29,0.9,Not married,Follow up,4,130/85,FALSE,0,0,No,Yes,No,Yes,yes,155,79,Gastroenteritis,Non-smoker,Never,6,22,Credit card,No,5,6
+293,8/16/2023,237073,9766,Male,26,0,Not married,Check up,2,140/90,FALSE,0,5,No,Yes,No,Yes,No,144,75,Diabetes Mellitus,Smoker,Regular,1,24,Cash,No,1,1
+294,8/24/2023,237074,1687,Female,53,0.9,Married,Follow up,1,120/80,FALSE,0,4,No,Yes,No,No,No,164,65,Hyperlipidemia ,Smoker,Occasional,14,22,Debit card,Yes,9,2
+295,8/3/2023,237075,4448,Female,64,1.3,Married,Check up,1,110/70,TRUE,7,4,No,No,No,No,Yes,177,65,Osteoarthritis,Non-smoker,Never,23,17,Insurance,Yes,8,10
+296,7/21/2023,237076,8333,Female,44,0.25,Married,Follow up,2,140/90,FALSE,0,0,No,No,No,No,Yes,156,66,Rheumatoid Arthritis,Non-smoker,Regular,18,30,Cash,No,4,8
+297,7/9/2023,237077,8443,Male,32,0.9,Not married,Check up,3,120/80,FALSE,14,4,Yes,No,Yes,No,No,158,87,Asthma,Smoker,Occasional,2,50,Debit card,Yes,9,10
+298,7/13/2023,237078,2366,Male,26,1.1,Not married,Follow up,2,130/85,FALSE,3,8,Yes,No,Yes,No,Yes,147,54,Allergic Rhinitis,Smoker,Regular,21,29,Credit card,No,5,8
+299,7/29/2023,237079,2603,Male,50,0.75,Not married,Check up,4,110/70,FALSE,2,1,No,No,No,No,No,173,56,Migraine Headache,Non-smoker,Never,9,50,Cash,No,6,6
+300,8/6/2023,237080,1089,Female,60,0.15,Married,Follow up,3,120/80,TRUE,3,6,No,No,No,Yes,Yes,180,87,Depression,Smoker,Regular,18,39,Insurance,Yes,7,10
+301,7/28/2023,237081,1845,Female,35,0.9,Married,Follow up,5,120/80,FALSE,1,5,No,Yes,No,No,Yes,144,74,Anxiety Disorder,Non-smoker,Regular,24,20,Credit card,Yes,3,8
+302,7/15/2023,237082,6660,Female,60,1.5,Not married,Follow up,1,140/90,FALSE,0,6,No,No,No,Yes,Yes,140,72,Gastroesophageal Reflux Disease,Smoker,Never,2,37,Cash,No,1,10
+303,7/14/2023,237083,3346,Female,33,0.55,Married,Check up,3,110/70,FALSE,2,1,Yes,Yes,Yes,No,No,173,53,Peptic Ulcer Disease,Non-smoker,Occasional,22,33,Credit card,Yes,9,9
+304,8/5/2023,237084,8206,Male,28,0.25,Not married,Check up,3,130/85,TRUE,0,3,No,No,No,No,No,155,51,Coronary Artery Disease,Smoker,Regular,18,34,Insurance,Yes,7,5
+305,8/14/2023,237085,1209,Male,54,0.9,Married,Check up,2,140/90,FALSE,0,2,Yes,No,Yes,Yes,No,156,59,Chronic Obstructive Pulmonary Disease,Non-smoker,Regular,29,22,Debit card,No,5,9
+306,8/7/2023,237086,8889,Female,26,0.55,Married,Check up,1,120/80,FALSE,0,3,No,Yes,No,No,No,123,60,Iron-deficiency Anemia,Smoker,Occasional,15,25,Cash,Yes,2,5
+307,8/9/2023,237087,5187,Female,28,0.9,Not married,Follow up,1,130/85,FALSE,0,0,Yes,No,Yes,Yes,No,134,70,Hypothyroidism,Non-smoker,Never,3,25,Credit card,Yes,9,2
+308,7/22/2023,237088,2004,Female,33,0.9,Not married,Check up,2,140/90,FALSE,1,11,Yes,Yes,Yes,Yes,No,113,77,Hyperthyroidism,Smoker,Regular,2,47,Cash,Yes,4,7
+309,8/25/2023,237089,5857,Female,39,1.1,Married,Follow up,2,120/80,FALSE,0,1,Yes,Yes,Yes,Yes,Yes,145,87,Urinary Stones ,Smoker,Occasional,10,27,Debit card,Yes,4,1
+310,7/30/2023,237090,4242,Male,62,0.55,Married,Check up,4,110/70,TRUE,8,8,Yes,Yes,Yes,No,Yes,132,55,Gout,Non-smoker,Never,21,39,Insurance,No,4,10
+311,8/26/2023,237091,1084,Female,62,0.9,Married,Follow up,1,140/90,FALSE,0,0,Yes,No,Yes,Yes,No,145,67,Chronic Kidney Disease,Non-smoker,Regular,1,35,Cash,Yes,6,5
+312,7/1/2023,237092,6942,Male,56,1.3,Not married,Check up,2,120/80,FALSE,5,0,No,Yes,No,No,No,144,56,Appendicitis,Smoker,Occasional,9,11,Debit card,No,7,10
+313,7/8/2023,237093,4710,Male,30,1.3,Not married,Check up,2,130/85,FALSE,1,0,No,No,No,No,No,133,45,Acute Myocardial Infarction ,Smoker,Regular,9,22,Credit card,No,9,6
+314,7/11/2023,237094,2222,Female,23,1.5,Not married,Follow up,1,110/70,FALSE,0,0,No,No,No,No,No,120,87,Inflammatory Bowel Disease,Non-smoker,Never,2,44,Cash,No,1,3
+315,8/17/2023,237095,7102,Male,50,0.9,Married,Check up,2,120/80,TRUE,1,0,No,No,No,No,Yes,129,99,Otitis Media ,Smoker,Regular,21,29,Insurance,Yes,3,5
+316,8/8/2023,237096,2505,Female,33,0.55,Married,Check up,2,120/80,FALSE,8,10,No,No,No,No,No,130,76,Conjunctivitis ,Non-smoker,Regular,11,16,Credit card,No,7,2
+317,7/19/2023,237097,9164,Male,30,0.35,Not married,Follow up,1,140/90,FALSE,3,0,No,No,No,No,Yes,156,77,Sinusitis,Smoker,Never,24,33,Cash,No,4,6
+318,8/23/2023,237098,1252,Male,21,1.1,Married,Check up,2,110/70,FALSE,3,3,Yes,No,Yes,No,No,147,45,Gastroesophageal Reflux Disease,Non-smoker,Occasional,1,11,Credit card,Yes,6,7
+319,8/18/2023,237099,4460,Female,43,1.3,Not married,Check up,1,130/85,TRUE,2,3,No,No,No,No,Yes,177,81,Peptic Ulcer Disease,Smoker,Regular,26,41,Insurance,Yes,5,2
+320,7/19/2023,237100,5193,Male,31,0.9,Married,Follow up,1,140/90,FALSE,0,0,Yes,No,Yes,No,Yes,188,92,Eczema ,Non-smoker,Regular,18,40,Debit card,Yes,9,8
+321,8/7/2023,237101,9278,Male,31,0.65,Married,Follow up,2,120/80,FALSE,3,0,No,No,No,No,Yes,156,82,Psoriasis,Smoker,Occasional,19,34,Cash,Yes,8,6
+322,8/4/2023,237102,4964,Male,57,0.9,Not married,Check up,5,130/85,FALSE,1,11,No,No,No,Yes,Yes,166,76,Hypothyroidism,Non-smoker,Never,17,28,Credit card,No,9,2
+323,7/12/2023,237103,6766,Female,39,0.65,Not married,Follow up,1,140/90,FALSE,4,1,Yes,Yes,Yes,No,Yes,65,86,Hyperthyroidism,Smoker,Regular,30,20,Cash,No,6,10
+324,8/22/2023,237104,6338,Female,55,0.35,Married,Check up,1,120/80,FALSE,14,1,No,No,No,No,No,167,88,Anemia,Smoker,Occasional,19,28,Debit card,No,8,8
+325,8/16/2023,237105,6479,Female,36,1.3,Married,Follow up,1,110/70,TRUE,7,2,Yes,No,Yes,No,No,156,83,Gastrointestinal Bleeding,Non-smoker,Never,15,11,Insurance,Yes,1,2
+326,8/27/2023,237106,3000,Male,63,0.9,Married,Follow up,1,140/90,FALSE,5,2,Yes,No,Yes,No,No,166,81,Celiac Disease,Non-smoker,Regular,10,19,Cash,No,2,6
+327,8/6/2023,237107,9578,Male,24,0.65,Not married,Follow up,1,120/80,FALSE,3,1,Yes,No,Yes,Yes,No,167,92,Irritable Bowel Syndrome,Smoker,Occasional,24,22,Debit card,No,5,7
+328,7/13/2023,237108,9362,Female,31,0.9,Not married,Check up,1,130/85,FALSE,3,0,No,Yes,No,No,No,154,99,Chronic Fatigue Syndrome,Smoker,Regular,12,12,Credit card,No,1,2
+329,8/3/2023,237109,2871,Female,39,0.65,Not married,Check up,2,110/70,FALSE,5,1,Yes,No,Yes,No,No,143,43,Fibromyalgia,Non-smoker,Never,18,42,Cash,Yes,1,9
+330,8/30/2023,237110,6990,Female,41,0.25,Married,Follow up,1,120/80,TRUE,4,0,No,No,No,No,Yes,142,64,Urinary Incontinence,Smoker,Regular,8,46,Insurance,Yes,6,3
+331,8/30/2023,237111,6657,Male,61,0.9,Married,Check up,3,120/80,FALSE,5,1,No,No,No,No,No,166,72,Endometriosis,Non-smoker,Regular,15,30,Credit card,Yes,9,2
+332,7/3/2023,237112,3039,Male,21,0.75,Not married,Follow up,2,140/90,FALSE,2,2,No,No,No,No,Yes,145,88,Polycystic Ovary Syndrome,Smoker,Never,19,12,Cash,No,1,4
+333,7/1/2023,237113,6405,Male,22,0.06,Married,Follow up,5,110/70,FALSE,3,12,No,No,No,No,No,167,43,Benign Prostatic Hyperplasia,Non-smoker,Occasional,6,12,Credit card,No,1,2
+334,7/23/2023,237114,5404,Female,39,0.9,Not married,Check up,1,130/85,TRUE,3,0,No,No,No,No,No,177,65,Meningitis,Smoker,Regular,16,33,Insurance,No,3,10
+335,7/6/2023,237115,3405,Female,50,1.5,Married,Check up,5,140/90,FALSE,0,0,No,No,No,Yes,Yes,178,86,Epilepsy,Non-smoker,Regular,23,28,Debit card,Yes,1,10
+336,7/12/2023,237116,3615,Male,29,1.1,Married,Check up,3,120/80,FALSE,3,0,No,Yes,No,Yes,No,167,99,Stroke,Smoker,Occasional,15,18,Cash,Yes,2,2
+337,8/11/2023,237117,3686,Male,57,0,Not married,Check up,1,130/85,FALSE,0,5,No,Yes,No,No,Yes,167,100,Chronic Liver Disease,Non-smoker,Never,19,39,Credit card,No,2,7
+338,7/14/2023,237118,5619,Female,52,0.75,Not married,Follow up,3,140/90,FALSE,0,7,No,No,No,No,Yes,155,40,Cirrhosis,Smoker,Regular,13,13,Cash,No,9,8
+339,7/7/2023,237119,8229,Female,57,1.3,Married,Follow up,2,120/80,FALSE,0,0,Yes,No,Yes,No,Yes,157,70,Chronic Pancreatitis,Smoker,Occasional,9,16,Debit card,Yes,9,2
+340,7/17/2023,237120,5106,Male,27,0.55,Married,Follow up,3,110/70,TRUE,3,1,Yes,No,Yes,No,No,145,78,Gallstones,Non-smoker,Never,4,30,Insurance,Yes,6,10
+341,7/30/2023,237121,9870,Male,62,1.5,Married,Check up,1,140/90,FALSE,4,1,No,No,No,No,Yes,190,79,Diverticulitis,Non-smoker,Regular,23,43,Cash,No,8,5
+342,7/10/2023,237122,2332,Male,28,1.1,Not married,Follow up,1,120/80,FALSE,1,0,Yes,No,Yes,No,No,188,75,Deep Vein Thrombosis,Smoker,Occasional,23,32,Debit card,No,2,5
+343,8/10/2023,237123,3036,Female,52,0.75,Not married,Follow up,2,130/85,FALSE,3,1,No,No,No,Yes,No,187,65,Pulmonary Embolism,Smoker,Regular,28,25,Credit card,No,3,6
+344,7/27/2023,237124,9196,Female,38,0.9,Not married,Check up,1,110/70,FALSE,4,1,No,Yes,No,Yes,No,186,65,Hypertensive Heart Disease,Non-smoker,Never,8,48,Cash,Yes,6,1
+345,8/27/2023,237125,2895,Female,29,1.3,Married,Follow up,1,120/80,TRUE,14,7,No,Yes,No,No,No,176,66,Hypertension,Smoker,Regular,5,37,Insurance,Yes,2,5
+346,8/12/2023,237126,6399,Male,28,0.9,Married,Check up,2,120/80,FALSE,5,1,Yes,No,Yes,No,No,166,87,Diabetes,Non-smoker,Regular,14,48,Credit card,No,9,3
+347,8/4/2023,237127,9784,Male,47,1.1,Not married,Follow up,1,140/90,FALSE,0,0,No,No,No,No,No,165,54,Common cold,Smoker,Never,30,34,Cash,Yes,9,10
+348,7/10/2023,237128,6331,Male,52,0.15,Married,Check up,1,110/70,FALSE,1,3,No,No,No,No,No,155,56,Arthritis,Non-smoker,Occasional,30,30,Credit card,No,7,8
+349,7/4/2023,237129,6411,Female,30,0.35,Not married,Follow up,1,130/85,TRUE,0,4,Yes,No,Yes,Yes,No,160,87,Allergies,Smoker,Regular,21,23,Insurance,Yes,5,1
+350,7/4/2023,237130,5472,Female,35,0.45,Married,Check up,2,140/90,FALSE,0,2,No,Yes,No,No,No,155,74,Headache,Non-smoker,Regular,28,49,Debit card,Yes,2,8
+351,8/26/2023,237131,5461,Female,56,1.3,Married,Follow up,2,120/80,FALSE,7,0,Yes,No,Yes,Yes,Yes,144,72,Fever,Smoker,Occasional,16,14,Cash,No,1,8
+352,7/6/2023,237132,8606,Female,61,0.9,Not married,Follow up,2,130/85,FALSE,4,1,Yes,Yes,Yes,No,Yes,164,53,Allergies,Non-smoker,Never,12,15,Credit card,No,3,6
+353,8/26/2023,237133,3054,Male,38,0.65,Not married,Follow up,4,140/90,FALSE,0,2,No,No,No,Yes,No,177,51,Headache,Smoker,Regular,3,34,Cash,No,6,1
+354,8/18/2023,237134,9373,Male,35,1.3,Married,Check up,5,120/80,FALSE,0,0,Yes,Yes,Yes,Yes,Yes,156,59,Diabetes,Smoker,Occasional,18,29,Debit card,No,7,7
+355,7/17/2023,237135,6175,Female,33,0.75,Married,Check up,2,110/70,TRUE,8,0,Yes,Yes,Yes,Yes,No,158,60,Common cold,Non-smoker,Never,13,33,Insurance,Yes,8,3
+356,8/28/2023,237136,3090,Female,28,1.1,Married,Check up,3,140/90,FALSE,2,5,No,Yes,No,Yes,No,147,70,Allergies,Non-smoker,Regular,29,30,Cash,No,8,1
+357,8/16/2023,237137,2035,Female,60,1.1,Not married,Check up,1,120/80,FALSE,2,2,No,Yes,No,Yes,No,173,77,Fever,Smoker,Occasional,19,11,Debit card,Yes,2,8
+358,7/2/2023,237138,7470,Female,52,0.75,Not married,Follow up,1,130/85,FALSE,1,0,No,Yes,No,No,Yes,180,87,Headache,Smoker,Regular,3,30,Credit card,No,4,5
+359,7/27/2023,237139,8348,Male,65,0.9,Not married,Check up,1,110/70,FALSE,1,0,Yes,No,Yes,No,No,144,55,Diabetes,Non-smoker,Never,1,50,Cash,Yes,6,8
+360,7/14/2023,237140,1578,Female,59,0.65,Married,Follow up,3,120/80,TRUE,14,10,No,No,No,No,No,140,67,Common Cold,Smoker,Regular,13,49,Insurance,Yes,7,2
+361,7/10/2023,237141,9180,Male,49,1.5,Married,Check up,2,120/80,FALSE,0,1,No,No,No,No,Yes,173,56,Influenza (Flu),Non-smoker,Regular,19,23,Credit card,Yes,8,6
+362,8/5/2023,237142,4032,Male,29,1.1,Not married,Follow up,1,140/90,FALSE,0,0,Yes,No,Yes,No,No,155,45,Pneumonia,Smoker,Never,11,41,Cash,Yes,1,4
+363,7/18/2023,237143,3571,Female,46,1.1,Married,Check up,1,110/70,FALSE,0,3,No,No,No,No,Yes,156,87,Bronchitis,Non-smoker,Occasional,5,32,Credit card,Yes,5,6
+364,7/25/2023,237144,4284,Male,31,0.55,Not married,Check up,2,130/85,TRUE,0,0,Yes,No,Yes,Yes,Yes,123,99,Urinary Tract Infection,Smoker,Regular,1,45,Insurance,No,1,4
+365,8/26/2023,237145,7179,Female,35,0.25,Married,Follow up,2,140/90,FALSE,0,0,No,Yes,No,No,No,134,76,Gastroenteritis,Non-smoker,Regular,29,40,Debit card,No,3,10
+366,8/7/2023,237146,2228,Male,22,0.65,Married,Check up,5,120/80,FALSE,3,3,No,No,No,Yes,Yes,113,77,Gastric Ulcer,Smoker,Occasional,25,45,Cash,Yes,1,10
+367,8/26/2023,237147,2728,Male,60,0.75,Not married,Check up,1,130/85,FALSE,14,0,No,Yes,No,No,Yes,145,45,Hyperlipidemia ,Non-smoker,Never,6,19,Credit card,Yes,3,2
+368,8/28/2023,237148,6840,Female,62,1.5,Not married,Follow up,1,140/90,FALSE,14,5,No,No,No,No,No,132,81,Diabetes Mellitus,Smoker,Regular,28,45,Cash,Yes,5,6
+369,8/10/2023,237149,3174,Male,49,0.75,Married,Check up,0,120/80,FALSE,0,2,Yes,No,Yes,Yes,No,145,92,Hyperlipidemia ,Smoker,Occasional,26,11,Debit card,No,9,8
+370,8/17/2023,237150,9356,Male,30,1.5,Married,Check up,0,110/70,TRUE,0,0,Yes,Yes,Yes,No,No,144,82,Osteoarthritis,Non-smoker,Never,24,24,Insurance,Yes,4,6
+371,8/19/2023,237151,7945,Male,52,0.65,Married,Follow up,0,140/90,FALSE,0,0,No,No,No,Yes,Yes,133,76,Common Cold ,Non-smoker,Regular,29,30,Cash,Yes,5,2
+372,8/22/2023,237152,8054,Female,25,1.3,Not married,Follow up,0,120/80,FALSE,0,1,No,Yes,No,Yes,No,120,86,Influenza (Flu),Smoker,Occasional,3,25,Debit card,No,6,8
+373,7/8/2023,237153,3830,Female,23,0.75,Not married,Check up,0,130/85,FALSE,0,0,No,Yes,No,Yes,No,129,88,Pneumonia,Smoker,Regular,10,34,Credit card,No,4,5
+374,8/26/2023,237154,9011,Female,53,0.35,Not married,Follow up,0,110/70,FALSE,0,0,Yes,Yes,Yes,No,Yes,130,83,Bronchitis,Non-smoker,Never,4,10,Cash,No,7,6
+375,8/12/2023,237155,3226,Male,23,0.9,Married,Check up,0,120/80,TRUE,0,0,No,No,No,Yes,No,156,81,Urinary Tract Infection (UTI),Smoker,Regular,6,48,Insurance,No,5,1
+376,7/18/2023,237156,2337,Male,30,0.9,Married,Follow up,2,120/80,FALSE,3,2,Yes,Yes,Yes,No,Yes,147,92,Gastroenteritis,Non-smoker,Regular,27,50,Credit card,Yes,7,4
+377,7/5/2023,237157,3608,Female,49,0.9,Not married,Follow up,4,140/90,FALSE,5,1,No,No,No,No,No,177,99,Gastric Ulcer,Smoker,Never,2,14,Cash,Yes,7,6
+378,8/14/2023,237158,8115,Female,47,1.1,Married,Follow up,5,110/70,FALSE,1,4,Yes,No,Yes,No,No,188,43,Gastroenteritis,Non-smoker,Occasional,6,39,Credit card,Yes,4,3
+379,7/20/2023,237159,4704,Female,35,0.25,Not married,Check up,2,130/85,TRUE,0,2,yes,No,yes,No,No,156,64,Diabetes Mellitus,Smoker,Regular,29,49,Insurance,Yes,9,2
+380,7/19/2023,237160,3855,Male,40,1.5,Married,Check up,2,140/90,FALSE,0,1,No,No,No,No,No,166,72,Hyperlipidemia ,Non-smoker,Regular,24,36,Debit card,No,9,2
+381,7/12/2023,237161,6856,Male,25,1.1,Married,Follow up,2,120/80,FALSE,2,0,No,No,No,No,Yes,65,88,Osteoarthritis,Smoker,Occasional,15,46,Cash,No,4,3
+382,8/8/2023,237162,3853,Male,39,0.9,Not married,Check up,1,130/85,FALSE,0,0,Yes,No,Yes,No,Yes,167,43,Rheumatoid Arthritis,Non-smoker,Never,3,49,Credit card,No,9,1
+383,7/26/2023,237163,9251,Female,56,0.65,Not married,Follow up,4,140/90,FALSE,0,12,Yes,No,Yes,No,No,156,65,Asthma,Smoker,Regular,13,34,Cash,No,7,10
+384,8/3/2023,237164,2630,Female,56,1.5,Married,Follow up,2,120/80,FALSE,0,4,No,No,No,No,No,166,86,Allergic Rhinitis,Smoker,Occasional,22,31,Debit card,No,1,6
+385,7/30/2023,237165,1712,Male,53,0.15,Married,Check up,4,110/70,TRUE,0,6,Yes,No,Yes,No,No,167,99,Migraine Headache,Non-smoker,Never,9,16,Insurance,Yes,9,10
+386,7/27/2023,237166,9573,Male,65,0.75,Married,Check up,2,140/90,FALSE,0,7,No,No,No,Yes,Yes,154,100,Depression,Non-smoker,Regular,29,32,Cash,No,6,9
+387,7/20/2023,237167,5451,Female,52,0.45,Not married,Check up,4,120/80,FALSE,0,8,Yes,Yes,Yes,No,No,143,40,Anxiety Disorder,Smoker,Occasional,7,41,Debit card,No,1,2
+388,7/24/2023,237168,2861,Female,44,0.25,Not married,Check up,3,130/85,FALSE,0,4,Yes,No,Yes,No,Yes,142,70,Gastroesophageal Reflux Disease,Smoker,Regular,25,15,Credit card,No,4,3
+389,7/11/2023,237169,1368,Male,24,0.9,Not married,Follow up,2,110/70,FALSE,0,1,Yes,No,Yes,No,No,166,78,Peptic Ulcer Disease,Non-smoker,Never,27,40,Cash,No,4,6
+390,7/14/2023,237170,8509,Male,36,0.75,Married,Follow up,4,120/80,TRUE,0,3,No,No,No,No,Yes,145,79,Coronary Artery Disease,Smoker,Regular,24,24,Insurance,No,1,9
+391,8/6/2023,237171,9109,Male,21,0.25,Married,Follow up,2,120/80,FALSE,0,0,No,No,No,Yes,yes,167,75,Chronic Obstructive Pulmonary Disease,Non-smoker,Regular,27,30,Credit card,Yes,1,1
+392,7/30/2023,237172,9062,Female,47,0.55,Not married,Check up,1,140/90,FALSE,14,8,No,Yes,No,No,No,177,65,Iron-deficiency Anemia,Smoker,Never,1,40,Cash,No,6,7
+393,8/1/2023,237173,6090,Female,54,0.75,Married,Follow up,1,110/70,FALSE,0,0,No,No,No,No,No,178,65,Hypothyroidism,Non-smoker,Occasional,13,25,Credit card,No,6,7
+394,7/3/2023,237174,2035,Female,47,0.9,Not married,Follow up,2,130/85,TRUE,12,3,No,No,No,No,Yes,167,66,Hyperthyroidism,Smoker,Regular,6,49,Insurance,No,9,10
+395,7/2/2023,237175,5109,Male,29,1.1,Married,Check up,4,140/90,FALSE,2,6,No,No,No,No,Yes,167,87,Urinary Stones ,Non-smoker,Regular,21,27,Debit card,No,8,1
+396,7/29/2023,237176,3951,Male,32,0.75,Married,Follow up,2,120/80,FALSE,1,1,Yes,No,Yes,No,No,155,54,Gout,Smoker,Occasional,30,32,Cash,Yes,4,2
+397,7/4/2023,237177,1384,Male,60,1.1,Not married,Check up,3,130/85,FALSE,0,3,Yes,No,Yes,No,Yes,157,56,Chronic Kidney Disease,Non-smoker,Never,2,24,Credit card,No,1,5
+398,7/23/2023,237178,7070,Female,21,1.5,Not married,Follow up,1,140/90,FALSE,5,2,No,No,No,No,No,145,87,Appendicitis,Smoker,Regular,10,16,Cash,No,9,8
+399,8/8/2023,237179,4339,Female,42,0.45,Married,Check up,2,120/80,FALSE,0,0,No,No,No,Yes,Yes,190,74,Acute Myocardial Infarction ,Smoker,Occasional,30,24,Debit card,Yes,6,1
+400,8/22/2023,237180,2433,Female,50,1.3,Married,Follow up,1,110/70,TRUE,0,0,No,Yes,No,Yes,Yes,188,72,Inflammatory Bowel Disease,Non-smoker,Never,19,42,Insurance,No,3,9
+401,7/12/2023,237181,7941,Female,32,1.5,Married,Check up,1,140/90,FALSE,4,6,No,Yes,No,No,Yes,187,53,Otitis Media ,Non-smoker,Regular,17,10,Cash,No,4,4
+402,8/24/2023,237182,6575,Male,52,1.3,Not married,Follow up,1,120/80,FALSE,7,3,Yes,No,Yes,No,No,186,51,Conjunctivitis ,Smoker,Occasional,2,39,Debit card,Yes,6,2
+403,7/10/2023,237183,6373,Male,25,0.55,Not married,Follow up,1,130/85,FALSE,5,0,No,No,No,No,No,176,59,Sinusitis,Smoker,Regular,20,36,Credit card,Yes,4,4
+404,8/12/2023,237184,3091,Female,53,1.3,Not married,Follow up,1,110/70,FALSE,6,4,Yes,No,Yes,No,No,166,60,Gastroesophageal Reflux Disease,Non-smoker,Never,12,10,Cash,Yes,5,10
+405,8/4/2023,237185,5743,Female,62,0.65,Married,Check up,1,120/80,TRUE,8,0,No,No,No,No,No,165,70,Peptic Ulcer Disease,Smoker,Regular,21,15,Insurance,Yes,3,4
+406,8/8/2023,237186,3130,Female,47,1.3,Married,Check up,2,120/80,FALSE,0,0,Yes,No,Yes,No,No,155,77,Eczema ,Non-smoker,Regular,4,35,Credit card,No,2,1
+407,8/25/2023,237187,6532,Female,51,0.9,Not married,Check up,5,140/90,FALSE,9,3,Yes,No,Yes,Yes,No,160,87,Psoriasis,Smoker,Never,24,41,Cash,No,2,3
+408,7/26/2023,237188,2730,Male,64,0.75,Married,Check up,1,110/70,FALSE,0,1,Yes,Yes,Yes,Yes,Yes,155,55,Hypothyroidism,Non-smoker,Occasional,14,35,Credit card,Yes,5,4
+409,7/2/2023,237189,4282,Female,26,0.25,Not married,Follow up,1,130/85,TRUE,0,0,Yes,Yes,Yes,No,Yes,144,67,Hyperthyroidism,Smoker,Regular,1,45,Insurance,No,3,9
+410,7/9/2023,237190,8736,Male,42,1.5,Married,Check up,1,140/90,FALSE,0,0,Yes,No,Yes,No,No,164,56,Anemia,Non-smoker,Regular,10,14,Debit card,Yes,5,1
+411,7/19/2023,237191,8621,Male,56,0.25,Married,Follow up,2,120/80,FALSE,14,1,No,No,No,No,No,177,45,Gastrointestinal Bleeding,Smoker,Occasional,6,46,Cash,Yes,9,3
+412,7/3/2023,237192,7725,Female,38,1.5,Not married,Check up,2,130/85,FALSE,0,0,No,No,No,No,No,156,87,Celiac Disease,Non-smoker,Never,22,10,Credit card,Yes,8,1
+413,8/8/2023,237193,8917,Male,56,1.3,Not married,Follow up,5,140/90,FALSE,14,9,No,No,No,Yes,No,158,99,Irritable Bowel Syndrome,Smoker,Regular,26,39,Cash,Yes,9,1
+414,8/11/2023,237194,7039,Female,38,0.75,Married,Check up,1,120/80,FALSE,0,1,No,Yes,No,No,Yes,147,76,Chronic Fatigue Syndrome,Smoker,Occasional,26,42,Debit card,Yes,1,2
+415,8/4/2023,237195,2662,Male,38,0.9,Married,Check up,3,110/70,TRUE,0,3,No,No,No,Yes,No,173,77,Fibromyalgia,Non-smoker,Never,5,17,Insurance,Yes,7,3
+416,8/30/2023,237196,4163,Male,41,0.15,Married,Follow up,4,140/90,FALSE,14,0,No,Yes,No,No,Yes,180,45,Urinary Incontinence,Non-smoker,Regular,29,40,Cash,Yes,6,3
+417,8/30/2023,237197,1706,Female,40,0.45,Not married,Check up,1,120/80,FALSE,5,7,Yes,No,Yes,Yes,No,144,81,Endometriosis,Smoker,Occasional,26,30,Debit card,No,4,5
+418,8/12/2023,237198,3656,Male,41,0.25,Not married,Check up,2,130/85,FALSE,0,4,No,Yes,No,Yes,Yes,140,92,Polycystic Ovary Syndrome,Smoker,Regular,17,22,Credit card,No,1,9
+419,7/23/2023,237199,8691,Male,62,0.65,Not married,Follow up,2,110/70,FALSE,0,0,Yes,Yes,Yes,Yes,Yes,173,82,Benign Prostatic Hyperplasia,Non-smoker,Never,28,22,Cash,Yes,8,8
+420,7/11/2023,237200,8697,Male,64,0.35,Married,Check up,0,120/80,TRUE,0,3,No,Yes,No,Yes,Yes,155,76,Meningitis,Smoker,Regular,23,13,Insurance,Yes,3,1
+421,7/14/2023,237201,2511,Female,36,0.9,Married,Check up,0,120/80,FALSE,0,0,No,Yes,No,Yes,Yes,156,86,Epilepsy,Non-smoker,Regular,12,38,Credit card,Yes,2,9
+422,7/30/2023,237202,3310,Female,51,0.15,Not married,Follow up,0,140/90,FALSE,0,1,Yes,Yes,Yes,No,Yes,123,88,Stroke,Smoker,Never,27,10,Cash,Yes,4,3
+423,8/12/2023,237203,4461,Female,47,1.3,Married,Follow up,0,110/70,FALSE,0,12,No,No,No,No,No,134,83,Chronic Liver Disease,Non-smoker,Occasional,16,45,Credit card,Yes,7,1
+424,7/17/2023,237204,4475,Male,51,1.5,Not married,Check up,0,130/85,TRUE,0,0,Yes,No,Yes,No,No,113,81,Cirrhosis,Smoker,Regular,1,12,Insurance,Yes,6,9
+425,8/7/2023,237205,5226,Male,30,1.5,Married,Follow up,0,140/90,FALSE,0,0,Yes,No,Yes,No,No,145,92,Chronic Pancreatitis,Non-smoker,Regular,16,23,Debit card,Yes,9,2
+426,7/1/2023,237206,9702,Female,21,1.1,Married,Check up,1,120/80,FALSE,0,0,Yes,No,Yes,No,No,132,99,Gallstones,Smoker,Occasional,20,40,Cash,No,4,9
+427,7/27/2023,237207,5336,Female,23,0.9,Not married,Follow up,4,130/85,FALSE,2,2,No,No,No,No,No,145,43,Diverticulitis,Non-smoker,Never,4,29,Credit card,No,7,1
+428,8/11/2023,237208,7432,Female,59,1.1,Not married,Follow up,2,140/90,FALSE,0,7,Yes,No,Yes,Yes,No,144,64,Deep Vein Thrombosis,Smoker,Regular,28,31,Cash,No,8,9
+429,8/29/2023,237209,3043,Male,21,1.1,Married,Follow up,2,120/80,FALSE,0,7,No,Yes,No,No,Yes,133,72,Pulmonary Embolism,Smoker,Occasional,16,45,Debit card,No,4,5
+430,7/13/2023,237210,4955,Male,30,0.45,Married,Check up,2,110/70,TRUE,14,4,No,No,No,Yes,No,120,88,Hypertensive Heart Disease,Non-smoker,Never,5,21,Insurance,Yes,9,10
+431,8/29/2023,237211,4177,Male,36,0.25,Married,Check up,3,140/90,FALSE,1,1,No,Yes,No,No,Yes,129,43,Hypertension,Non-smoker,Regular,23,50,Cash,No,3,4
+432,8/30/2023,237212,4270,Female,56,0.25,Not married,Follow up,3,120/80,FALSE,0,0,No,No,No,No,No,130,65,Diabetes,Smoker,Occasional,4,12,Debit card,Yes,8,1
+433,8/20/2023,237213,5823,Female,50,0.9,Not married,Check up,1,130/85,FALSE,1,0,No,No,No,Yes,No,156,86,Common cold,Smoker,Regular,21,34,Credit card,Yes,3,6
+434,8/2/2023,237214,3263,Male,57,0.9,Not married,Follow up,1,110/70,FALSE,0,0,No,Yes,No,No,Yes,147,99,Arthritis,Non-smoker,Never,13,15,Cash,Yes,3,1
+435,8/26/2023,237215,7660,Male,34,1.3,Married,Follow up,2,120/80,TRUE,0,3,No,No,No,Yes,No,177,100,Allergies,Smoker,Regular,6,12,Insurance,No,6,3
+436,7/4/2023,237216,7934,Female,42,0.06,Married,Check up,2,120/80,FALSE,0,0,No,Yes,No,Yes,Yes,188,40,Headache,Non-smoker,Regular,12,50,Credit card,No,2,5
+437,8/21/2023,237217,6496,Female,23,0.75,Not married,Check up,1,140/90,FALSE,0,0,No,Yes,No,Yes,Yes,156,70,Fever,Smoker,Never,29,33,Cash,Yes,7,2
+438,7/1/2023,237218,4950,Male,42,1.5,Married,Check up,2,110/70,FALSE,14,7,Yes,Yes,Yes,No,Yes,166,78,Allergies,Non-smoker,Occasional,26,37,Credit card,No,5,2
+439,8/17/2023,237219,9702,Male,33,0.65,Not married,Check up,2,130/85,TRUE,1,5,Yes,No,Yes,Yes,No,65,79,Headache,Smoker,Regular,12,21,Insurance,Yes,8,7
+440,8/15/2023,237220,8412,Male,58,0.55,Married,Follow up,1,140/90,FALSE,3,0,No,Yes,No,No,Yes,167,75,Diabetes,Non-smoker,Regular,12,42,Debit card,No,8,5
+441,8/22/2023,237221,7602,Female,24,1.5,Married,Follow up,1,120/80,FALSE,3,2,Yes,No,Yes,No,No,156,65,Common cold,Smoker,Occasional,27,32,Cash,Yes,5,3
+442,8/26/2023,237222,8750,Female,28,1.5,Not married,Follow up,1,130/85,FALSE,0,0,No,No,No,No,No,166,65,Allergies,Non-smoker,Never,8,14,Credit card,Yes,3,10
+443,7/23/2023,237223,5284,Female,43,0.65,Not married,Check up,2,140/90,FALSE,5,0,No,No,No,No,No,167,66,Fever,Smoker,Regular,7,44,Cash,Yes,1,4
+444,7/28/2023,237224,9644,Male,33,0.45,Married,Follow up,1,120/80,FALSE,7,2,No,No,No,No,No,154,87,Headache,Smoker,Occasional,20,12,Debit card,Yes,6,10
+445,7/17/2023,237225,9756,Male,52,1.5,Married,Follow up,1,110/70,TRUE,0,0,Yes,No,Yes,No,No,143,54,Diabetes,Non-smoker,Never,16,17,Insurance,Yes,3,7
+446,7/30/2023,237226,2833,Male,31,0.65,Married,Check up,1,140/90,FALSE,0,0,No,No,No,No,No,142,56,Common Cold,Non-smoker,Regular,24,35,Cash,No,4,3
+447,8/8/2023,237227,1347,Female,35,0.9,Not married,Follow up,3,120/80,FALSE,3,0,No,No,No,No,No,166,87,Influenza (Flu),Smoker,Occasional,8,22,Debit card,Yes,1,10
+448,7/17/2023,237228,7608,Female,55,0.55,Not married,Check up,3,130/85,FALSE,7,12,Yes,No,Yes,No,No,145,74,Pneumonia,Smoker,Regular,22,41,Credit card,Yes,1,3
+449,8/8/2023,237229,7964,Female,60,0.35,Not married,Follow up,1,110/70,FALSE,14,7,No,No,No,No,No,167,72,Bronchitis,Non-smoker,Never,14,12,Cash,No,7,8
+450,7/13/2023,237230,2069,Female,44,0.75,Married,Check up,1,120/80,TRUE,0,0,Yes,No,Yes,Yes,Yes,177,53,Urinary Tract Infection,Smoker,Regular,13,26,Insurance,No,6,7
+451,7/25/2023,237231,3317,Male,35,1.5,Married,Follow up,0,120/80,FALSE,0,1,Yes,Yes,Yes,No,Yes,178,51,Gastroenteritis,Non-smoker,Regular,23,10,Credit card,No,2,3
+452,7/5/2023,237232,9094,Male,61,1.5,Not married,Check up,4,140/90,FALSE,0,4,No,No,No,No,No,167,59,Gastric Ulcer,Smoker,Never,12,28,Cash,Yes,9,4
+453,7/15/2023,237233,8813,Female,58,0.65,Married,Follow up,4,110/70,FALSE,14,5,Yes,No,Yes,No,Yes,167,60,Hyperlipidemia ,Non-smoker,Occasional,10,21,Credit card,Yes,9,4
+454,7/7/2023,237234,6225,Female,58,0.65,Not married,Follow up,2,130/85,TRUE,2,0,Yes,No,Yes,No,No,155,70,Diabetes Mellitus,Smoker,Regular,10,34,Insurance,No,7,7
+455,8/14/2023,237235,3328,Female,25,1.1,Married,Follow up,1,140/90,FALSE,0,4,No,No,No,Yes,No,157,77,Hyperlipidemia ,Non-smoker,Regular,25,32,Debit card,No,4,8
+456,8/20/2023,237236,3048,Female,26,1.3,Married,Check up,3,120/80,FALSE,1,3,No,Yes,No,No,No,145,87,Osteoarthritis,Smoker,Occasional,26,25,Cash,Yes,2,7
+457,7/4/2023,237237,8113,Male,57,0.25,Not married,Check up,5,130/85,FALSE,14,7,No,No,No,No,Yes,190,55,Common Cold ,Non-smoker,Never,3,17,Credit card,No,6,3
+458,7/7/2023,237238,6674,Female,47,0.75,Not married,Check up,1,140/90,FALSE,0,0,Yes,No,Yes,No,No,188,67,Influenza (Flu),Smoker,Regular,15,31,Cash,No,7,5
+459,7/10/2023,237239,4817,Male,62,0.9,Married,Check up,1,120/80,FALSE,0,0,No,No,No,No,No,187,56,Pneumonia,Smoker,Occasional,22,10,Debit card,Yes,1,5
+460,8/25/2023,237240,5937,Male,35,0.15,Married,Follow up,3,110/70,TRUE,7,1,No,No,No,No,Yes,186,45,Bronchitis,Non-smoker,Never,24,40,Insurance,No,9,7
+461,7/8/2023,237241,8571,Female,46,0.65,Married,Check up,3,140/90,FALSE,6,0,Yes,No,Yes,No,No,176,87,Urinary Tract Infection (UTI),Non-smoker,Regular,1,47,Cash,No,5,10
+462,8/2/2023,237242,8590,Male,24,0.25,Not married,Follow up,1,120/80,FALSE,0,0,No,No,No,No,Yes,166,99,Gastroenteritis,Smoker,Occasional,4,13,Debit card,No,9,3
+463,8/13/2023,237243,6022,Female,43,1.3,Not married,Check up,3,130/85,FALSE,0,1,Yes,No,Yes,Yes,Yes,165,76,Gastric Ulcer,Smoker,Regular,15,41,Credit card,Yes,3,8
+464,8/16/2023,237244,9819,Male,31,1.1,Not married,Follow up,2,110/70,FALSE,11,0,No,Yes,No,Yes,No,155,77,Gastroenteritis,Non-smoker,Never,1,13,Cash,No,1,3
+465,7/28/2023,237245,8920,Male,51,0.65,Married,Check up,2,120/80,TRUE,14,12,No,Yes,No,No,Yes,160,45,Diabetes Mellitus,Smoker,Regular,24,25,Insurance,No,2,6
+466,7/11/2023,237246,5165,Female,51,0.06,Married,Check up,2,120/80,FALSE,7,1,No,No,No,No,Yes,155,81,Hyperlipidemia ,Non-smoker,Regular,11,42,Credit card,No,9,6
+467,7/19/2023,237247,8147,Male,61,1.1,Not married,Follow up,3,140/90,FALSE,0,0,No,No,No,No,No,144,92,Osteoarthritis,Smoker,Never,27,30,Cash,No,9,3
+468,8/12/2023,237248,9566,Male,40,1.5,Married,Check up,1,110/70,FALSE,0,1,Yes,No,Yes,No,No,164,82,Rheumatoid Arthritis,Non-smoker,Occasional,4,22,Credit card,No,8,9
+469,7/6/2023,237249,8325,Male,27,0.15,Not married,Check up,1,130/85,TRUE,14,6,Yes,No,Yes,No,No,177,76,Asthma,Smoker,Regular,9,44,Insurance,Yes,6,9
+470,8/29/2023,237250,2662,Female,54,0.65,Married,Follow up,1,140/90,FALSE,14,6,No,No,No,No,Yes,156,86,Allergic Rhinitis,Non-smoker,Regular,11,18,Debit card,No,7,1
+471,8/8/2023,237251,8361,Female,35,1.3,Married,Check up,1,120/80,FALSE,0,1,No,No,No,Yes,No,158,88,Migraine Headache,Smoker,Occasional,3,46,Cash,No,8,8
+472,8/7/2023,237252,4580,Female,25,1.5,Not married,Check up,0,130/85,FALSE,0,0,No,Yes,No,Yes,No,147,83,Depression,Non-smoker,Never,7,20,Credit card,No,7,7
+473,8/12/2023,237253,3292,Male,47,1.5,Not married,Follow up,0,140/90,FALSE,0,0,Yes,Yes,Yes,No,Yes,173,81,Anxiety Disorder,Smoker,Regular,29,28,Cash,Yes,3,2
+474,7/18/2023,237254,9288,Male,32,0.65,Married,Follow up,2,120/80,FALSE,2,1,No,No,No,No,No,180,92,Gastroesophageal Reflux Disease,Smoker,Occasional,7,32,Debit card,Yes,8,5
+475,8/4/2023,237255,9757,Female,46,0.55,Married,Check up,2,110/70,TRUE,0,3,Yes,No,Yes,No,Yes,144,99,Peptic Ulcer Disease,Non-smoker,Never,17,40,Insurance,Yes,4,7
+476,7/22/2023,237256,7377,Female,35,0.9,Married,Follow up,2,140/90,FALSE,0,6,No,No,No,No,No,140,43,Coronary Artery Disease,Non-smoker,Regular,6,24,Cash,No,5,7
+477,8/28/2023,237257,7789,Female,41,0.9,Not married,Check up,1,120/80,FALSE,0,1,Yes,No,Yes,Yes,No,173,64,Chronic Obstructive Pulmonary Disease,Smoker,Occasional,1,38,Debit card,No,3,3
+478,8/22/2023,237258,1063,Male,43,0.15,Not married,Follow up,5,130/85,FALSE,0,11,yes,Yes,yes,No,No,155,72,Iron-deficiency Anemia,Smoker,Regular,17,22,Credit card,No,3,9
+479,7/12/2023,237259,1585,Male,39,0.75,Not married,Follow up,5,110/70,FALSE,0,2,No,No,No,Yes,No,156,88,Hypothyroidism,Non-smoker,Never,28,34,Cash,Yes,9,8
+480,7/26/2023,237260,6953,Male,44,0.25,Married,Follow up,2,120/80,TRUE,0,0,No,Yes,No,No,Yes,123,43,Hyperthyroidism,Smoker,Regular,16,31,Insurance,No,4,8
+481,7/6/2023,237261,4894,Female,44,0.75,Married,Check up,1,120/80,FALSE,0,3,Yes,No,Yes,Yes,Yes,134,65,Urinary Stones ,Non-smoker,Regular,19,18,Credit card,Yes,3,9
+482,8/10/2023,237262,3456,Female,37,0.25,Not married,Check up,1,140/90,FALSE,0,4,Yes,Yes,Yes,Yes,No,113,86,Gout,Smoker,Never,10,49,Cash,Yes,8,6
+483,7/6/2023,237263,1429,Male,25,1.5,Married,Follow up,2,110/70,FALSE,0,0,No,Yes,No,Yes,No,145,99,Chronic Kidney Disease,Non-smoker,Occasional,17,11,Credit card,No,6,3
+484,7/23/2023,237264,8224,Male,58,1.5,Not married,Check up,1,130/85,TRUE,0,0,Yes,Yes,Yes,Yes,No,132,100,Appendicitis,Smoker,Regular,10,39,Insurance,No,4,6
+485,8/8/2023,237265,5402,Female,51,0.25,Married,Follow up,2,140/90,FALSE,0,2,No,Yes,No,Yes,Yes,145,40,Acute Myocardial Infarction ,Non-smoker,Regular,10,36,Debit card,Yes,9,6
+486,7/30/2023,237266,5934,Female,57,0.75,Married,Follow up,5,120/80,FALSE,3,2,Yes,Yes,Yes,No,No,144,70,Inflammatory Bowel Disease,Smoker,Occasional,6,16,Cash,Yes,2,5
+487,7/4/2023,237267,4256,Male,55,0.45,Not married,Check up,2,130/85,FALSE,14,4,Yes,No,Yes,No,Yes,133,78,Otitis Media ,Non-smoker,Never,10,19,Credit card,Yes,9,9
+488,7/25/2023,237268,1243,Male,21,0.55,Not married,Check up,1,140/90,FALSE,0,0,Yes,No,Yes,No,No,120,79,Conjunctivitis ,Smoker,Regular,2,37,Cash,Yes,2,8
+489,7/19/2023,237269,3896,Male,50,1.1,Married,Check up,1,120/80,FALSE,1,0,No,No,No,No,Yes,129,75,Sinusitis,Smoker,Occasional,4,31,Debit card,Yes,5,3
+490,8/11/2023,237270,2114,Female,34,0.25,Married,Check up,2,110/70,TRUE,0,0,No,No,No,No,yes,130,65,Gastroesophageal Reflux Disease,Non-smoker,Never,2,20,Insurance,No,4,9
+491,8/24/2023,237271,5206,Female,51,1.5,Married,Follow up,2,140/90,FALSE,2,0,No,No,No,No,No,156,65,Peptic Ulcer Disease,Non-smoker,Regular,3,42,Cash,Yes,9,8
+492,7/23/2023,237272,9555,Female,25,0.01,Not married,Follow up,1,120/80,FALSE,0,0,No,No,No,Yes,No,147,66,Eczema ,Smoker,Occasional,11,43,Debit card,Yes,6,2
+493,7/31/2023,237273,9667,Male,47,0.9,Not married,Follow up,1,130/85,FALSE,0,0,No,Yes,No,No,Yes,177,87,Psoriasis,Smoker,Regular,28,34,Credit card,No,4,4
+494,7/8/2023,237274,5156,Male,40,0.65,Not married,Check up,1,110/70,FALSE,3,1,No,No,No,Yes,Yes,188,54,Hypothyroidism,Non-smoker,Never,1,11,Cash,No,8,7
+495,8/17/2023,237275,7625,Male,45,0.75,Married,Follow up,5,120/80,TRUE,14,7,Yes,Yes,Yes,No,No,156,56,Hyperthyroidism,Smoker,Regular,12,45,Insurance,Yes,5,8
+496,7/14/2023,237276,3353,Female,44,0.9,Married,Follow up,2,120/80,FALSE,0,11,Yes,No,Yes,No,Yes,166,87,Anemia,Non-smoker,Regular,8,24,Credit card,No,7,4
+497,8/21/2023,237277,4308,Female,65,0.9,Not married,Check up,3,140/90,FALSE,3,0,No,No,No,Yes,No,65,74,Gastrointestinal Bleeding,Smoker,Never,5,42,Cash,No,2,8
+498,7/29/2023,237278,9682,Female,39,0.75,Married,Follow up,1,110/70,FALSE,14,6,No,Yes,No,No,Yes,167,72,Celiac Disease,Non-smoker,Occasional,8,29,Credit card,Yes,9,4
+499,7/19/2023,237279,5877,Female,21,0.65,Not married,Check up,1,130/85,TRUE,0,0,No,No,No,Yes,Yes,156,53,Irritable Bowel Syndrome,Smoker,Regular,21,15,Insurance,Yes,1,6
+500,8/5/2023,237280,6142,Male,24,1.5,Married,Follow up,2,140/90,FALSE,1,1,No,Yes,No,Yes,Yes,166,51,Chronic Fatigue Syndrome,Non-smoker,Regular,23,16,Debit card,No,2,7
+501,8/20/2023,237281,5914,Male,31,0.65,Married,Check up,0,120/80,FALSE,0,0,Yes,Yes,Yes,Yes,No,167,59,Fibromyalgia,Smoker,Occasional,3,36,Cash,No,3,9
+502,8/9/2023,237282,5600,Female,28,0.75,Not married,Follow up,0,130/85,FALSE,0,0,No,Yes,No,No,No,154,60,Urinary Incontinence,Non-smoker,Never,25,16,Credit card,No,9,5
+503,7/20/2023,237283,6228,Female,46,1.5,Not married,Check up,0,140/90,FALSE,0,0,Yes,No,Yes,Yes,No,143,70,Endometriosis,Smoker,Regular,24,31,Cash,No,1,1
+504,7/6/2023,237284,7785,Female,49,0.35,Married,Follow up,1,120/80,FALSE,14,6,No,Yes,No,No,No,142,77,Polycystic Ovary Syndrome,Smoker,Occasional,24,39,Debit card,No,1,9
+505,8/23/2023,237285,2348,Female,36,0.25,Married,Follow up,1,110/70,TRUE,0,0,Yes,No,Yes,No,No,166,87,Benign Prostatic Hyperplasia,Non-smoker,Never,29,42,Insurance,Yes,9,3
+506,7/30/2023,237286,1219,Male,36,0.25,Married,Follow up,4,140/90,FALSE,2,7,Yes,No,Yes,No,No,145,55,Meningitis,Non-smoker,Regular,26,45,Cash,No,1,1
+507,7/9/2023,237287,8067,Female,53,0.55,Not married,Check up,5,120/80,FALSE,0,4,Yes,No,Yes,No,Yes,167,67,Epilepsy,Smoker,Occasional,29,11,Debit card,Yes,9,7
+508,8/10/2023,237288,4254,Male,43,0.65,Not married,Check up,2,130/85,FALSE,0,3,Yes,No,Yes,No,Yes,177,56,Stroke,Smoker,Regular,14,33,Credit card,Yes,8,2
+509,8/16/2023,237289,5182,Male,32,0.25,Not married,Check up,4,110/70,FALSE,14,4,Yes,No,Yes,No,No,178,45,Chronic Liver Disease,Non-smoker,Never,6,19,Cash,No,3,8
+510,7/31/2023,237290,5958,Female,53,0.25,Married,Check up,3,120/80,TRUE,3,2,No,No,No,No,No,167,87,Cirrhosis,Smoker,Regular,17,18,Insurance,Yes,1,7
+511,8/30/2023,237291,9739,Male,31,0.65,Married,Follow up,2,120/80,FALSE,5,6,No,No,No,No,No,167,99,Chronic Pancreatitis,Non-smoker,Regular,25,38,Credit card,No,6,7
+512,8/27/2023,237292,1465,Female,30,0.35,Not married,Check up,3,140/90,FALSE,0,12,No,No,No,No,No,155,76,Gallstones,Smoker,Never,19,49,Cash,Yes,2,10
+513,7/1/2023,237293,1940,Male,34,1.1,Married,Follow up,2,110/70,FALSE,0,0,No,No,No,No,Yes,157,77,Diverticulitis,Non-smoker,Occasional,27,33,Credit card,No,9,9
+514,7/2/2023,237294,1144,Male,24,0,Not married,Check up,2,130/85,TRUE,0,0,No,No,No,Yes,No,145,45,Deep Vein Thrombosis,Smoker,Regular,9,46,Insurance,No,6,8
+515,7/23/2023,237295,6525,Female,22,0.25,Married,Follow up,2,140/90,FALSE,0,6,No,Yes,No,No,Yes,190,81,Pulmonary Embolism,Non-smoker,Regular,9,12,Debit card,No,7,1
+516,8/21/2023,237296,4562,Male,54,0.9,Married,Check up,5,120/80,FALSE,0,11,Yes,No,Yes,No,No,188,92,Hypertensive Heart Disease,Smoker,Occasional,21,25,Cash,Yes,1,2
+517,8/2/2023,237297,6967,Male,26,0.75,Not married,Check up,1,130/85,FALSE,0,0,No,No,No,No,Yes,187,82,Hypertension,Non-smoker,Never,14,50,Credit card,Yes,3,1
+518,7/19/2023,237298,2223,Male,34,0.25,Not married,Follow up,1,140/90,FALSE,0,0,Yes,No,Yes,No,Yes,186,76,Diabetes,Smoker,Regular,16,14,Cash,No,4,1
+519,7/5/2023,237299,7131,Female,34,0.25,Married,Check up,3,120/80,FALSE,0,2,No,No,No,Yes,Yes,176,86,Common cold,Smoker,Occasional,30,44,Debit card,No,9,2
+520,7/19/2023,237300,3726,Female,56,0.25,Married,Check up,2,110/70,TRUE,0,0,No,Yes,No,No,Yes,166,88,Arthritis,Non-smoker,Never,20,46,Insurance,Yes,1,7
+521,8/16/2023,237301,1309,Female,40,0.25,Married,Follow up,5,140/90,FALSE,0,0,Yes,No,Yes,No,Yes,165,83,Allergies,Non-smoker,Regular,3,32,Cash,No,1,8
+522,8/28/2023,237302,3410,Male,36,0.75,Not married,Check up,1,120/80,FALSE,0,1,No,No,No,No,No,155,81,Headache,Smoker,Occasional,18,18,Debit card,Yes,5,10
+523,8/10/2023,237303,6515,Male,42,0.25,Not married,Check up,3,130/85,FALSE,0,3,Yes,No,Yes,No,No,160,92,Fever,Smoker,Regular,12,47,Credit card,Yes,2,5
+524,8/26/2023,237304,6029,Female,53,0.35,Not married,Follow up,1,110/70,FALSE,14,10,Yes,No,Yes,No,No,155,99,Allergies,Non-smoker,Never,28,35,Cash,No,3,8
+525,7/25/2023,237305,1403,Female,58,0.25,Married,Follow up,5,120/80,TRUE,14,7,Yes,No,Yes,No,No,144,43,Headache,Smoker,Regular,9,18,Insurance,Yes,5,3
+526,7/15/2023,237306,4178,Female,34,1.3,Married,Check up,1,120/80,FALSE,0,0,No,No,No,No,No,164,64,Diabetes,Non-smoker,Regular,9,28,Credit card,Yes,7,2
+527,8/13/2023,237307,8940,Male,22,0.45,Not married,Follow up,4,140/90,FALSE,0,1,Yes,No,Yes,Yes,No,177,72,Common cold,Smoker,Never,24,34,Cash,No,8,2
+528,8/6/2023,237308,3061,Male,35,0.25,Married,Check up,5,110/70,FALSE,14,1,No,Yes,No,Yes,Yes,156,88,Allergies,Non-smoker,Occasional,14,35,Credit card,No,4,5
+529,7/11/2023,237309,4982,Male,54,0.55,Not married,Follow up,2,130/85,TRUE,14,1,No,Yes,No,No,No,158,43,Fever,Smoker,Regular,11,49,Insurance,Yes,3,8
+530,7/4/2023,237310,4788,Female,25,0.75,Married,Follow up,1,140/90,FALSE,1,1,No,No,No,No,Yes,147,65,Headache,Non-smoker,Regular,8,26,Debit card,Yes,9,4
+531,7/13/2023,237311,1594,Female,65,0.25,Married,Follow up,4,120/80,FALSE,0,0,No,No,No,No,No,173,86,Diabetes,Smoker,Occasional,26,44,Cash,Yes,5,7
+532,7/20/2023,237312,6162,Male,23,1.3,Not married,Check up,2,130/85,FALSE,3,0,No,No,No,No,No,180,99,Common Cold,Non-smoker,Never,8,32,Credit card,No,9,4
+533,7/10/2023,237313,5822,Male,54,0.35,Not married,Check up,5,140/90,FALSE,5,11,No,No,No,No,Yes,144,100,Influenza (Flu),Smoker,Regular,29,23,Cash,Yes,8,1
+534,8/1/2023,237314,6641,Female,42,0.65,Married,Follow up,1,120/80,FALSE,14,1,No,No,No,No,No,140,40,Pneumonia,Smoker,Occasional,29,30,Debit card,Yes,6,10
+535,8/14/2023,237315,6436,Female,43,0.25,Married,Check up,4,110/70,TRUE,3,2,No,No,No,Yes,Yes,173,70,Bronchitis,Non-smoker,Never,6,49,Insurance,No,1,9
+536,7/13/2023,237316,2408,Male,54,0.75,Married,Follow up,3,140/90,FALSE,3,0,No,Yes,No,Yes,Yes,155,78,Urinary Tract Infection,Non-smoker,Regular,12,15,Cash,Yes,5,1
+537,8/18/2023,237317,6088,Male,22,1.3,Not married,Follow up,2,120/80,FALSE,0,0,Yes,Yes,Yes,No,Yes,156,79,Gastroenteritis,Smoker,Occasional,21,21,Debit card,Yes,8,4
+538,7/16/2023,237318,8749,Male,61,0.25,Not married,Check up,1,130/85,FALSE,0,1,Yes,No,Yes,No,No,123,75,Gastric Ulcer,Smoker,Regular,13,36,Credit card,No,5,9
+539,8/18/2023,237319,3962,Female,64,0.35,Not married,Check up,3,110/70,FALSE,0,0,No,No,No,No,Yes,134,65,Hyperlipidemia ,Non-smoker,Never,27,49,Cash,No,6,2
+540,8/10/2023,237320,1554,Female,41,0.25,Married,Check up,5,120/80,TRUE,0,7,Yes,No,Yes,No,No,113,65,Diabetes Mellitus,Smoker,Regular,11,12,Insurance,No,3,4
+541,7/20/2023,237321,1376,Female,33,0.25,Married,Check up,1,120/80,FALSE,0,0,No,No,No,Yes,No,145,66,Hyperlipidemia ,Non-smoker,Regular,1,49,Credit card,Yes,5,2
+542,8/9/2023,237322,1487,Male,32,0.45,Not married,Follow up,1,140/90,FALSE,0,1,No,Yes,No,No,No,132,87,Osteoarthritis,Smoker,Never,22,11,Cash,No,1,7
+543,8/12/2023,237323,6797,Male,24,0.45,Married,Follow up,5,110/70,FALSE,0,0,No,No,No,Yes,No,145,54,Common Cold ,Non-smoker,Occasional,11,43,Credit card,No,8,1
+544,8/19/2023,237324,5651,Male,44,0.9,Not married,Follow up,2,130/85,TRUE,14,3,Yes,Yes,Yes,No,No,144,56,Influenza (Flu),Smoker,Regular,20,17,Insurance,Yes,2,5
+545,8/3/2023,237325,9405,Female,21,0.25,Married,Check up,1,140/90,FALSE,0,0,No,No,No,Yes,No,133,87,Pneumonia,Non-smoker,Regular,27,40,Debit card,Yes,1,1
+546,7/29/2023,237326,1381,Female,52,0.45,Married,Follow up,4,120/80,FALSE,3,0,No,Yes,No,Yes,No,120,74,Bronchitis,Smoker,Occasional,28,11,Cash,No,4,4
+547,7/8/2023,237327,5683,Female,35,0.75,Not married,Follow up,2,130/85,FALSE,2,1,Yes,Yes,Yes,Yes,No,129,72,Urinary Tract Infection (UTI),Non-smoker,Never,13,15,Credit card,Yes,8,8
+548,7/16/2023,237328,9840,Female,38,0.45,Not married,Check up,3,140/90,FALSE,0,2,No,Yes,No,Yes,No,130,53,Gastroenteritis,Smoker,Regular,13,44,Cash,No,2,8
+549,8/8/2023,237329,6412,Male,38,1.5,Married,Follow up,3,120/80,FALSE,0,0,Yes,Yes,Yes,Yes,Yes,156,51,Gastric Ulcer,Smoker,Occasional,25,26,Debit card,Yes,4,3
+550,7/12/2023,237330,5340,Male,23,0.65,Married,Check up,1,110/70,TRUE,0,0,Yes,Yes,Yes,No,Yes,147,59,Gastroenteritis,Non-smoker,Never,18,42,Insurance,Yes,2,3
+551,7/4/2023,237331,6422,Female,21,0.75,Married,Follow up,3,140/90,FALSE,14,6,No,No,No,No,No,177,60,Diabetes Mellitus,Non-smoker,Regular,10,26,Cash,No,8,1
+552,7/7/2023,237332,4071,Female,59,0.25,Not married,Check up,4,120/80,FALSE,14,4,Yes,No,Yes,No,Yes,188,70,Hyperlipidemia ,Smoker,Occasional,10,30,Debit card,Yes,8,1
+553,8/22/2023,237333,3767,Female,34,1.3,Not married,Follow up,2,130/85,FALSE,0,2,Yes,No,Yes,No,No,156,77,Osteoarthritis,Smoker,Regular,20,16,Credit card,No,2,4
+554,8/18/2023,237334,8099,Female,27,0.45,Not married,Check up,1,110/70,FALSE,14,8,No,No,No,No,No,166,87,Rheumatoid Arthritis,Non-smoker,Never,12,18,Cash,No,3,7
+555,7/15/2023,237335,8411,Male,24,1.1,Married,Follow up,1,120/80,TRUE,3,0,No,No,No,No,No,65,55,Asthma,Smoker,Regular,8,30,Insurance,No,2,3
+556,8/17/2023,237336,7771,Female,31,0.75,Married,Follow up,0,120/80,FALSE,0,0,No,No,No,Yes,Yes,167,67,Allergic Rhinitis,Non-smoker,Regular,19,49,Credit card,No,8,2
+557,7/10/2023,237337,9898,Male,56,1.5,Not married,Follow up,0,140/90,FALSE,0,0,Yes,Yes,Yes,No,No,156,56,Migraine Headache,Smoker,Never,16,47,Cash,Yes,6,10
+558,8/20/2023,237338,6080,Male,43,0.35,Married,Check up,2,110/70,FALSE,0,0,No,No,No,Yes,No,166,45,Depression,Non-smoker,Occasional,25,26,Credit card,Yes,6,10
+559,8/22/2023,237339,3263,Female,37,0.25,Not married,Check up,4,130/85,TRUE,0,1,No,Yes,No,No,Yes,167,87,Anxiety Disorder,Smoker,Regular,6,30,Insurance,No,3,7
+560,8/11/2023,237340,7462,Male,57,0,Married,Check up,1,140/90,FALSE,0,1,Yes,No,Yes,No,No,154,99,Gastroesophageal Reflux Disease,Non-smoker,Regular,10,41,Debit card,No,7,6
+561,7/31/2023,237341,4560,Female,64,0.35,Married,Check up,4,120/80,FALSE,0,11,No,No,No,Yes,Yes,143,76,Peptic Ulcer Disease,Smoker,Occasional,2,34,Cash,Yes,8,1
+562,8/24/2023,237342,6648,Male,54,0.9,Not married,Follow up,1,130/85,FALSE,0,0,Yes,Yes,Yes,No,Yes,142,77,Coronary Artery Disease,Non-smoker,Never,4,22,Credit card,No,2,10
+563,8/18/2023,237343,9658,Male,54,0.35,Not married,Check up,1,140/90,FALSE,10,2,No,No,No,Yes,No,166,45,Chronic Obstructive Pulmonary Disease,Smoker,Regular,1,16,Cash,Yes,7,1
+564,8/14/2023,237344,8142,Female,27,0.55,Married,Follow up,1,120/80,FALSE,4,1,No,Yes,No,Yes,Yes,145,81,Iron-deficiency Anemia,Smoker,Occasional,11,35,Debit card,No,9,6
+565,7/18/2023,237345,5076,Male,53,0.65,Married,Check up,2,110/70,TRUE,0,7,No,Yes,No,Yes,Yes,167,92,Hypothyroidism,Non-smoker,Never,5,21,Insurance,Yes,5,5
+566,8/13/2023,237346,6143,Male,57,0.35,Married,Follow up,2,140/90,FALSE,0,0,No,Yes,No,No,No,177,82,Hyperthyroidism,Non-smoker,Regular,19,28,Cash,No,3,6
+567,8/11/2023,237347,7472,Male,57,0.9,Not married,Check up,2,120/80,FALSE,0,4,Yes,No,Yes,Yes,No,178,76,Urinary Stones ,Smoker,Occasional,10,20,Debit card,No,4,2
+568,7/9/2023,237348,9324,Female,44,0.25,Not married,Check up,4,130/85,FALSE,0,0,Yes,Yes,Yes,No,No,167,86,Gout,Smoker,Regular,28,39,Credit card,No,1,7
+569,8/7/2023,237349,5503,Female,36,0.25,Not married,Follow up,5,110/70,FALSE,0,2,No,No,No,No,Yes,167,88,Chronic Kidney Disease,Non-smoker,Never,12,44,Cash,No,5,2
+570,8/27/2023,237350,4125,Female,65,0.15,Married,Check up,3,120/80,TRUE,7,9,No,No,No,No,No,155,83,Appendicitis,Smoker,Regular,30,44,Insurance,No,7,8
+571,7/26/2023,237351,5677,Male,22,0.25,Married,Check up,3,120/80,FALSE,0,0,No,No,No,No,No,157,81,Acute Myocardial Infarction ,Non-smoker,Regular,5,32,Credit card,No,7,2
+572,7/9/2023,237352,7073,Male,27,0.15,Not married,Follow up,5,140/90,FALSE,1,2,Yes,No,Yes,No,Yes,145,92,Inflammatory Bowel Disease,Smoker,Never,17,35,Cash,No,7,7
+573,8/16/2023,237353,6413,Female,38,0.25,Married,Check up,2,110/70,FALSE,0,4,No,No,No,No,No,190,99,Otitis Media ,Non-smoker,Occasional,11,30,Credit card,No,1,10
+574,8/1/2023,237354,3118,Female,34,0.01,Not married,Check up,1,130/85,TRUE,0,1,Yes,No,Yes,No,Yes,188,43,Conjunctivitis ,Smoker,Regular,27,28,Insurance,Yes,1,8
+575,8/23/2023,237355,5103,Female,38,0.75,Married,Follow up,4,140/90,FALSE,0,0,No,No,No,No,No,187,64,Sinusitis,Non-smoker,Regular,17,44,Debit card,No,4,5
+576,7/20/2023,237356,7106,Male,21,0.25,Married,Follow up,2,120/80,FALSE,0,0,Yes,No,Yes,No,No,186,72,Gastroesophageal Reflux Disease,Smoker,Occasional,10,25,Cash,No,7,2
+577,8/18/2023,237357,7133,Male,37,0.06,Not married,Check up,2,130/85,FALSE,0,4,yes,No,yes,No,No,176,88,Peptic Ulcer Disease,Non-smoker,Never,20,40,Credit card,No,7,1
+578,7/27/2023,237358,8643,Male,42,0.55,Not married,Follow up,1,140/90,FALSE,8,10,No,No,No,Yes,No,166,43,Eczema ,Smoker,Regular,7,26,Cash,Yes,2,10
+579,8/11/2023,237359,8950,Female,55,0.25,Married,Check up,2,120/80,FALSE,0,2,No,Yes,No,No,Yes,165,65,Psoriasis,Smoker,Occasional,6,29,Debit card,No,1,2
+580,7/18/2023,237360,3838,Female,34,0.75,Married,Follow up,3,110/70,TRUE,0,0,Yes,No,Yes,No,Yes,155,86,Hypothyroidism,Non-smoker,Never,2,35,Insurance,Yes,4,10
+581,7/2/2023,237361,5632,Male,53,0.25,Married,Follow up,3,140/90,FALSE,0,0,Yes,No,Yes,No,No,160,99,Hyperthyroidism,Non-smoker,Regular,30,44,Cash,Yes,7,6
+582,7/24/2023,237362,2142,Male,36,0.9,Not married,Follow up,3,120/80,FALSE,0,0,No,No,No,No,No,155,100,Anemia,Smoker,Occasional,28,42,Debit card,Yes,5,10
+583,8/3/2023,237363,3788,Female,51,0.25,Not married,Check up,5,130/85,FALSE,1,10,Yes,No,Yes,Yes,No,144,40,Gastrointestinal Bleeding,Smoker,Regular,19,22,Credit card,Yes,1,6
+584,7/29/2023,237364,8866,Female,61,0.35,Not married,Check up,3,110/70,FALSE,0,0,No,Yes,No,No,Yes,164,70,Celiac Disease,Non-smoker,Never,10,28,Cash,Yes,8,8
+585,7/27/2023,237365,4338,Male,44,0.75,Married,Follow up,1,120/80,TRUE,4,0,Yes,No,Yes,No,No,177,78,Irritable Bowel Syndrome,Smoker,Regular,27,37,Insurance,No,3,2
+586,7/16/2023,237366,3358,Male,55,0.35,Married,Check up,1,120/80,FALSE,0,0,Yes,No,Yes,No,Yes,156,79,Chronic Fatigue Syndrome,Non-smoker,Regular,26,49,Credit card,Yes,4,3
+587,8/5/2023,237367,5674,Male,44,1.3,Not married,Follow up,2,140/90,FALSE,9,1,No,No,No,No,No,158,75,Fibromyalgia,Smoker,Never,4,24,Cash,No,6,6
+588,8/2/2023,237368,9424,Female,32,0.65,Married,Follow up,3,110/70,FALSE,14,1,No,No,No,No,Yes,147,65,Urinary Incontinence,Non-smoker,Occasional,10,18,Credit card,Yes,1,5
+589,7/22/2023,237369,9473,Female,45,0.65,Not married,Check up,1,130/85,TRUE,0,3,No,No,No,No,yes,173,65,Endometriosis,Smoker,Regular,8,22,Insurance,No,9,4
+590,7/27/2023,237370,7472,Female,59,1.1,Married,Check up,1,140/90,FALSE,5,1,No,No,No,No,No,180,66,Polycystic Ovary Syndrome,Non-smoker,Regular,7,31,Debit card,No,8,1
+591,7/15/2023,237371,4909,Male,24,0.65,Married,Check up,5,120/80,FALSE,0,0,No,No,No,Yes,No,144,87,Benign Prostatic Hyperplasia,Smoker,Occasional,3,36,Cash,No,7,9
+592,8/22/2023,237372,2220,Male,65,0.9,Not married,Check up,1,130/85,FALSE,4,0,No,Yes,No,Yes,Yes,140,54,Meningitis,Non-smoker,Never,23,40,Credit card,Yes,9,2
+593,7/31/2023,237373,1528,Male,25,1.1,Not married,Follow up,3,140/90,FALSE,8,1,Yes,Yes,Yes,No,Yes,173,56,Epilepsy,Smoker,Regular,13,27,Cash,Yes,6,8
+594,8/18/2023,237374,4136,Female,24,0.45,Married,Follow up,1,120/80,FALSE,0,6,Yes,No,Yes,No,No,155,87,Stroke,Smoker,Occasional,3,35,Debit card,Yes,7,8
+595,8/9/2023,237375,4031,Female,30,0.45,Married,Follow up,3,110/70,TRUE,1,0,No,No,No,No,Yes,156,74,Chronic Liver Disease,Non-smoker,Never,9,44,Insurance,No,9,5
+596,7/12/2023,237376,6950,Female,29,0.9,Married,Check up,5,140/90,FALSE,10,4,No,No,No,No,No,123,72,Cirrhosis,Non-smoker,Regular,24,49,Cash,No,5,2
+597,8/6/2023,237377,4376,Female,43,0.15,Not married,Follow up,4,120/80,FALSE,3,0,No,No,No,No,Yes,134,53,Chronic Pancreatitis,Smoker,Occasional,24,12,Debit card,No,2,5
+598,7/6/2023,237378,2682,Male,21,0.25,Not married,Follow up,5,130/85,FALSE,0,6,No,No,No,No,Yes,113,51,Gallstones,Smoker,Regular,8,36,Credit card,Yes,7,5
+599,7/28/2023,237379,6416,Male,56,0.01,Not married,Check up,1,110/70,FALSE,9,4,Yes,No,Yes,Yes,No,145,59,Diverticulitis,Non-smoker,Never,21,16,Cash,Yes,9,9
+600,7/25/2023,237380,7722,Female,43,0.75,Married,Follow up,4,120/80,TRUE,14,1,No,Yes,No,Yes,No,132,60,Deep Vein Thrombosis,Smoker,Regular,20,40,Insurance,No,2,4
+601,8/8/2023,237381,4760,Female,24,0.55,Married,Check up,2,120/80,FALSE,0,1,Yes,Yes,Yes,No,No,145,70,Pulmonary Embolism,Non-smoker,Regular,5,10,Credit card,Yes,8,9
+602,7/22/2023,237382,1263,Female,35,0.35,Not married,Follow up,2,140/90,FALSE,2,2,No,No,No,No,No,144,77,Hypertensive Heart Disease,Smoker,Regular,20,35,Cash,No,2,3
+603,8/19/2023,237383,6997,Female,57,0.25,Married,Check up,5,110/70,FALSE,0,0,Yes,No,Yes,No,No,133,87,Hypertension,Non-smoker,Never,30,30,Credit card,Yes,3,1
+604,7/23/2023,237384,3472,Male,39,0.55,Not married,Follow up,4,130/85,TRUE,2,0,Yes,No,Yes,No,No,120,55,Diabetes,Smoker,Occasional,17,14,Insurance,No,3,9
+605,7/10/2023,237385,9246,Female,59,0.75,Married,Check up,1,140/90,FALSE,2,1,Yes,No,Yes,Yes,Yes,129,67,Common cold,Non-smoker,Regular,25,13,Debit card,No,6,7
+606,7/6/2023,237386,1602,Male,32,0.25,Married,Follow up,5,120/80,FALSE,0,6,Yes,Yes,Yes,No,Yes,130,56,Arthritis,Smoker,Regular,24,34,Cash,Yes,7,6
+607,7/12/2023,237387,6473,Male,46,0.25,Not married,Follow up,5,130/85,FALSE,14,7,Yes,No,Yes,Yes,No,156,45,Allergies,Non-smoker,Occasional,17,18,Credit card,Yes,5,4
+608,8/30/2023,237388,8915,Female,32,0.25,Not married,Follow up,4,140/90,FALSE,0,3,No,Yes,No,No,No,147,87,Headache,Smoker,Never,11,47,Cash,No,1,7
+609,7/2/2023,237389,6975,Male,38,0.35,Married,Check up,3,120/80,FALSE,4,5,No,No,No,Yes,No,177,99,Fever,Smoker,Regular,5,36,Debit card,Yes,5,2
+610,8/21/2023,237390,4589,Female,48,0.25,Married,Check up,4,110/70,TRUE,14,7,No,Yes,No,Yes,No,188,76,Allergies,Non-smoker,Occasional,4,39,Insurance,No,8,7
+611,8/18/2023,237391,8480,Male,56,0.55,Married,Check up,1,140/90,FALSE,0,0,No,Yes,No,Yes,Yes,156,77,Headache,Non-smoker,Never,12,28,Cash,Yes,1,4
+612,8/27/2023,237392,1416,Male,40,0.35,Not married,Check up,2,120/80,FALSE,14,6,No,Yes,No,Yes,No,166,45,Diabetes,Smoker,Regular,1,47,Debit card,No,1,2
+613,8/9/2023,237393,8966,Female,21,0.25,Not married,Follow up,1,130/85,FALSE,8,0,No,Yes,No,Yes,Yes,65,81,Common cold,Smoker,Occasional,2,33,Credit card,No,9,7
+614,8/5/2023,237394,9847,Male,57,0.35,Not married,Check up,5,110/70,FALSE,14,2,Yes,Yes,Yes,No,No,167,92,Allergies,Non-smoker,Regular,2,45,Cash,Yes,5,3
+615,7/1/2023,237395,9549,Male,31,0.9,Married,Follow up,2,120/80,TRUE,0,0,No,No,No,No,Yes,156,82,Fever,Smoker,Never,7,34,Insurance,No,5,4
+616,8/26/2023,237396,6691,Male,30,0.45,Married,Check up,4,120/80,FALSE,4,5,Yes,No,Yes,No,Yes,166,76,Headache,Non-smoker,Regular,14,33,Credit card,Yes,9,2
+617,8/19/2023,237397,5385,Female,63,0.25,Not married,Follow up,3,140/90,FALSE,0,0,No,No,No,No,Yes,167,86,Diabetes,Smoker,Regular,7,12,Cash,No,5,1
+618,7/17/2023,237398,8190,Female,46,1.5,Married,Check up,4,110/70,FALSE,0,0,No,No,No,No,Yes,154,88,Common Cold,Non-smoker,Never,12,40,Credit card,No,9,3
+619,7/25/2023,237399,8691,Female,49,0.25,Not married,Check up,1,130/85,TRUE,14,7,Yes,No,Yes,No,Yes,143,83,Influenza (Flu),Smoker,Occasional,5,20,Insurance,No,2,10
+620,8/5/2023,237400,4778,Male,28,0.65,Married,Follow up,3,140/90,FALSE,14,4,No,No,No,Yes,No,142,81,Pneumonia,Non-smoker,Regular,16,23,Debit card,Yes,8,2
+621,8/23/2023,237401,4664,Male,31,0.65,Married,Check up,1,120/80,FALSE,12,0,Yes,Yes,Yes,No,No,166,92,Bronchitis,Smoker,Regular,21,37,Cash,No,2,9
+622,7/17/2023,237402,4911,Female,21,0.25,Not married,Check up,0,130/85,FALSE,0,0,Yes,No,Yes,Yes,No,145,99,Urinary Tract Infection,Non-smoker,Occasional,28,23,Credit card,Yes,6,10
+623,8/23/2023,237403,2938,Female,22,0.25,Not married,Follow up,0,140/90,FALSE,0,1,Yes,Yes,Yes,No,No,167,43,Gastroenteritis,Smoker,Never,10,29,Cash,No,3,7
+624,8/12/2023,237404,9022,Female,50,1.1,Married,Check up,0,120/80,FALSE,0,0,No,No,No,No,No,177,64,Gastric Ulcer,Smoker,Regular,29,10,Debit card,No,9,7
+625,7/24/2023,237405,3754,Male,25,0.25,Married,Check up,0,110/70,TRUE,0,0,Yes,No,Yes,Yes,No,178,72,Hyperlipidemia ,Non-smoker,Occasional,16,45,Insurance,Yes,1,8
+626,8/19/2023,237406,3670,Male,62,1.5,Married,Follow up,0,140/90,FALSE,0,0,No,Yes,No,No,Yes,167,88,Diabetes Mellitus,Non-smoker,Never,29,33,Cash,Yes,8,10
+627,8/28/2023,237407,5339,Male,23,0.65,Not married,Follow up,0,120/80,FALSE,0,0,No,No,No,Yes,No,167,43,Hyperlipidemia ,Smoker,Regular,2,50,Debit card,Yes,4,1
+628,7/10/2023,237408,6354,Female,60,0.55,Not married,Check up,0,130/85,FALSE,0,0,No,Yes,No,Yes,Yes,155,65,Osteoarthritis,Smoker,Occasional,24,36,Credit card,Yes,4,9
+629,8/6/2023,237409,3116,Female,29,0.35,Not married,Follow up,0,110/70,FALSE,0,0,No,Yes,No,Yes,No,157,86,Common Cold ,Non-smoker,Regular,7,23,Cash,No,9,3
+630,7/16/2023,237410,9062,Male,25,1.5,Married,Check up,1,120/80,TRUE,14,1,No,Yes,No,No,No,145,99,Influenza (Flu),Smoker,Never,8,28,Insurance,Yes,3,7
+631,7/4/2023,237411,9093,Male,31,1.3,Married,Follow up,1,120/80,FALSE,4,1,No,No,No,Yes,Yes,190,100,Pneumonia,Non-smoker,Regular,15,46,Credit card,Yes,2,2
+632,7/1/2023,237412,2618,Female,41,0.25,Not married,Follow up,3,140/90,FALSE,0,8,No,Yes,No,No,No,188,40,Bronchitis,Smoker,Regular,19,23,Cash,No,2,8
+633,7/19/2023,237413,7641,Female,41,0.25,Married,Follow up,1,110/70,FALSE,0,0,No,No,No,No,Yes,187,70,Urinary Tract Infection (UTI),Non-smoker,Never,8,19,Credit card,No,7,9
+634,8/27/2023,237414,4230,Male,27,0.25,Not married,Check up,1,130/85,TRUE,0,3,No,No,No,No,Yes,186,78,Gastroenteritis,Smoker,Occasional,21,18,Insurance,No,1,2
+635,7/4/2023,237415,2943,Male,52,0.25,Married,Check up,5,140/90,FALSE,0,7,Yes,No,Yes,No,Yes,176,79,Gastric Ulcer,Non-smoker,Regular,20,29,Debit card,Yes,9,5
+636,7/19/2023,237416,1269,Male,23,0.35,Married,Follow up,4,120/80,FALSE,0,2,Yes,No,Yes,No,No,166,75,Gastroenteritis,Smoker,Regular,19,16,Cash,No,8,10
+637,7/9/2023,237417,4978,Female,37,0.15,Not married,Check up,1,130/85,FALSE,0,4,No,No,No,No,Yes,165,65,Diabetes Mellitus,Non-smoker,Occasional,30,21,Credit card,Yes,1,1
+638,8/16/2023,237418,4724,Female,40,0.25,Not married,Follow up,1,140/90,FALSE,0,10,Yes,No,Yes,No,No,155,65,Hyperlipidemia ,Smoker,Never,11,15,Cash,No,2,5
+639,7/25/2023,237419,1447,Female,53,0.35,Married,Follow up,2,120/80,FALSE,0,8,No,No,No,No,No,160,66,Osteoarthritis,Smoker,Regular,4,48,Debit card,Yes,8,8
+640,8/17/2023,237420,8227,Male,55,0.35,Married,Check up,2,110/70,TRUE,0,0,No,No,No,No,No,155,87,Rheumatoid Arthritis,Non-smoker,Occasional,4,38,Insurance,Yes,5,2
+641,7/17/2023,237421,5556,Male,46,0.25,Married,Check up,3,140/90,FALSE,0,0,No,No,No,No,No,144,54,Asthma,Non-smoker,Never,21,18,Cash,Yes,6,8
+642,7/20/2023,237422,8748,Male,55,0.25,Not married,Check up,5,120/80,FALSE,3,1,Yes,No,Yes,Yes,No,164,56,Allergic Rhinitis,Smoker,Regular,22,49,Debit card,No,6,6
+643,8/24/2023,237423,2699,Female,42,0.25,Not married,Check up,3,130/85,FALSE,0,0,No,Yes,No,No,No,177,87,Migraine Headache,Smoker,Occasional,18,23,Credit card,No,6,1
+644,8/13/2023,237424,3149,Female,48,0,Not married,Follow up,3,110/70,FALSE,0,6,No,No,No,No,No,156,74,Depression,Non-smoker,Regular,19,17,Cash,Yes,3,6
+645,7/18/2023,237425,4532,Female,46,0.45,Married,Follow up,5,120/80,TRUE,0,4,Yes,No,Yes,No,No,158,72,Anxiety Disorder,Smoker,Never,16,20,Insurance,Yes,9,9
+646,8/23/2023,237426,5174,Female,54,0.15,Married,Follow up,5,120/80,FALSE,3,5,No,No,No,No,No,147,53,Gastroesophageal Reflux Disease,Non-smoker,Regular,17,49,Credit card,Yes,3,1
+647,8/14/2023,237427,9379,Male,64,0.9,Not married,Check up,1,140/90,FALSE,0,0,Yes,No,Yes,Yes,Yes,173,51,Peptic Ulcer Disease,Smoker,Regular,12,19,Cash,Yes,5,10
+648,7/14/2023,237428,2884,Male,51,0.75,Married,Follow up,2,110/70,FALSE,0,2,Yes,Yes,Yes,No,Yes,180,59,Coronary Artery Disease,Non-smoker,Never,14,43,Credit card,Yes,5,8
+649,7/18/2023,237429,6650,Female,59,0.25,Not married,Follow up,2,130/85,TRUE,0,0,No,No,No,No,No,144,60,Chronic Obstructive Pulmonary Disease,Smoker,Occasional,20,44,Insurance,Yes,6,6
+650,7/12/2023,237430,8755,Female,44,0.75,Married,Check up,3,140/90,FALSE,0,0,Yes,No,Yes,No,Yes,140,70,Iron-deficiency Anemia,Non-smoker,Regular,15,31,Debit card,Yes,5,9
+651,8/15/2023,237431,2879,Female,50,0.65,Married,Follow up,5,120/80,FALSE,2,1,Yes,No,Yes,No,No,173,77,Hypothyroidism,Smoker,Regular,4,21,Cash,Yes,5,8
+652,7/9/2023,237432,3586,Female,63,0.25,Not married,Check up,1,130/85,FALSE,0,0,No,No,No,No,No,155,87,Hyperthyroidism,Non-smoker,Occasional,20,18,Credit card,No,3,7
+653,8/16/2023,237433,3817,Male,59,0.25,Not married,Follow up,2,140/90,FALSE,0,0,No,No,No,No,No,156,55,Urinary Stones ,Smoker,Never,26,21,Cash,No,3,4
+654,7/9/2023,237434,9009,Female,53,0.25,Married,Check up,1,120/80,FALSE,0,0,No,No,No,No,Yes,123,67,Gout,Smoker,Regular,5,22,Debit card,Yes,4,2
+655,7/18/2023,237435,6529,Male,55,0.25,Married,Follow up,3,110/70,TRUE,5,1,Yes,No,Yes,Yes,No,134,56,Chronic Kidney Disease,Non-smoker,Occasional,7,13,Insurance,Yes,6,3
+656,7/4/2023,237436,9706,Male,64,0.25,Married,Check up,5,140/90,FALSE,0,7,No,Yes,No,Yes,No,113,45,Appendicitis,Non-smoker,Never,25,19,Cash,No,5,9
+657,8/26/2023,237437,6841,Female,55,0.15,Not married,Follow up,3,120/80,FALSE,0,2,No,Yes,No,No,Yes,145,87,Acute Myocardial Infarction ,Smoker,Regular,30,43,Debit card,Yes,6,9
+658,7/4/2023,237438,1970,Male,34,0.35,Not married,Follow up,5,130/85,FALSE,0,11,Yes,No,Yes,No,No,132,99,Inflammatory Bowel Disease,Smoker,Occasional,25,20,Credit card,Yes,5,1
+659,7/6/2023,237439,8231,Female,58,0.25,Not married,Follow up,1,110/70,FALSE,14,12,No,No,No,No,Yes,145,76,Otitis Media ,Non-smoker,Regular,4,41,Cash,Yes,5,9
+660,7/13/2023,237440,3669,Male,34,0.35,Married,Check up,1,120/80,TRUE,0,0,Yes,No,Yes,No,Yes,144,77,Conjunctivitis ,Smoker,Never,23,27,Insurance,No,7,3
+661,7/9/2023,237441,1013,Male,43,1.1,Married,Check up,1,120/80,FALSE,2,4,No,No,No,No,No,133,45,Sinusitis,Non-smoker,Regular,18,21,Credit card,Yes,6,10
+662,8/14/2023,237442,1844,Female,34,0.25,Not married,Check up,4,140/90,FALSE,13,0,No,No,No,No,Yes,120,81,Gastroesophageal Reflux Disease,Smoker,Regular,21,19,Cash,No,4,5
+663,7/21/2023,237443,2656,Male,44,0.25,Married,Check up,5,110/70,FALSE,14,10,No,No,No,Yes,Yes,129,92,Peptic Ulcer Disease,Non-smoker,Never,27,32,Credit card,Yes,3,4
+664,8/10/2023,237444,5722,Male,22,0.45,Not married,Follow up,5,130/85,TRUE,0,0,No,Yes,No,Yes,No,130,82,Eczema ,Smoker,Occasional,6,24,Insurance,No,5,8
+665,8/20/2023,237445,7390,Male,28,0.35,Married,Check up,1,140/90,FALSE,0,0,Yes,Yes,Yes,No,No,156,76,Psoriasis,Non-smoker,Regular,22,14,Debit card,No,2,1
+666,7/13/2023,237446,4842,Female,25,0,Married,Follow up,1,120/80,FALSE,0,4,Yes,No,Yes,No,No,147,86,Hypothyroidism,Smoker,Regular,12,23,Cash,Yes,6,9
+667,8/20/2023,237447,5228,Female,37,0.25,Not married,Check up,2,130/85,FALSE,0,0,No,No,No,No,Yes,177,88,Hyperthyroidism,Non-smoker,Occasional,22,43,Credit card,Yes,4,10
+668,8/20/2023,237448,9602,Female,37,0.9,Not married,Follow up,2,140/90,FALSE,0,0,No,No,No,No,No,188,83,Anemia,Smoker,Never,16,23,Cash,No,8,1
+669,7/30/2023,237449,6873,Male,28,0.01,Married,Check up,1,120/80,FALSE,2,0,No,No,No,Yes,No,156,81,Gastrointestinal Bleeding,Smoker,Regular,14,18,Debit card,Yes,3,9
+670,8/19/2023,237450,1093,Male,55,0.25,Married,Check up,4,110/70,TRUE,0,1,Yes,Yes,Yes,No,Yes,166,92,Celiac Disease,Non-smoker,Occasional,5,44,Insurance,Yes,5,3
+671,7/27/2023,237451,5829,Female,48,1.5,Married,Follow up,4,140/90,FALSE,14,8,No,No,No,Yes,No,65,99,Irritable Bowel Syndrome,Non-smoker,Never,13,24,Cash,Yes,1,6
+672,7/19/2023,237452,7733,Female,42,0.25,Not married,Check up,5,120/80,FALSE,6,4,Yes,Yes,Yes,No,Yes,167,43,Chronic Fatigue Syndrome,Smoker,Regular,2,30,Debit card,Yes,4,7
+673,8/25/2023,237453,3304,Female,32,0.45,Not married,Check up,2,130/85,FALSE,0,0,No,No,No,Yes,No,156,64,Fibromyalgia,Smoker,Occasional,21,50,Credit card,No,3,6
+674,8/23/2023,237454,3225,Male,62,0.9,Not married,Follow up,3,110/70,FALSE,2,0,Yes,Yes,Yes,Yes,No,166,72,Urinary Incontinence,Non-smoker,Regular,21,28,Cash,Yes,1,3
+675,7/10/2023,237455,8424,Male,23,0.45,Married,Check up,1,120/80,TRUE,0,1,yes,Yes,yes,Yes,No,167,88,Endometriosis,Smoker,Never,20,19,Insurance,No,8,3
+676,7/7/2023,237456,8777,Male,31,0.25,Married,Check up,1,120/80,FALSE,0,7,No,Yes,No,Yes,No,154,43,Polycystic Ovary Syndrome,Non-smoker,Regular,10,48,Credit card,Yes,9,8
+677,7/13/2023,237457,4352,Female,32,0.35,Not married,Follow up,2,140/90,FALSE,5,0,No,Yes,No,Yes,Yes,143,65,Benign Prostatic Hyperplasia,Smoker,Regular,6,20,Cash,No,6,4
+678,8/26/2023,237458,3841,Female,40,0.25,Married,Follow up,3,110/70,FALSE,0,0,Yes,Yes,Yes,No,Yes,142,86,Meningitis,Non-smoker,Never,4,12,Credit card,Yes,2,2
+679,8/18/2023,237459,3527,Male,49,0.25,Not married,Check up,3,130/85,TRUE,0,0,Yes,No,Yes,No,No,166,99,Epilepsy,Smoker,Occasional,19,40,Insurance,No,2,2
+680,7/22/2023,237460,6813,Male,23,0.25,Married,Follow up,1,140/90,FALSE,0,0,No,No,No,No,No,145,100,Stroke,Non-smoker,Regular,30,37,Debit card,Yes,8,10
+681,7/12/2023,237461,2145,Female,25,0.45,Married,Check up,5,120/80,FALSE,1,8,Yes,No,Yes,No,No,167,40,Chronic Liver Disease,Smoker,Regular,6,18,Cash,Yes,5,4
+682,7/8/2023,237462,8258,Female,56,0.25,Not married,Follow up,1,130/85,FALSE,0,0,No,No,No,No,Yes,177,70,Cirrhosis,Non-smoker,Occasional,5,16,Credit card,Yes,6,1
+683,8/13/2023,237463,4339,Male,57,0.25,Not married,Follow up,3,140/90,FALSE,0,9,Yes,No,Yes,No,No,178,78,Chronic Pancreatitis,Smoker,Never,17,11,Cash,No,6,9
+684,8/20/2023,237464,1213,Male,52,0.25,Married,Follow up,5,120/80,FALSE,14,5,Yes,No,Yes,Yes,Yes,167,79,Gallstones,Smoker,Regular,4,49,Debit card,Yes,9,4
+685,7/4/2023,237465,1135,Male,23,0.45,Married,Check up,2,110/70,TRUE,0,0,Yes,Yes,Yes,No,No,167,75,Diverticulitis,Non-smoker,Occasional,4,44,Insurance,Yes,2,1
+686,8/14/2023,237466,6619,Female,29,1.1,Married,Check up,1,140/90,FALSE,4,0,No,No,No,Yes,Yes,155,65,Deep Vein Thrombosis,Non-smoker,Never,29,40,Cash,No,3,1
+687,7/31/2023,237467,6982,Female,50,0.25,Not married,Follow up,2,120/80,FALSE,0,0,No,Yes,No,No,yes,157,65,Pulmonary Embolism,Smoker,Regular,11,38,Debit card,Yes,8,1
+688,8/29/2023,237468,6478,Female,46,0.25,Not married,Check up,1,130/85,FALSE,0,0,No,No,No,No,No,145,66,Hypertensive Heart Disease,Smoker,Occasional,11,35,Credit card,Yes,9,8
+689,7/27/2023,237469,8190,Male,37,0.35,Not married,Follow up,3,110/70,FALSE,0,0,No,No,No,Yes,No,190,87,Hypertension,Non-smoker,Regular,18,17,Cash,Yes,4,2
+690,7/14/2023,237470,7021,Male,42,0.25,Married,Follow up,5,120/80,TRUE,2,2,No,Yes,No,No,Yes,188,54,Diabetes,Smoker,Never,28,46,Insurance,No,5,7
+691,7/29/2023,237471,9634,Male,62,0.25,Married,Check up,4,120/80,FALSE,0,2,No,No,No,Yes,Yes,187,56,Common cold,Non-smoker,Regular,9,12,Credit card,No,8,3
+692,7/6/2023,237472,2729,Female,52,0.25,Not married,Check up,2,140/90,FALSE,0,1,Yes,Yes,Yes,Yes,No,186,87,Arthritis,Smoker,Regular,6,42,Cash,Yes,2,7
+693,8/6/2023,237473,3683,Female,23,0.9,Married,Check up,3,110/70,FALSE,0,0,Yes,Yes,Yes,Yes,Yes,176,74,Allergies,Non-smoker,Never,19,16,Credit card,Yes,3,6
+694,7/14/2023,237474,4208,Female,39,0.25,Not married,Check up,1,130/85,TRUE,14,2,No,Yes,No,No,No,166,72,Headache,Smoker,Occasional,13,22,Insurance,No,2,2
+695,8/1/2023,237475,6075,Female,23,0.75,Married,Follow up,1,140/90,FALSE,14,2,No,No,No,Yes,Yes,165,53,Fever,Non-smoker,Regular,26,13,Debit card,Yes,8,3
+696,7/28/2023,237476,6464,Male,28,0.55,Married,Follow up,2,120/80,FALSE,0,0,No,Yes,No,No,Yes,155,51,Allergies,Smoker,Regular,30,26,Cash,No,4,7
+697,7/10/2023,237477,1696,Male,46,0.25,Not married,Follow up,1,130/85,FALSE,14,5,No,No,No,No,Yes,160,59,Headache,Non-smoker,Occasional,1,34,Credit card,No,1,3
+698,8/23/2023,237478,6001,Female,24,1.5,Not married,Check up,5,140/90,FALSE,0,1,Yes,No,Yes,No,No,155,60,Diabetes,Smoker,Never,12,31,Cash,No,3,1
+699,8/10/2023,237479,4698,Female,26,1.5,Married,Follow up,0,120/80,FALSE,0,4,No,No,No,No,No,144,70,Common cold,Smoker,Regular,1,24,Debit card,No,5,10
+700,7/30/2023,237480,9536,Female,57,0.25,Married,Follow up,0,110/70,TRUE,0,0,Yes,No,Yes,No,No,164,77,Allergies,Non-smoker,Occasional,10,41,Insurance,No,4,1
+701,8/24/2023,237481,1886,Female,28,0.55,Married,Check up,0,140/90,FALSE,0,0,No,No,No,No,No,177,87,Fever,Non-smoker,Never,22,50,Cash,Yes,8,2
+702,8/17/2023,237482,1752,Male,24,0.25,Not married,Follow up,0,120/80,FALSE,0,4,Yes,No,Yes,No,No,156,55,Headache,Smoker,Regular,2,45,Debit card,Yes,8,8
+703,8/12/2023,237483,8843,Female,30,0,Not married,Check up,0,130/85,FALSE,14,2,Yes,No,Yes,No,No,158,67,Diabetes,Smoker,Occasional,5,20,Credit card,No,3,1
+704,7/28/2023,237484,6549,Male,32,0,Not married,Follow up,0,110/70,FALSE,0,0,Yes,No,Yes,No,Yes,147,56,Common Cold,Non-smoker,Regular,30,47,Cash,No,8,3
+705,7/4/2023,237485,3497,Male,28,0.25,Married,Check up,0,120/80,TRUE,0,0,Yes,No,Yes,No,Yes,173,45,Influenza (Flu),Smoker,Never,23,50,Insurance,No,9,7
+706,7/21/2023,237486,6300,Female,53,1.5,Married,Follow up,0,120/80,FALSE,0,1,Yes,No,Yes,Yes,No,180,87,Pneumonia,Non-smoker,Regular,29,35,Credit card,No,7,2
+707,8/26/2023,237487,1702,Male,60,0.25,Not married,Check up,3,140/90,FALSE,0,4,No,Yes,No,No,No,144,99,Bronchitis,Smoker,Regular,19,42,Cash,Yes,2,5
+708,7/19/2023,237488,4703,Female,35,0.45,Married,Follow up,5,110/70,FALSE,0,6,No,No,No,No,No,140,76,Urinary Tract Infection,Non-smoker,Never,29,32,Credit card,Yes,5,4
+709,8/23/2023,237489,6086,Male,31,0.35,Not married,Follow up,3,130/85,TRUE,14,2,No,No,No,No,No,173,77,Gastroenteritis,Smoker,Occasional,4,12,Insurance,No,7,5
+710,8/16/2023,237490,2904,Male,27,0.25,Married,Follow up,3,140/90,FALSE,0,4,No,No,No,No,Yes,155,45,Gastric Ulcer,Non-smoker,Regular,25,29,Debit card,No,5,4
+711,7/30/2023,237491,6563,Female,58,0.15,Married,Check up,2,120/80,FALSE,0,4,No,No,No,Yes,No,156,81,Hyperlipidemia ,Smoker,Regular,7,37,Cash,Yes,4,10
+712,7/6/2023,237492,4711,Male,40,0.25,Not married,Check up,3,130/85,FALSE,0,7,No,Yes,No,No,Yes,123,92,Diabetes Mellitus,Non-smoker,Occasional,3,19,Credit card,Yes,1,7
+713,8/20/2023,237493,5283,Male,56,0.15,Not married,Check up,2,140/90,FALSE,0,1,Yes,No,Yes,No,No,134,82,Hyperlipidemia ,Smoker,Never,30,24,Cash,Yes,1,1
+714,8/14/2023,237494,7197,Male,28,0.25,Married,Check up,3,120/80,FALSE,0,1,No,No,No,No,Yes,113,76,Osteoarthritis,Smoker,Regular,18,27,Debit card,Yes,7,5
+715,8/12/2023,237495,4546,Female,22,0.25,Married,Follow up,2,110/70,TRUE,0,0,Yes,No,Yes,No,Yes,145,86,Common Cold ,Non-smoker,Occasional,18,29,Insurance,No,8,8
+716,7/18/2023,237496,9083,Female,35,0.25,Married,Check up,2,140/90,FALSE,0,6,No,No,No,No,Yes,132,88,Influenza (Flu),Non-smoker,Never,27,21,Cash,No,7,7
+717,8/14/2023,237497,7201,Female,37,0.45,Not married,Follow up,3,120/80,FALSE,0,3,No,No,No,No,Yes,145,83,Pneumonia,Smoker,Regular,13,29,Debit card,Yes,5,4
+718,7/3/2023,237498,9149,Male,32,0.25,Not married,Check up,2,130/85,FALSE,0,0,Yes,No,Yes,No,Yes,144,81,Bronchitis,Smoker,Occasional,24,14,Credit card,No,3,1
+719,7/12/2023,237499,8201,Male,49,0.25,Not married,Follow up,1,110/70,FALSE,0,0,No,No,No,Yes,No,133,92,Urinary Tract Infection (UTI),Non-smoker,Regular,1,38,Cash,Yes,9,2
+720,7/30/2023,237500,9042,Female,52,0.25,Married,Check up,1,120/80,TRUE,0,4,Yes,Yes,Yes,Yes,No,120,99,Gastroenteritis,Smoker,Never,1,35,Insurance,No,6,9
+721,7/19/2023,237501,4538,Female,28,0.45,Married,Check up,3,120/80,FALSE,0,1,Yes,Yes,Yes,No,No,129,43,Gastric Ulcer,Non-smoker,Regular,24,19,Credit card,No,7,5
+722,7/4/2023,237502,2553,Female,23,0.25,Not married,Follow up,2,140/90,FALSE,0,0,Yes,No,Yes,No,No,130,64,Gastroenteritis,Smoker,Regular,5,17,Cash,Yes,6,5
+723,7/23/2023,237503,5842,Male,39,0.25,Married,Check up,1,110/70,FALSE,0,1,No,No,No,No,No,156,72,Diabetes Mellitus,Non-smoker,Never,18,46,Credit card,No,2,10
+724,7/3/2023,237504,7856,Male,25,0.75,Not married,Check up,4,130/85,TRUE,0,0,Yes,No,Yes,No,No,147,88,Hyperlipidemia ,Smoker,Occasional,24,16,Insurance,Yes,4,2
+725,7/28/2023,237505,8264,Male,40,0.35,Married,Follow up,1,140/90,FALSE,14,12,No,No,No,No,Yes,177,43,Osteoarthritis,Non-smoker,Regular,14,35,Debit card,No,5,8
+726,7/4/2023,237506,1144,Female,62,0.25,Married,Check up,2,120/80,FALSE,0,2,No,No,No,No,No,188,65,Rheumatoid Arthritis,Smoker,Regular,7,38,Cash,Yes,9,2
+727,7/14/2023,237507,1404,Female,34,0.45,Not married,Check up,1,130/85,FALSE,1,0,No,No,No,Yes,Yes,156,86,Asthma,Non-smoker,Occasional,26,42,Credit card,No,7,7
+728,7/11/2023,237508,9279,Male,57,0.25,Not married,Follow up,2,140/90,FALSE,0,1,No,Yes,No,Yes,No,166,99,Allergic Rhinitis,Smoker,Never,24,19,Cash,No,5,3
+729,7/29/2023,237509,3369,Male,53,0.45,Married,Follow up,1,120/80,FALSE,0,0,No,Yes,No,No,No,65,100,Migraine Headache,Smoker,Regular,1,46,Debit card,No,1,5
+730,8/19/2023,237510,6555,Female,27,0.25,Married,Check up,3,110/70,TRUE,0,9,No,No,No,No,Yes,167,40,Depression,Non-smoker,Occasional,25,15,Insurance,No,5,2
+731,7/17/2023,237511,3668,Female,56,0.15,Married,Follow up,4,140/90,FALSE,0,2,No,No,No,No,No,156,70,Anxiety Disorder,Non-smoker,Never,28,36,Cash,No,4,8
+732,7/6/2023,237512,7291,Male,59,0.25,Not married,Check up,1,120/80,FALSE,0,0,No,No,No,No,Yes,166,78,Gastroesophageal Reflux Disease,Smoker,Regular,25,13,Debit card,No,5,1
+733,7/19/2023,237513,1728,Male,32,0.75,Not married,Follow up,3,130/85,FALSE,0,0,No,No,No,Yes,Yes,167,79,Peptic Ulcer Disease,Smoker,Occasional,21,45,Credit card,No,9,8
+734,8/13/2023,237514,6833,Male,60,0.75,Not married,Follow up,2,110/70,FALSE,14,11,Yes,Yes,Yes,No,Yes,154,75,Coronary Artery Disease,Non-smoker,Regular,23,40,Cash,Yes,7,3
+735,7/28/2023,237515,5746,Female,50,0.25,Married,Follow up,5,120/80,TRUE,14,7,Yes,No,Yes,Yes,No,143,65,Chronic Obstructive Pulmonary Disease,Smoker,Never,14,48,Insurance,Yes,5,2
+736,7/31/2023,237516,3132,Female,36,0.25,Married,Check up,5,120/80,FALSE,0,9,No,Yes,No,No,Yes,142,65,Iron-deficiency Anemia,Non-smoker,Regular,26,40,Credit card,Yes,7,6
+737,7/3/2023,237517,3585,Female,51,0.25,Not married,Check up,2,140/90,FALSE,0,1,Yes,No,Yes,Yes,No,166,66,Hypothyroidism,Smoker,Regular,27,10,Cash,Yes,6,5
+738,7/13/2023,237518,4699,Male,65,0.25,Married,Follow up,1,110/70,FALSE,0,0,No,Yes,No,Yes,No,145,87,Hyperthyroidism,Non-smoker,Never,22,11,Credit card,Yes,3,9
+739,8/26/2023,237519,2881,Male,62,0.35,Not married,Check up,5,130/85,TRUE,14,10,No,Yes,No,Yes,No,167,54,Urinary Stones ,Smoker,Occasional,23,25,Insurance,No,2,6
+740,7/27/2023,237520,5163,Male,63,0.35,Married,Follow up,5,140/90,FALSE,14,9,No,Yes,No,Yes,No,177,56,Gout,Non-smoker,Regular,7,22,Debit card,No,7,9
+741,8/26/2023,237521,4476,Female,51,0.35,Married,Follow up,3,120/80,FALSE,0,2,Yes,Yes,Yes,Yes,No,178,87,Chronic Kidney Disease,Smoker,Regular,2,16,Cash,No,2,3
+742,7/29/2023,237522,8106,Female,41,0.25,Not married,Check up,2,130/85,FALSE,0,2,No,Yes,No,No,No,167,74,Appendicitis,Non-smoker,Occasional,3,17,Credit card,Yes,9,9
+743,8/11/2023,237523,3969,Female,58,0.25,Not married,Check up,2,140/90,FALSE,14,5,No,No,No,No,No,167,72,Acute Myocardial Infarction ,Smoker,Never,21,36,Cash,No,2,5
+744,8/28/2023,237524,3216,Female,56,0.15,Married,Check up,2,120/80,FALSE,0,1,Yes,No,Yes,No,No,155,53,Inflammatory Bowel Disease,Smoker,Regular,10,32,Debit card,No,8,2
+745,7/18/2023,237525,1462,Male,31,0.25,Married,Check up,2,110/70,TRUE,0,2,No,No,No,No,No,157,51,Otitis Media ,Non-smoker,Occasional,14,14,Insurance,No,9,1
+746,8/23/2023,237526,7401,Male,49,0.25,Married,Follow up,4,140/90,FALSE,14,0,Yes,No,Yes,No,Yes,145,59,Conjunctivitis ,Non-smoker,Never,1,50,Cash,Yes,3,2
+747,8/8/2023,237527,4519,Female,24,0.15,Not married,Follow up,1,120/80,FALSE,0,0,Yes,No,Yes,No,Yes,190,60,Sinusitis,Smoker,Regular,29,50,Debit card,Yes,4,6
+748,7/14/2023,237528,8405,Female,31,0.55,Not married,Follow up,1,130/85,FALSE,0,0,No,No,No,Yes,No,188,70,Gastroesophageal Reflux Disease,Smoker,Occasional,16,45,Credit card,No,2,9
+749,7/12/2023,237529,7214,Female,50,0.25,Not married,Check up,4,110/70,FALSE,0,11,Yes,Yes,Yes,No,Yes,187,77,Peptic Ulcer Disease,Non-smoker,Regular,29,28,Cash,Yes,3,6
+750,7/18/2023,237530,7946,Female,40,0.35,Married,Follow up,2,120/80,TRUE,0,4,Yes,No,Yes,Yes,No,186,87,Eczema ,Smoker,Never,28,28,Insurance,No,6,3
+751,7/30/2023,237531,6005,Male,25,0.45,Married,Follow up,5,120/80,FALSE,0,0,No,Yes,No,No,No,176,55,Psoriasis,Non-smoker,Regular,22,45,Credit card,Yes,4,7
+752,8/28/2023,237532,4561,Female,65,0.35,Not married,Check up,2,140/90,FALSE,0,1,No,No,No,No,No,166,67,Hypothyroidism,Smoker,Regular,1,37,Cash,Yes,7,3
+753,7/24/2023,237533,2290,Male,28,0.25,Married,Follow up,1,110/70,FALSE,0,0,No,No,No,Yes,Yes,165,56,Hyperthyroidism,Non-smoker,Never,6,49,Credit card,Yes,8,4
+754,7/23/2023,237534,2364,Male,21,0.25,Not married,Check up,2,130/85,TRUE,0,1,Yes,Yes,Yes,No,No,155,45,Anemia,Smoker,Occasional,12,19,Insurance,No,6,8
+755,7/11/2023,237535,6823,Female,50,0.25,Married,Follow up,1,140/90,FALSE,0,0,No,No,No,Yes,No,160,87,Gastrointestinal Bleeding,Non-smoker,Regular,8,42,Debit card,No,8,1
+756,7/18/2023,237536,6619,Male,41,0.25,Married,Check up,2,120/80,FALSE,0,1,No,Yes,No,Yes,Yes,155,99,Celiac Disease,Smoker,Regular,30,33,Cash,Yes,2,7
+757,7/1/2023,237537,6892,Female,29,1.1,Not married,Follow up,2,130/85,FALSE,0,0,Yes,Yes,Yes,Yes,No,144,76,Irritable Bowel Syndrome,Non-smoker,Occasional,25,35,Credit card,Yes,4,1
+758,8/17/2023,237538,4333,Male,25,0.25,Not married,Check up,3,140/90,FALSE,14,3,No,Yes,No,No,Yes,164,77,Chronic Fatigue Syndrome,Smoker,Never,16,27,Cash,Yes,3,3
+759,7/22/2023,237539,9923,Male,55,0.25,Married,Follow up,2,120/80,FALSE,0,0,Yes,No,Yes,Yes,Yes,177,45,Fibromyalgia,Smoker,Regular,17,30,Debit card,Yes,2,3
+760,7/7/2023,237540,4774,Female,59,0.25,Married,Follow up,1,110/70,TRUE,0,3,No,Yes,No,No,No,156,81,Urinary Incontinence,Non-smoker,Occasional,27,20,Insurance,Yes,9,8
+761,8/1/2023,237541,2959,Male,54,0.25,Married,Follow up,3,140/90,FALSE,14,2,No,No,No,No,Yes,158,92,Endometriosis,Non-smoker,Never,10,28,Cash,No,9,9
+762,8/26/2023,237542,8648,Male,41,0.25,Not married,Check up,2,120/80,FALSE,0,2,No,No,No,No,Yes,147,82,Polycystic Ovary Syndrome,Smoker,Regular,12,50,Debit card,No,2,4
+763,7/12/2023,237543,3333,Male,43,0.35,Not married,Check up,2,130/85,FALSE,0,1,No,No,No,No,No,173,76,Benign Prostatic Hyperplasia,Smoker,Occasional,22,46,Credit card,No,8,9
+764,8/28/2023,237544,5878,Female,61,0.55,Not married,Check up,5,110/70,FALSE,3,2,Yes,No,Yes,No,No,180,86,Meningitis,Non-smoker,Regular,17,39,Cash,No,5,6
+765,7/4/2023,237545,2670,Female,48,0.15,Married,Check up,2,120/80,TRUE,0,0,Yes,No,Yes,No,No,144,88,Epilepsy,Smoker,Never,14,42,Insurance,No,5,2
+766,8/14/2023,237546,7219,Female,59,0.35,Married,Follow up,1,120/80,FALSE,14,3,No,No,No,No,Yes,140,83,Stroke,Non-smoker,Regular,18,32,Credit card,No,3,6
+767,7/9/2023,237547,9370,Male,40,0.35,Not married,Check up,2,140/90,FALSE,0,0,No,No,No,No,No,173,81,Chronic Liver Disease,Smoker,Regular,22,32,Cash,Yes,5,8
+768,7/24/2023,237548,7814,Male,65,0.25,Married,Follow up,3,110/70,FALSE,0,1,No,No,No,No,No,155,92,Cirrhosis,Non-smoker,Never,6,47,Credit card,Yes,2,5
+769,8/14/2023,237549,4238,Female,54,0.25,Not married,Check up,3,130/85,TRUE,0,0,Yes,No,Yes,No,Yes,156,99,Chronic Pancreatitis,Smoker,Occasional,22,12,Insurance,No,1,3
+770,7/6/2023,237550,5934,Female,50,0.35,Married,Follow up,1,140/90,FALSE,6,0,No,No,No,Yes,No,123,43,Gallstones,Non-smoker,Regular,30,20,Debit card,No,4,6
+771,7/20/2023,237551,9990,Female,51,0.25,Married,Check up,5,120/80,FALSE,14,3,Yes,Yes,Yes,No,Yes,134,64,Diverticulitis,Smoker,Regular,12,50,Cash,No,7,6
+772,7/10/2023,237552,5224,Male,38,0.25,Not married,Check up,0,130/85,FALSE,0,0,No,No,No,No,No,113,72,Deep Vein Thrombosis,Non-smoker,Occasional,1,41,Credit card,Yes,5,1
+773,8/14/2023,237553,8651,Male,51,0.35,Not married,Follow up,0,140/90,FALSE,0,1,Yes,No,Yes,No,No,145,88,Pulmonary Embolism,Smoker,Never,6,24,Cash,Yes,5,3
+774,7/2/2023,237554,1821,Male,39,0.25,Married,Check up,0,120/80,FALSE,0,0,yes,No,yes,No,No,132,43,Hypertensive Heart Disease,Smoker,Regular,16,31,Debit card,No,4,2
+775,8/24/2023,237555,9802,Female,52,0.25,Married,Check up,0,110/70,TRUE,0,0,No,No,No,Yes,No,145,65,Hypertension,Non-smoker,Occasional,27,16,Insurance,Yes,7,7
+776,8/28/2023,237556,6013,Female,28,0.25,Married,Follow up,5,140/90,FALSE,14,7,No,Yes,No,No,Yes,144,86,Diabetes,Non-smoker,Never,22,43,Cash,No,3,10
+777,8/15/2023,237557,8293,Male,37,0.25,Not married,Check up,2,120/80,FALSE,10,1,Yes,No,Yes,No,Yes,133,99,Common cold,Smoker,Regular,20,16,Debit card,Yes,4,5
+778,7/14/2023,237558,9327,Male,22,0.65,Not married,Check up,4,130/85,FALSE,14,5,Yes,No,Yes,No,No,120,100,Arthritis,Smoker,Occasional,1,13,Credit card,Yes,9,1
+779,8/2/2023,237559,2277,Female,52,0.25,Not married,Follow up,1,110/70,FALSE,14,3,No,No,No,No,No,129,40,Allergies,Non-smoker,Regular,14,35,Cash,Yes,8,4
+780,8/15/2023,237560,1563,Female,28,0.25,Married,Follow up,3,120/80,TRUE,0,3,Yes,No,Yes,No,No,130,70,Headache,Smoker,Never,3,23,Insurance,Yes,7,5
+781,7/16/2023,237561,4632,Male,58,0.25,Married,Check up,1,120/80,FALSE,0,0,No,No,No,No,Yes,156,78,Fever,Non-smoker,Regular,18,25,Credit card,No,1,10
+782,7/26/2023,237562,4107,Male,41,0.25,Not married,Follow up,3,140/90,FALSE,0,3,Yes,No,Yes,No,No,147,79,Allergies,Smoker,Regular,4,34,Cash,Yes,8,2
+783,8/6/2023,237563,9312,Male,49,0.25,Married,Check up,3,110/70,FALSE,0,3,Yes,No,Yes,Yes,Yes,177,75,Headache,Non-smoker,Never,29,12,Credit card,Yes,9,5
+784,7/16/2023,237564,2008,Female,44,0.55,Not married,Follow up,1,130/85,TRUE,0,4,Yes,Yes,Yes,Yes,No,188,65,Diabetes,Smoker,Occasional,5,36,Insurance,No,2,3
+785,8/28/2023,237565,8641,Female,40,0.25,Married,Follow up,3,140/90,FALSE,4,6,No,Yes,No,No,Yes,156,65,Common cold,Non-smoker,Regular,2,50,Debit card,Yes,8,4
+786,8/25/2023,237566,1197,Female,39,0.25,Married,Follow up,1,120/80,FALSE,0,8,No,No,No,No,yes,166,66,Allergies,Smoker,Regular,14,29,Cash,Yes,3,6
+787,7/5/2023,237567,5668,Male,53,0.55,Not married,Check up,1,130/85,FALSE,0,4,No,No,No,No,No,65,87,Fever,Non-smoker,Occasional,17,14,Credit card,No,4,5
+788,7/26/2023,237568,9351,Male,62,0.25,Not married,Check up,4,140/90,FALSE,0,3,No,No,No,No,No,167,54,Headache,Smoker,Never,29,11,Cash,Yes,9,4
+789,7/5/2023,237569,6877,Male,62,0.25,Married,Follow up,3,120/80,FALSE,0,0,No,No,No,No,Yes,156,56,Diabetes,Smoker,Regular,16,22,Debit card,No,5,5
+790,8/2/2023,237570,9819,Female,32,0.25,Married,Check up,5,110/70,TRUE,0,6,No,No,No,No,Yes,166,87,Common Cold,Non-smoker,Occasional,4,21,Insurance,No,4,10
+791,8/18/2023,237571,8342,Female,59,0.25,Married,Follow up,2,140/90,FALSE,0,0,Yes,No,Yes,Yes,No,167,74,Influenza (Flu),Non-smoker,Never,18,46,Cash,No,1,9
+792,7/14/2023,237572,8983,Female,61,0.15,Not married,Follow up,3,120/80,FALSE,0,2,Yes,Yes,Yes,Yes,Yes,154,72,Pneumonia,Smoker,Regular,19,12,Debit card,No,9,7
+793,7/5/2023,237573,4617,Female,29,0.25,Not married,Check up,3,130/85,FALSE,3,1,No,Yes,No,No,No,143,53,Bronchitis,Smoker,Occasional,10,15,Credit card,Yes,5,1
+794,8/8/2023,237574,9097,Male,51,0.25,Not married,Check up,3,110/70,FALSE,0,1,No,No,No,No,Yes,142,51,Urinary Tract Infection,Non-smoker,Regular,30,13,Cash,No,8,4
+795,8/16/2023,237575,2338,Male,32,0.35,Married,Check up,2,120/80,TRUE,0,1,No,No,No,No,Yes,166,59,Gastroenteritis,Smoker,Never,11,50,Insurance,No,6,2
+796,8/20/2023,237576,1747,Female,54,0.25,Married,Check up,3,120/80,FALSE,0,0,No,No,No,No,Yes,145,60,Gastric Ulcer,Non-smoker,Regular,12,32,Credit card,No,6,4
+797,8/17/2023,237577,8353,Female,32,0.25,Not married,Follow up,2,140/90,FALSE,0,11,Yes,No,Yes,Yes,No,167,70,Hyperlipidemia ,Smoker,Regular,21,29,Cash,Yes,4,1
+798,8/16/2023,237578,4727,Female,26,0.15,Married,Follow up,1,110/70,FALSE,0,8,No,Yes,No,No,No,177,77,Diabetes Mellitus,Non-smoker,Never,20,44,Credit card,Yes,6,5
+799,7/24/2023,237579,4141,Female,42,0.45,Not married,Follow up,1,130/85,TRUE,0,4,Yes,No,Yes,Yes,No,178,87,Hyperlipidemia ,Smoker,Occasional,25,14,Insurance,Yes,6,6
+800,7/27/2023,237580,4360,Male,40,0.35,Married,Check up,3,140/90,FALSE,0,9,No,Yes,No,No,No,167,55,Osteoarthritis,Non-smoker,Regular,9,17,Debit card,Yes,6,1
+801,8/12/2023,237581,3435,Female,48,0.55,Married,Follow up,4,120/80,FALSE,0,1,Yes,No,Yes,Yes,No,167,67,Common Cold ,Smoker,Regular,17,16,Cash,Yes,5,6
+802,7/19/2023,237582,4809,Male,60,0.25,Not married,Follow up,2,130/85,FALSE,0,1,Yes,Yes,Yes,Yes,No,155,56,Influenza (Flu),Non-smoker,Occasional,19,25,Credit card,No,6,1
+803,8/24/2023,237583,1163,Male,28,0.35,Not married,Check up,2,140/90,FALSE,0,1,Yes,Yes,Yes,Yes,Yes,157,45,Pneumonia,Smoker,Never,20,21,Cash,Yes,4,9
+804,8/28/2023,237584,4869,Female,56,0.35,Married,Follow up,5,120/80,FALSE,0,4,Yes,Yes,Yes,Yes,Yes,145,87,Bronchitis,Smoker,Regular,10,49,Debit card,Yes,5,4
+805,7/24/2023,237585,2786,Male,44,0.25,Married,Check up,1,110/70,TRUE,0,0,Yes,Yes,Yes,Yes,No,190,99,Urinary Tract Infection (UTI),Non-smoker,Occasional,26,50,Insurance,Yes,1,3
+806,7/16/2023,237586,1422,Female,54,0.25,Married,Follow up,1,140/90,FALSE,14,2,No,Yes,No,No,No,188,76,Gastroenteritis,Non-smoker,Never,30,29,Cash,No,6,3
+807,7/21/2023,237587,1367,Male,30,0.25,Not married,Check up,2,120/80,FALSE,0,5,No,No,No,No,No,187,77,Gastric Ulcer,Smoker,Regular,8,23,Debit card,No,7,7
+808,8/27/2023,237588,9571,Male,56,0.25,Not married,Follow up,2,130/85,FALSE,0,5,No,No,No,No,No,186,45,Gastroenteritis,Smoker,Occasional,26,13,Credit card,No,3,3
+809,8/29/2023,237589,8140,Female,61,0.25,Not married,Check up,3,110/70,FALSE,14,1,No,No,No,No,Yes,176,81,Diabetes Mellitus,Non-smoker,Regular,28,33,Cash,Yes,8,8
+810,8/16/2023,237590,9999,Male,46,1.1,Married,Follow up,5,120/80,TRUE,0,0,No,No,No,No,No,166,92,Hyperlipidemia ,Smoker,Never,2,38,Insurance,Yes,8,4
+811,7/1/2023,237591,6357,Male,51,0.45,Married,Follow up,5,120/80,FALSE,7,2,No,No,No,No,Yes,165,82,Osteoarthritis,Non-smoker,Regular,30,39,Credit card,Yes,4,8
+812,7/23/2023,237592,5090,Male,24,0.25,Not married,Follow up,2,140/90,FALSE,0,0,Yes,No,Yes,Yes,No,155,76,Rheumatoid Arthritis,Smoker,Regular,5,47,Cash,Yes,6,2
+813,7/25/2023,237593,9834,Female,63,0.25,Married,Check up,1,110/70,FALSE,0,2,No,Yes,No,No,Yes,160,86,Asthma,Non-smoker,Never,1,26,Credit card,Yes,5,3
+814,8/2/2023,237594,6223,Female,42,0.45,Not married,Check up,3,130/85,TRUE,0,0,Yes,No,Yes,Yes,Yes,155,88,Allergic Rhinitis,Smoker,Occasional,1,37,Insurance,No,8,1
+815,8/15/2023,237595,1020,Female,57,0.25,Married,Check up,4,140/90,FALSE,7,3,No,Yes,No,No,Yes,144,83,Migraine Headache,Non-smoker,Regular,17,21,Debit card,Yes,4,4
+816,8/25/2023,237596,1898,Male,61,0.25,Married,Check up,2,120/80,FALSE,0,0,No,No,No,No,Yes,164,81,Depression,Smoker,Regular,1,43,Cash,No,2,8
+817,8/22/2023,237597,8557,Male,55,0.25,Not married,Follow up,4,130/85,FALSE,0,1,Yes,No,Yes,Yes,Yes,177,92,Anxiety Disorder,Non-smoker,Occasional,9,19,Credit card,Yes,8,6
+818,8/13/2023,237598,3540,Female,43,0.25,Not married,Check up,4,140/90,FALSE,0,3,No,Yes,No,No,No,156,99,Gastroesophageal Reflux Disease,Smoker,Never,21,21,Cash,Yes,6,9
+819,8/6/2023,237599,5232,Female,35,0.25,Married,Follow up,4,120/80,FALSE,1,3,Yes,No,Yes,Yes,No,158,43,Peptic Ulcer Disease,Smoker,Regular,10,34,Debit card,Yes,4,2
+820,8/21/2023,237600,4038,Female,39,0.25,Married,Check up,3,110/70,TRUE,0,0,Yes,Yes,Yes,Yes,No,147,64,Coronary Artery Disease,Non-smoker,Occasional,5,32,Insurance,No,1,10
+821,7/23/2023,237601,5166,Male,45,0.15,Married,Follow up,3,140/90,FALSE,0,0,Yes,Yes,Yes,Yes,No,173,72,Chronic Obstructive Pulmonary Disease,Non-smoker,Never,5,43,Cash,Yes,5,8
+822,7/4/2023,237602,9128,Male,25,0.06,Not married,Check up,4,120/80,FALSE,0,2,No,Yes,No,No,No,180,88,Iron-deficiency Anemia,Smoker,Regular,24,40,Debit card,Yes,8,3
+823,7/4/2023,237603,4827,Male,35,0.35,Not married,Check up,1,130/85,FALSE,14,1,Yes,No,Yes,Yes,No,144,43,Hypothyroidism,Smoker,Occasional,7,30,Credit card,No,8,2
+824,7/18/2023,237604,2271,Female,57,0.25,Not married,Follow up,2,110/70,FALSE,12,6,No,Yes,No,No,Yes,140,65,Hyperthyroidism,Non-smoker,Regular,25,35,Cash,No,7,5
+825,8/26/2023,237605,1848,Female,29,0.75,Married,Check up,1,120/80,TRUE,0,0,No,No,No,No,No,173,86,Urinary Stones ,Smoker,Never,7,31,Insurance,Yes,6,8
+826,8/28/2023,237606,1556,Male,64,0.65,Married,Check up,3,120/80,FALSE,0,0,No,No,No,No,Yes,155,99,Gout,Non-smoker,Regular,18,48,Credit card,Yes,2,8
+827,8/12/2023,237607,8932,Male,61,0.45,Not married,Follow up,3,140/90,FALSE,0,0,No,No,No,No,No,156,100,Chronic Kidney Disease,Smoker,Regular,17,36,Cash,No,7,9
+828,7/5/2023,237608,3453,Female,40,0.25,Married,Check up,4,110/70,FALSE,0,2,No,No,No,No,No,123,40,Appendicitis,Non-smoker,Never,27,19,Credit card,No,3,3
+829,7/1/2023,237609,6010,Female,32,0.25,Not married,Check up,2,130/85,TRUE,0,3,No,No,No,No,Yes,134,70,Acute Myocardial Infarction ,Smoker,Occasional,10,36,Insurance,Yes,5,1
+830,7/2/2023,237610,1611,Male,65,0.25,Married,Follow up,3,140/90,FALSE,0,0,No,No,No,No,No,113,78,Inflammatory Bowel Disease,Non-smoker,Regular,23,37,Debit card,No,9,10
+831,7/5/2023,237611,3909,Male,54,0.25,Married,Follow up,5,120/80,FALSE,0,1,No,No,No,No,Yes,145,79,Otitis Media ,Smoker,Regular,18,25,Cash,No,7,3
+832,8/12/2023,237612,9946,Male,41,0.25,Not married,Check up,1,130/85,FALSE,0,0,No,No,No,No,Yes,132,75,Conjunctivitis ,Non-smoker,Occasional,17,20,Credit card,No,2,8
+833,7/19/2023,237613,4860,Female,61,0.25,Not married,Follow up,2,140/90,FALSE,0,3,Yes,No,Yes,No,Yes,145,65,Sinusitis,Smoker,Never,28,11,Cash,Yes,4,7
+834,8/20/2023,237614,2113,Female,40,0.25,Married,Check up,2,120/80,FALSE,0,0,Yes,No,Yes,Yes,No,144,65,Gastroesophageal Reflux Disease,Smoker,Regular,28,41,Debit card,No,3,7
+835,8/7/2023,237615,4651,Female,27,0.25,Married,Follow up,3,110/70,TRUE,7,3,No,Yes,No,No,Yes,133,66,Peptic Ulcer Disease,Non-smoker,Occasional,23,50,Insurance,No,8,6
+836,7/12/2023,237616,5457,Male,23,0.25,Married,Follow up,2,140/90,FALSE,0,0,Yes,No,Yes,No,No,120,87,Eczema ,Non-smoker,Never,6,40,Cash,No,1,8
+837,7/13/2023,237617,2461,Male,40,0.15,Not married,Follow up,4,120/80,FALSE,0,1,No,No,No,No,No,129,54,Psoriasis,Smoker,Regular,30,28,Debit card,No,5,5
+838,7/8/2023,237618,3475,Male,54,0.65,Not married,Check up,1,130/85,FALSE,14,0,No,No,No,No,No,130,56,Hypothyroidism,Smoker,Occasional,21,32,Credit card,Yes,9,6
+839,7/28/2023,237619,4753,Female,41,0.35,Not married,Check up,3,110/70,FALSE,0,4,No,No,No,Yes,No,156,87,Hyperthyroidism,Non-smoker,Regular,12,26,Cash,No,3,1
+840,7/5/2023,237620,9689,Female,42,0.25,Married,Follow up,1,120/80,TRUE,0,0,Yes,Yes,Yes,No,No,147,74,Anemia,Smoker,Never,11,24,Insurance,No,9,3
+841,8/8/2023,237621,4200,Female,21,0.25,Married,Check up,5,120/80,FALSE,13,3,No,No,No,No,No,177,72,Gastrointestinal Bleeding,Non-smoker,Regular,25,43,Credit card,No,5,1
+842,8/6/2023,237622,6221,Female,53,0.45,Not married,Follow up,4,140/90,FALSE,14,2,No,No,No,No,No,188,53,Celiac Disease,Smoker,Regular,10,10,Cash,Yes,5,2
+843,8/2/2023,237623,3715,Male,49,0.25,Married,Follow up,5,110/70,FALSE,0,2,Yes,No,Yes,No,No,156,51,Irritable Bowel Syndrome,Non-smoker,Never,11,10,Credit card,Yes,8,9
+844,8/27/2023,237624,4003,Male,62,0.15,Not married,Check up,1,130/85,TRUE,0,2,No,No,No,No,No,166,59,Chronic Fatigue Syndrome,Smoker,Occasional,10,36,Insurance,Yes,5,3
+845,8/24/2023,237625,8932,Female,50,0.25,Married,Check up,4,140/90,FALSE,0,1,Yes,No,Yes,No,Yes,65,60,Fibromyalgia,Non-smoker,Regular,6,48,Debit card,Yes,6,7
+846,7/8/2023,237626,1941,Female,54,0.55,Married,Check up,4,120/80,FALSE,0,2,Yes,No,Yes,No,Yes,167,70,Urinary Incontinence,Smoker,Regular,2,48,Cash,Yes,6,1
+847,8/25/2023,237627,2104,Female,37,0.45,Not married,Check up,1,130/85,FALSE,0,0,No,No,No,Yes,No,156,77,Endometriosis,Non-smoker,Occasional,12,35,Credit card,No,4,1
+848,7/16/2023,237628,6525,Female,30,0.25,Not married,Follow up,1,140/90,FALSE,0,1,Yes,Yes,Yes,Yes,Yes,166,87,Polycystic Ovary Syndrome,Smoker,Never,22,46,Cash,Yes,3,9
+849,7/17/2023,237629,8395,Male,33,0.45,Married,Follow up,3,120/80,FALSE,0,1,Yes,Yes,Yes,No,No,167,55,Benign Prostatic Hyperplasia,Smoker,Regular,29,35,Debit card,No,3,4
+850,7/1/2023,237630,9404,Female,30,0.25,Married,Follow up,5,110/70,TRUE,0,2,No,No,No,No,No,154,67,Meningitis,Non-smoker,Occasional,22,38,Insurance,Yes,8,4
+851,8/17/2023,237631,1384,Male,29,0.25,Married,Check up,3,140/90,FALSE,13,6,No,No,No,No,No,143,56,Epilepsy,Non-smoker,Never,7,47,Cash,Yes,4,7
+852,7/15/2023,237632,7365,Male,25,0.15,Not married,Follow up,4,120/80,FALSE,0,3,No,No,No,No,Yes,142,45,Stroke,Smoker,Regular,17,50,Debit card,Yes,8,2
+853,8/7/2023,237633,1331,Female,47,0.25,Not married,Follow up,1,130/85,FALSE,4,0,Yes,No,Yes,No,No,166,87,Chronic Liver Disease,Smoker,Occasional,29,29,Credit card,No,7,5
+854,8/18/2023,237634,7378,Male,33,0.25,Not married,Check up,1,110/70,FALSE,0,0,No,No,No,No,No,145,99,Cirrhosis,Non-smoker,Regular,19,20,Cash,No,3,9
+855,7/12/2023,237635,2193,Female,46,0.25,Married,Follow up,3,120/80,TRUE,0,0,No,No,No,Yes,Yes,167,76,Chronic Pancreatitis,Smoker,Never,28,45,Insurance,No,6,10
+856,7/6/2023,237636,5182,Male,33,0.25,Married,Check up,1,120/80,FALSE,14,11,Yes,Yes,Yes,Yes,No,177,77,Gallstones,Non-smoker,Regular,17,15,Credit card,No,8,2
+857,7/8/2023,237637,7477,Male,62,1.3,Not married,Follow up,1,140/90,FALSE,0,0,No,Yes,No,No,Yes,178,45,Diverticulitis,Smoker,Regular,29,22,Cash,No,8,1
+858,8/23/2023,237638,5336,Female,29,0.25,Married,Check up,1,110/70,FALSE,0,1,Yes,No,Yes,No,Yes,167,81,Deep Vein Thrombosis,Non-smoker,Never,29,27,Credit card,No,6,10
+859,7/19/2023,237639,5543,Male,56,0.25,Not married,Follow up,4,130/85,TRUE,5,0,No,No,No,No,No,167,92,Pulmonary Embolism,Smoker,Occasional,5,27,Insurance,Yes,8,7
+860,8/22/2023,237640,4195,Male,36,0.9,Married,Check up,3,140/90,FALSE,0,0,No,No,No,No,Yes,155,82,Hypertensive Heart Disease,Non-smoker,Regular,8,44,Debit card,No,6,5
+861,7/19/2023,237641,9715,Male,48,0.25,Married,Follow up,2,120/80,FALSE,0,0,No,No,No,Yes,Yes,157,76,Hypertension,Smoker,Regular,2,46,Cash,No,1,9
+862,7/5/2023,237642,2924,Female,45,0.25,Not married,Follow up,2,130/85,FALSE,0,2,No,Yes,No,No,No,145,86,Diabetes,Non-smoker,Occasional,29,12,Credit card,Yes,5,10
+863,7/11/2023,237643,7845,Female,43,0.25,Not married,Follow up,3,140/90,FALSE,0,2,Yes,No,Yes,Yes,No,190,88,Common cold,Smoker,Never,14,38,Cash,Yes,9,9
+864,8/6/2023,237644,7178,Female,25,0.25,Married,Check up,1,120/80,FALSE,3,2,Yes,Yes,Yes,No,No,188,83,Arthritis,Smoker,Regular,5,15,Debit card,Yes,3,6
+865,8/27/2023,237645,4163,Male,54,0.25,Married,Check up,3,110/70,TRUE,0,1,No,No,No,Yes,Yes,187,81,Allergies,Non-smoker,Occasional,28,15,Insurance,Yes,8,1
+866,8/13/2023,237646,7436,Male,50,0.25,Married,Check up,5,140/90,FALSE,14,5,No,Yes,No,Yes,No,186,92,Headache,Non-smoker,Never,9,37,Cash,Yes,7,1
+867,8/12/2023,237647,2274,Female,46,0.25,Not married,Check up,2,120/80,FALSE,14,4,No,Yes,No,Yes,No,176,99,Fever,Smoker,Regular,26,24,Debit card,Yes,3,7
+868,7/3/2023,237648,5305,Female,38,0.25,Not married,Follow up,3,130/85,FALSE,14,2,Yes,Yes,Yes,Yes,Yes,166,43,Allergies,Smoker,Occasional,5,23,Credit card,Yes,1,4
+869,7/1/2023,237649,5695,Female,22,0.35,Not married,Check up,1,110/70,FALSE,0,0,No,Yes,No,Yes,No,165,64,Headache,Non-smoker,Regular,20,32,Cash,No,9,9
+870,7/28/2023,237650,6051,Male,47,0.25,Married,Follow up,1,120/80,TRUE,2,0,Yes,Yes,Yes,No,Yes,155,72,Diabetes,Smoker,Never,20,40,Insurance,No,1,10
+871,7/24/2023,237651,5307,Male,47,0.25,Married,Check up,3,120/80,FALSE,0,4,No,No,No,No,No,160,88,Common cold,Non-smoker,Regular,1,49,Credit card,Yes,3,2
+872,7/25/2023,237652,7767,Male,46,0.25,Not married,Follow up,2,140/90,FALSE,0,1,Yes,No,Yes,No,No,155,43,Allergies,Smoker,Regular,30,26,Cash,No,6,2
+873,8/11/2023,237653,1034,Female,52,0.25,Married,Check up,5,110/70,FALSE,14,3,Yes,No,Yes,No,No,144,65,Fever,Non-smoker,Never,17,20,Credit card,Yes,3,3
+874,8/23/2023,237654,2834,Female,30,0.25,Not married,Check up,4,130/85,TRUE,0,5,No,No,No,No,No,164,86,Headache,Smoker,Occasional,25,23,Insurance,Yes,5,1
+875,7/12/2023,237655,4622,Male,33,0.25,Married,Follow up,3,140/90,FALSE,0,0,No,No,No,No,Yes,177,99,Diabetes,Non-smoker,Regular,22,19,Debit card,No,1,2
+876,8/10/2023,237656,4736,Male,65,0.35,Married,Check up,3,120/80,FALSE,14,6,No,No,No,Yes,Yes,156,100,Common Cold,Smoker,Regular,21,26,Cash,No,3,7
+877,7/24/2023,237657,1759,Female,59,0.25,Not married,Check up,2,130/85,FALSE,0,5,No,Yes,No,No,No,158,40,Influenza (Flu),Non-smoker,Occasional,17,18,Credit card,Yes,8,5
+878,7/8/2023,237658,7679,Female,56,0.35,Not married,Follow up,3,140/90,FALSE,0,1,No,No,No,Yes,No,147,70,Pneumonia,Smoker,Never,18,50,Cash,No,4,8
+879,8/20/2023,237659,8014,Male,49,0.25,Married,Check up,2,120/80,FALSE,14,1,No,Yes,No,No,No,173,78,Bronchitis,Smoker,Regular,19,49,Debit card,No,5,5
+880,8/13/2023,237660,3060,Male,61,0.25,Married,Check up,3,110/70,TRUE,0,1,Yes,No,Yes,No,Yes,180,79,Urinary Tract Infection,Non-smoker,Occasional,20,33,Insurance,No,2,7
+881,8/21/2023,237661,6116,Male,45,0.55,Married,Follow up,5,140/90,FALSE,14,3,Yes,No,Yes,Yes,No,144,75,Gastroenteritis,Non-smoker,Never,1,41,Cash,No,3,10
+882,8/29/2023,237662,7037,Female,49,0.25,Not married,Follow up,5,120/80,FALSE,14,0,No,Yes,No,No,Yes,140,65,Gastric Ulcer,Smoker,Regular,27,22,Debit card,Yes,1,2
+883,8/17/2023,237663,4667,Female,43,0.45,Not married,Check up,1,130/85,FALSE,0,0,No,No,No,Yes,No,173,65,Hyperlipidemia ,Smoker,Occasional,1,15,Credit card,No,5,1
+884,8/9/2023,237664,3979,Female,27,0.25,Not married,Follow up,2,110/70,FALSE,14,6,No,Yes,No,Yes,Yes,155,66,Diabetes Mellitus,Non-smoker,Regular,1,33,Cash,No,8,6
+885,7/13/2023,237665,7425,Male,22,0.25,Married,Check up,1,120/80,TRUE,0,0,No,Yes,No,Yes,Yes,156,87,Hyperlipidemia ,Smoker,Never,1,49,Insurance,Yes,6,7
+886,8/21/2023,237666,7416,Male,29,0.25,Married,Follow up,1,120/80,FALSE,1,1,Yes,Yes,Yes,No,No,123,54,Osteoarthritis,Non-smoker,Regular,27,16,Credit card,No,4,1
+887,8/21/2023,237667,4139,Male,55,0.25,Not married,Follow up,1,140/90,FALSE,0,0,No,No,No,Yes,No,134,56,Common Cold ,Smoker,Regular,29,12,Cash,Yes,6,3
+888,8/22/2023,237668,5525,Female,43,0.45,Married,Follow up,2,110/70,FALSE,0,0,Yes,Yes,Yes,No,No,113,87,Influenza (Flu),Non-smoker,Never,1,30,Credit card,No,3,7
+889,8/15/2023,237669,9131,Female,40,0.25,Not married,Check up,1,130/85,TRUE,0,0,No,No,No,No,No,145,74,Pneumonia,Smoker,Occasional,30,50,Insurance,No,4,9
+890,7/8/2023,237670,1145,Female,65,0.25,Married,Check up,2,140/90,FALSE,0,0,Yes,No,Yes,No,No,132,72,Bronchitis,Non-smoker,Regular,29,33,Debit card,Yes,4,2
+891,8/4/2023,237671,2964,Female,26,0.25,Married,Follow up,4,120/80,FALSE,0,3,Yes,No,Yes,No,No,145,53,Urinary Tract Infection (UTI),Smoker,Regular,9,19,Cash,Yes,4,4
+892,7/29/2023,237672,1243,Male,37,0.25,Not married,Check up,1,130/85,FALSE,0,2,Yes,No,Yes,No,Yes,144,51,Gastroenteritis,Non-smoker,Occasional,28,36,Credit card,No,5,7
+893,8/2/2023,237673,4446,Male,41,0.25,Not married,Follow up,2,140/90,FALSE,0,0,Yes,No,Yes,No,Yes,133,59,Gastric Ulcer,Smoker,Never,13,27,Cash,Yes,8,7
+894,7/10/2023,237674,9660,Female,25,0.25,Married,Follow up,1,120/80,FALSE,0,0,Yes,No,Yes,No,No,120,60,Gastroenteritis,Smoker,Regular,20,49,Debit card,No,7,2
+895,7/17/2023,237675,2598,Female,27,0.25,Married,Check up,4,110/70,TRUE,3,0,No,No,No,No,No,129,70,Diabetes Mellitus,Non-smoker,Occasional,19,29,Insurance,No,6,3
+896,8/9/2023,237676,5379,Female,41,0.25,Married,Check up,1,140/90,FALSE,0,0,No,No,No,No,No,130,77,Hyperlipidemia ,Non-smoker,Never,8,42,Cash,No,4,6
+897,8/29/2023,237677,5927,Female,47,0.25,Not married,Check up,1,120/80,FALSE,0,0,No,No,No,No,No,156,87,Osteoarthritis,Smoker,Regular,28,42,Debit card,No,3,7
+898,7/5/2023,237678,7223,Male,53,0.35,Not married,Check up,1,130/85,FALSE,0,0,No,No,No,Yes,Yes,147,55,Rheumatoid Arthritis,Smoker,Occasional,16,20,Credit card,Yes,1,4
+899,8/30/2023,237679,9873,Female,37,0.55,Not married,Follow up,2,110/70,FALSE,2,0,No,Yes,No,No,No,177,67,Asthma,Non-smoker,Regular,13,43,Cash,Yes,3,10
+900,8/14/2023,237680,5890,Male,47,0.25,Married,Follow up,2,120/80,TRUE,0,0,No,No,No,No,Yes,188,56,Allergic Rhinitis,Smoker,Never,27,22,Insurance,No,4,3
+901,7/10/2023,237681,9124,Male,38,0.25,Married,Follow up,4,120/80,FALSE,14,7,Yes,No,Yes,No,No,156,45,Migraine Headache,Non-smoker,Regular,8,10,Credit card,Yes,1,8
+902,8/3/2023,237682,5694,Female,25,0.55,Not married,Check up,5,140/90,FALSE,14,3,No,No,No,No,Yes,166,87,Depression,Smoker,Regular,29,14,Cash,Yes,3,6
+903,8/20/2023,237683,1163,Male,27,0.45,Married,Follow up,5,110/70,FALSE,6,1,Yes,No,Yes,Yes,Yes,65,99,Anxiety Disorder,Non-smoker,Never,18,39,Credit card,No,4,3
+904,7/25/2023,237684,8735,Female,33,0.35,Not married,Follow up,4,130/85,TRUE,0,5,No,Yes,No,No,Yes,167,76,Gastroesophageal Reflux Disease,Smoker,Occasional,10,34,Insurance,No,6,6
+905,8/14/2023,237685,3915,Male,31,0.35,Married,Check up,5,140/90,FALSE,0,1,No,No,No,No,Yes,156,77,Peptic Ulcer Disease,Non-smoker,Regular,25,39,Debit card,No,5,6
+906,7/14/2023,237686,3953,Male,62,0.25,Married,Follow up,5,120/80,FALSE,0,0,Yes,No,Yes,No,Yes,166,45,Coronary Artery Disease,Smoker,Regular,9,29,Cash,No,3,8
+907,8/21/2023,237687,9270,Female,31,0.25,Not married,Check up,4,130/85,FALSE,0,0,No,No,No,No,No,167,81,Chronic Obstructive Pulmonary Disease,Non-smoker,Occasional,18,20,Credit card,Yes,7,8
+908,7/13/2023,237688,4974,Male,55,0.45,Not married,Follow up,1,140/90,FALSE,6,0,Yes,No,Yes,No,No,154,92,Iron-deficiency Anemia,Smoker,Never,10,12,Cash,No,5,7
+909,8/6/2023,237689,1201,Male,61,0.25,Married,Check up,3,120/80,FALSE,14,0,Yes,No,Yes,No,No,143,82,Hypothyroidism,Smoker,Regular,24,19,Debit card,Yes,5,2
+910,8/15/2023,237690,5492,Male,52,0.25,Married,Follow up,5,110/70,TRUE,14,0,Yes,No,Yes,No,No,142,76,Hyperthyroidism,Non-smoker,Occasional,23,13,Insurance,No,7,2
+911,8/7/2023,237691,1453,Female,59,0.25,Married,Check up,2,140/90,FALSE,0,1,No,No,No,Yes,No,166,86,Urinary Stones ,Non-smoker,Never,25,18,Cash,No,3,4
+912,7/4/2023,237692,1965,Female,57,0.25,Not married,Follow up,3,120/80,FALSE,0,0,Yes,Yes,Yes,Yes,No,145,88,Gout,Smoker,Regular,20,36,Debit card,Yes,4,2
+913,8/29/2023,237693,1400,Female,62,0.25,Not married,Follow up,2,130/85,FALSE,0,5,No,Yes,No,No,Yes,167,83,Chronic Kidney Disease,Smoker,Occasional,5,10,Credit card,No,7,6
+914,7/1/2023,237694,2899,Male,48,0.35,Not married,Follow up,2,110/70,FALSE,5,3,No,No,No,No,No,177,81,Appendicitis,Non-smoker,Regular,30,39,Cash,Yes,3,5
+915,8/5/2023,237695,3572,Male,28,0.25,Married,Check up,1,120/80,TRUE,0,0,No,No,No,No,Yes,178,92,Acute Myocardial Infarction ,Smoker,Never,14,12,Insurance,No,4,3
+916,8/18/2023,237696,3852,Female,65,0.25,Married,Check up,3,120/80,FALSE,14,1,No,No,No,No,No,167,99,Inflammatory Bowel Disease,Non-smoker,Regular,9,37,Credit card,No,4,9
+917,8/30/2023,237697,8640,Female,27,0.15,Not married,Check up,3,140/90,FALSE,0,1,No,No,No,No,No,167,43,Otitis Media ,Smoker,Regular,13,47,Cash,No,4,7
+918,7/6/2023,237698,7381,Female,42,0.25,Married,Check up,3,110/70,FALSE,0,0,No,No,No,No,Yes,155,64,Conjunctivitis ,Non-smoker,Never,19,31,Credit card,Yes,9,8
+919,8/14/2023,237699,4993,Male,41,0.35,Not married,Follow up,4,130/85,TRUE,0,1,No,No,No,Yes,No,157,72,Sinusitis,Smoker,Occasional,2,21,Insurance,No,2,9
+920,7/8/2023,237700,9872,Male,25,0.25,Married,Check up,2,140/90,FALSE,0,1,No,Yes,No,Yes,Yes,145,88,Gastroesophageal Reflux Disease,Non-smoker,Regular,20,34,Debit card,Yes,5,10
+921,7/13/2023,237701,1248,Male,60,0.25,Married,Follow up,3,120/80,FALSE,0,0,No,Yes,No,No,Yes,190,43,Peptic Ulcer Disease,Smoker,Regular,30,34,Cash,No,8,9
+922,7/12/2023,237702,5035,Female,25,0.25,Not married,Check up,3,130/85,FALSE,2,1,Yes,No,Yes,No,Yes,188,65,Eczema ,Non-smoker,Occasional,11,38,Credit card,No,8,2
+923,8/4/2023,237703,4893,Female,42,0.35,Not married,Follow up,5,140/90,FALSE,0,0,Yes,No,Yes,No,No,187,86,Psoriasis,Smoker,Never,12,20,Cash,Yes,2,5
+924,7/21/2023,237704,4399,Male,32,0.35,Married,Check up,5,120/80,FALSE,7,1,No,No,No,No,Yes,186,99,Hypothyroidism,Smoker,Regular,7,41,Debit card,Yes,7,10
+925,8/6/2023,237705,8394,Male,41,0.25,Married,Check up,1,110/70,TRUE,0,1,Yes,No,Yes,Yes,No,176,100,Hyperthyroidism,Non-smoker,Occasional,20,17,Insurance,Yes,8,9
+926,7/11/2023,237706,3719,Female,56,0.25,Married,Follow up,1,140/90,FALSE,1,0,No,Yes,No,No,No,166,40,Anemia,Non-smoker,Never,26,28,Cash,No,3,10
+927,7/17/2023,237707,2747,Female,23,0.25,Not married,Check up,5,120/80,FALSE,0,0,No,No,No,Yes,No,165,70,Gastrointestinal Bleeding,Smoker,Regular,26,21,Debit card,Yes,7,7
+928,7/10/2023,237708,7392,Male,37,0.25,Not married,Check up,3,130/85,FALSE,0,0,No,Yes,No,No,No,155,78,Celiac Disease,Smoker,Occasional,24,37,Credit card,Yes,1,5
+929,8/24/2023,237709,3664,Male,56,0.35,Not married,Follow up,5,110/70,FALSE,0,5,Yes,No,Yes,Yes,No,160,79,Irritable Bowel Syndrome,Non-smoker,Regular,18,35,Cash,No,3,4
+930,7/22/2023,237710,9658,Male,54,0.25,Married,Check up,4,120/80,TRUE,14,6,No,Yes,No,Yes,No,155,75,Chronic Fatigue Syndrome,Smoker,Never,23,47,Insurance,Yes,6,3
+931,8/2/2023,237711,4526,Female,56,0.45,Married,Check up,5,120/80,FALSE,0,1,No,Yes,No,Yes,No,144,65,Fibromyalgia,Non-smoker,Regular,14,29,Credit card,No,4,10
+932,8/15/2023,237712,4756,Female,42,0.25,Not married,Follow up,3,140/90,FALSE,0,1,Yes,Yes,Yes,Yes,No,164,65,Urinary Incontinence,Smoker,Regular,16,40,Cash,Yes,8,7
+933,7/24/2023,237713,7629,Female,34,0.25,Married,Follow up,4,110/70,FALSE,0,0,No,Yes,No,Yes,No,177,66,Endometriosis,Non-smoker,Never,15,12,Credit card,No,5,1
+934,8/8/2023,237714,3700,Male,54,0.65,Not married,Check up,5,130/85,TRUE,0,3,Yes,Yes,Yes,No,Yes,156,87,Polycystic Ovary Syndrome,Smoker,Occasional,18,41,Insurance,No,2,1
+935,7/21/2023,237715,5196,Male,48,0.35,Married,Follow up,5,140/90,FALSE,0,2,Yes,No,Yes,No,Yes,158,54,Benign Prostatic Hyperplasia,Non-smoker,Regular,4,16,Debit card,No,8,7
+936,7/10/2023,237716,1997,Male,23,0.15,Married,Check up,2,120/80,FALSE,0,1,No,No,No,No,No,147,56,Meningitis,Smoker,Regular,29,44,Cash,No,7,5
+937,7/11/2023,237717,7539,Female,56,0.25,Not married,Follow up,1,130/85,FALSE,0,1,Yes,No,Yes,No,Yes,173,87,Epilepsy,Non-smoker,Occasional,18,27,Credit card,No,4,9
+938,7/7/2023,237718,9840,Female,28,0.25,Not married,Follow up,4,140/90,FALSE,10,0,Yes,No,Yes,No,No,180,74,Stroke,Smoker,Never,3,20,Cash,No,8,10
+939,7/9/2023,237719,5190,Female,24,0.25,Married,Follow up,1,120/80,FALSE,0,0,No,No,No,No,No,144,72,Chronic Liver Disease,Smoker,Regular,7,17,Debit card,No,8,10
+940,7/31/2023,237720,7492,Female,38,0.45,Married,Check up,2,110/70,TRUE,0,0,No,No,No,Yes,No,140,53,Cirrhosis,Non-smoker,Occasional,9,11,Insurance,No,7,5
+941,7/4/2023,237721,9184,Male,49,0.25,Married,Check up,3,140/90,FALSE,0,0,No,Yes,No,No,Yes,173,51,Chronic Pancreatitis,Non-smoker,Never,13,12,Cash,Yes,1,5
+942,7/17/2023,237722,5979,Male,48,0.65,Not married,Follow up,1,120/80,FALSE,0,1,Yes,No,Yes,Yes,No,155,59,Gallstones,Smoker,Regular,26,39,Debit card,Yes,8,3
+943,7/6/2023,237723,4325,Female,31,0.25,Not married,Check up,1,130/85,FALSE,0,0,No,Yes,No,No,No,156,60,Diverticulitis,Smoker,Occasional,7,30,Credit card,Yes,2,3
+944,8/20/2023,237724,5097,Female,28,0.35,Not married,Follow up,4,110/70,FALSE,0,0,No,No,No,No,Yes,123,70,Deep Vein Thrombosis,Non-smoker,Regular,4,26,Cash,No,8,8
+945,7/13/2023,237725,4490,Female,32,0.25,Married,Follow up,5,120/80,TRUE,0,0,Yes,No,Yes,Yes,No,134,77,Pulmonary Embolism,Smoker,Never,12,49,Insurance,Yes,8,4
+946,8/3/2023,237726,3738,Female,42,0.25,Married,Check up,3,120/80,FALSE,2,0,No,Yes,No,No,Yes,113,87,Hypertensive Heart Disease,Non-smoker,Regular,29,28,Credit card,Yes,7,9
+947,7/30/2023,237727,8791,Male,58,0.25,Not married,Check up,1,140/90,FALSE,14,0,Yes,No,Yes,Yes,Yes,145,55,Hypertension,Smoker,Regular,6,44,Cash,Yes,2,3
+948,7/1/2023,237728,3027,Female,61,0.35,Married,Check up,4,110/70,FALSE,14,6,No,Yes,No,Yes,No,132,67,Diabetes,Non-smoker,Never,19,28,Credit card,Yes,9,5
+949,7/15/2023,237729,4758,Male,27,0.25,Not married,Check up,2,130/85,TRUE,14,0,No,Yes,No,Yes,Yes,145,56,Common cold,Smoker,Occasional,9,38,Insurance,No,5,7
+950,8/18/2023,237730,3661,Male,38,0.25,Married,Follow up,4,140/90,FALSE,0,10,No,Yes,No,No,Yes,144,45,Arthritis,Non-smoker,Regular,1,15,Debit card,Yes,1,8
+951,8/10/2023,237731,2703,Female,28,0.25,Married,Follow up,5,120/80,FALSE,0,1,No,No,No,Yes,No,133,87,Allergies,Smoker,Regular,25,33,Cash,No,1,9
+952,8/19/2023,237732,1348,Male,41,0.25,Not married,Follow up,2,130/85,FALSE,0,0,Yes,Yes,Yes,No,No,120,99,Headache,Non-smoker,Occasional,3,30,Credit card,No,8,3
+953,7/18/2023,237733,8054,Female,21,0.25,Not married,Check up,3,140/90,FALSE,0,1,Yes,No,Yes,No,No,129,76,Fever,Smoker,Never,17,20,Cash,No,2,4
+954,8/7/2023,237734,5501,Male,31,0.9,Married,Follow up,2,120/80,FALSE,14,4,No,No,No,No,Yes,130,77,Allergies,Smoker,Regular,15,29,Debit card,Yes,8,5
+955,7/6/2023,237735,3477,Male,58,0.45,Married,Follow up,2,110/70,TRUE,0,0,No,No,No,No,No,156,45,Headache,Non-smoker,Occasional,29,33,Insurance,No,6,4
+956,8/7/2023,237736,1289,Female,32,0.55,Married,Check up,3,140/90,FALSE,0,0,No,No,No,No,No,147,81,Diabetes,Non-smoker,Never,5,45,Cash,No,9,4
+957,7/31/2023,237737,7174,Male,42,0.25,Not married,Follow up,3,120/80,FALSE,0,3,Yes,No,Yes,No,Yes,177,92,Common cold,Smoker,Regular,2,42,Debit card,Yes,3,1
+958,7/20/2023,237738,2564,Male,46,0.15,Not married,Check up,2,130/85,FALSE,0,3,No,No,No,No,No,188,82,Allergies,Smoker,Occasional,17,31,Credit card,No,8,9
+959,7/13/2023,237739,8074,Male,35,0.25,Not married,Follow up,4,110/70,FALSE,0,2,Yes,No,Yes,No,Yes,156,76,Fever,Non-smoker,Regular,21,49,Cash,No,9,10
+960,8/26/2023,237740,6394,Female,44,0.25,Married,Check up,1,120/80,TRUE,14,1,No,No,No,No,No,166,86,Headache,Smoker,Never,7,16,Insurance,No,3,2
+961,7/4/2023,237741,5579,Female,24,0.45,Married,Follow up,2,120/80,FALSE,0,0,Yes,No,Yes,No,No,65,88,Diabetes,Non-smoker,Regular,6,21,Credit card,No,9,8
+962,7/18/2023,237742,1715,Female,57,0.25,Not married,Check up,4,140/90,FALSE,0,0,yes,No,yes,Yes,No,167,83,Common Cold,Smoker,Regular,13,17,Cash,Yes,3,10
+963,7/27/2023,237743,3159,Male,55,0.55,Married,Follow up,5,110/70,FALSE,10,7,No,Yes,No,No,No,156,81,Influenza (Flu),Non-smoker,Never,15,48,Credit card,Yes,1,8
+964,7/10/2023,237744,2390,Male,45,0.65,Not married,Follow up,3,130/85,TRUE,0,10,No,No,No,No,Yes,166,92,Pneumonia,Smoker,Occasional,27,36,Insurance,No,8,1
+965,8/2/2023,237745,1635,Female,58,0.55,Married,Follow up,1,140/90,FALSE,0,1,Yes,No,Yes,No,Yes,167,99,Bronchitis,Non-smoker,Regular,11,40,Debit card,Yes,7,2
+966,7/13/2023,237746,9340,Female,26,0.55,Married,Check up,4,120/80,FALSE,0,0,Yes,No,Yes,No,No,154,43,Urinary Tract Infection,Smoker,Regular,25,46,Cash,Yes,9,2
+967,7/31/2023,237747,4170,Female,58,0.25,Not married,Check up,1,130/85,FALSE,14,2,No,No,No,Yes,No,143,64,Gastroenteritis,Non-smoker,Occasional,2,29,Credit card,Yes,7,4
+968,7/15/2023,237748,6442,Male,43,0.25,Not married,Check up,5,140/90,FALSE,7,1,Yes,Yes,Yes,No,No,142,72,Gastric Ulcer,Smoker,Never,19,16,Cash,Yes,4,8
+969,8/17/2023,237749,7351,Male,33,0.45,Married,Check up,1,120/80,FALSE,0,0,No,No,No,No,Yes,166,88,Hyperlipidemia ,Smoker,Regular,28,22,Debit card,Yes,5,1
+970,7/12/2023,237750,6948,Male,33,0.35,Married,Follow up,5,110/70,TRUE,0,2,Yes,No,Yes,No,No,145,43,Diabetes Mellitus,Non-smoker,Occasional,13,15,Insurance,No,2,2
+971,7/6/2023,237751,7347,Female,56,0.35,Married,Check up,4,140/90,FALSE,13,4,yes,No,yes,No,Yes,167,65,Hyperlipidemia ,Non-smoker,Never,5,24,Cash,Yes,2,8
+972,7/20/2023,237752,1698,Female,24,0.25,Not married,Follow up,1,120/80,FALSE,0,0,yes,No,yes,No,No,177,86,Osteoarthritis,Smoker,Regular,28,16,Debit card,Yes,6,6
+973,7/7/2023,237753,7145,Male,22,0.25,Not married,Check up,3,130/85,FALSE,0,0,Yes,No,Yes,No,Yes,178,99,Common Cold ,Smoker,Occasional,7,35,Credit card,Yes,8,1
+974,7/5/2023,237754,5254,Male,25,0.25,Not married,Follow up,1,110/70,FALSE,0,0,Yes,No,Yes,No,yes,167,100,Influenza (Flu),Non-smoker,Regular,8,19,Cash,Yes,5,8
+975,7/8/2023,237755,3776,Female,36,0.25,Married,Check up,2,120/80,TRUE,0,0,No,No,No,Yes,No,167,40,Pneumonia,Smoker,Never,9,12,Insurance,No,4,1
+976,8/16/2023,237756,2631,Female,36,0.25,Married,Check up,4,120/80,FALSE,14,12,No,Yes,No,Yes,No,155,70,Bronchitis,Non-smoker,Regular,20,15,Credit card,No,8,9
+977,7/8/2023,237757,6610,Male,32,0.75,Not married,Follow up,1,140/90,FALSE,0,1,No,Yes,No,No,Yes,157,78,Urinary Tract Infection (UTI),Smoker,Regular,11,37,Cash,No,6,2
+978,7/20/2023,237758,6658,Male,48,0.35,Married,Check up,3,110/70,FALSE,0,4,No,No,No,No,Yes,145,79,Gastroenteritis,Non-smoker,Never,17,16,Credit card,No,3,10
+979,8/17/2023,237759,3962,Male,32,0.25,Not married,Check up,3,130/85,TRUE,0,2,No,No,No,No,No,190,75,Gastric Ulcer,Smoker,Occasional,1,29,Insurance,No,8,9
+980,7/7/2023,237760,1511,Female,38,0.25,Married,Follow up,3,140/90,FALSE,0,5,No,No,No,No,Yes,188,65,Gastroenteritis,Non-smoker,Regular,9,33,Debit card,No,1,7
+981,8/22/2023,237761,3421,Female,56,0.25,Married,Check up,2,120/80,FALSE,0,2,Yes,No,Yes,No,No,187,65,Diabetes Mellitus,Smoker,Regular,2,46,Cash,Yes,3,1
+982,8/25/2023,237762,1277,Female,59,0.25,Not married,Check up,3,130/85,FALSE,0,2,Yes,No,Yes,No,Yes,186,66,Hyperlipidemia ,Non-smoker,Occasional,25,22,Credit card,Yes,9,8
+983,8/21/2023,237763,9683,Male,41,0.25,Not married,Follow up,2,140/90,FALSE,0,1,No,No,No,Yes,yes,176,87,Osteoarthritis,Smoker,Never,12,15,Cash,Yes,5,6
+984,7/14/2023,237764,5896,Male,39,0.25,Married,Follow up,4,120/80,FALSE,5,2,No,Yes,No,Yes,yes,166,54,Rheumatoid Arthritis,Smoker,Regular,26,41,Debit card,No,4,4
+985,8/7/2023,237765,9864,Male,62,0.25,Married,Check up,2,110/70,TRUE,0,0,No,Yes,No,No,Yes,165,56,Asthma,Non-smoker,Occasional,7,17,Insurance,Yes,4,7
+986,8/1/2023,237766,3783,Female,57,0.75,Married,Follow up,1,140/90,FALSE,0,2,No,No,No,No,Yes,155,87,Allergic Rhinitis,Non-smoker,Never,28,45,Cash,No,9,10
+987,8/27/2023,237767,2220,Female,49,0.25,Not married,Check up,2,120/80,FALSE,0,1,Yes,No,Yes,No,No,160,74,Migraine Headache,Smoker,Regular,1,37,Debit card,Yes,1,4
+988,8/7/2023,237768,5126,Female,59,0.25,Not married,Follow up,2,130/85,FALSE,0,0,No,No,No,No,No,155,72,Depression,Smoker,Occasional,17,35,Credit card,No,5,10
+989,7/12/2023,237769,5934,Female,28,0.9,Not married,Follow up,1,110/70,FALSE,0,0,Yes,No,Yes,Yes,No,144,53,Anxiety Disorder,Non-smoker,Regular,12,18,Cash,No,8,7
+990,7/16/2023,237770,6916,Male,38,0.25,Married,Follow up,1,120/80,TRUE,0,0,No,Yes,No,No,No,164,51,Gastroesophageal Reflux Disease,Smoker,Never,10,14,Insurance,No,7,5
+991,7/4/2023,237771,1450,Male,48,0.25,Married,Check up,1,120/80,FALSE,0,1,Yes,No,Yes,Yes,No,177,59,Peptic Ulcer Disease,Non-smoker,Regular,24,27,Credit card,Yes,3,1
+992,8/27/2023,237772,1471,Female,23,0.25,Not married,Check up,3,140/90,FALSE,0,0,Yes,Yes,Yes,No,No,156,60,Coronary Artery Disease,Smoker,Regular,5,50,Cash,Yes,5,6
+993,7/17/2023,237773,4341,Female,34,0.35,Married,Follow up,3,110/70,FALSE,0,3,Yes,No,Yes,Yes,Yes,158,70,Chronic Obstructive Pulmonary Disease,Non-smoker,Never,1,38,Credit card,Yes,3,9
+994,8/4/2023,237774,5689,Female,31,0.35,Not married,Check up,2,130/85,TRUE,14,2,Yes,Yes,Yes,Yes,Yes,147,77,Iron-deficiency Anemia,Smoker,Occasional,13,18,Insurance,No,5,4
+995,8/21/2023,237775,5998,Female,46,0.9,Married,Follow up,2,140/90,FALSE,0,1,Yes,Yes,Yes,Yes,No,173,87,Hypothyroidism,Smoker,Regular,8,13,Debit card,Yes,4,6
+996,8/4/2023,237776,5413,Male,42,0.25,Married,Follow up,3,120/80,FALSE,0,1,No,Yes,No,Yes,No,180,55,Hyperthyroidism,Non-smoker,Regular,30,18,Cash,Yes,8,6
+997,7/18/2023,237777,9266,Female,42,0.35,Not married,Check up,3,130/85,FALSE,0,0,No,Yes,No,Yes,No,144,67,Urinary Stones ,Non-smoker,Occasional,1,26,Credit card,No,4,4
+998,8/30/2023,237778,5463,Male,55,0.25,Not married,Check up,4,140/90,FALSE,4,0,No,Yes,No,No,No,140,56,Gout,Smoker,Never,28,27,Cash,No,1,4
+999,8/3/2023,237779,9219,Male,41,0.25,Married,Check up,4,120/80,FALSE,0,8,No,No,No,No,Yes,173,45,Chronic Kidney Disease,Smoker,Regular,17,30,Debit card,Yes,2,5
+1000,7/22/2023,237780,3192,Female,48,0.35,Married,Check up,4,110/70,TRUE,2,0,No,No,No,Yes,No,166,87,Appendicitis,Non-smoker,Occasional,23,24,Insurance,Yes,5,2
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
